@@ -258,6 +258,8 @@ for phone_json in phone_stenos:
          accum_phone_json = next_accum
 p = re.compile(r'([AOEU])-')
 jsontxt = p.sub(r'\1',jsontxt)
+with open('steno.json', 'w') as file:
+   file.write('{\n'+jsontxt[:-2].replace('"U/','"*U/').replace('"A/','"A*/').replace('/U/','/*U/').replace('/A/','/A*/').replace('/U"','/*U"').replace('/A"','/A*"')+'\n}')
 help_pairs = [[x for x in re.split('[":, ]', line) if x != ''] for line in jsontxt.replace('{^','').split('\n') if line != '' and re.search(r'"[A-Z\/-]*": "[a-z\']*"',line) != None]
 helps = {}
 for help_pair in help_pairs:
@@ -268,8 +270,6 @@ for help_pair in help_pairs:
 helptxt = ''
 for h in helps:
    helptxt += '"SKW/' + '/'.join([spell_units[c.lower()] for c in h]) + '/SKW": "{^' + '='.join(helps[h]) + '^}",\n'
-with open('steno.json', 'w') as file:
-   file.write('{\n'+jsontxt[:-2]+'\n}')
 with open('help.json', 'w') as file:
    file.write('{\n'+helptxt[:-2]+'\n}')
 shortutstxt = ''
