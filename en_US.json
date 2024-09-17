@@ -533,7 +533,7 @@ accountable:2\k(n2b2l,2\k(nt2b2l
 accountancy:2\k(nt2nsi
 accountant:2\k(nt2nt
 accountants:2\k(nt2nts
-accountants':2\k(nt2nts
+accountants:2\k(nt2nts
 accounted:2\k(n2d,2\k(nt!d
 accountemp:2\k(n|temp
 accountemps:2\k(n|temps
@@ -638,7 +638,7 @@ achieves:2\$ivz
 achieving:2\$iv!=
 achille:2\k!li
 achilles:2\k!liz
-achilles':2\k!liz
+achilles:2\k!liz
 aching:\*k!=
 achingly:\*k!=li
 achmed:\ohmed
@@ -783,7 +783,7 @@ activision:\%kt!|v!32n
 activism:\%kt!|v!z2m
 activist:\%kt2v2st,\%kt!v!st
 activists:\%kt2v2sts,\%kt!v!sts
-activists':\%kt!v!sts
+activists:\%kt!v!sts
 activities:%k\t!v2tiz,%k\t!v!tiz
 activity:%k\t!v2ti,%k\t!v!ti
 actmedia:%kt\midi2
@@ -791,7 +791,7 @@ actodine:\%kt[|d)n
 acton:\%kt2n
 actor:\%kt&
 actors:\%kt&z
-actors':\%kt&z
+actors:\%kt&z
 actress:\%ktr2s
 actresses:\%ktr2s!z
 acts:\%ks,\%kts
@@ -854,7 +854,7 @@ adamkus:\%d2mk2s
 adamo:o\dom[
 adamowicz:2\dom2v!$
 adams:\%d2mz
-adams':\%d2mz
+adams:\%d2mz
 adamski:2\d%m|ski
 adamson:\%d2ms2n
 adamstown:\%d2m|st(n
@@ -901,7 +901,7 @@ addictions:2\d!k12nz
 addictive:2\d!kt!v
 addicts:\%|d!kts,2\d!kts
 addidas:2\did2s
-addidas':2\did2s
+addidas:2\did2s
 addidases:2\did2s!z
 addie:\%di
 adding:\%d!=
@@ -1049,12 +1049,12 @@ administrate:%d\m!n!|str*t
 administrating:2d\m!n2|str*t!=
 administration:%d|m!n!\str*12n
 administrations:%d|m!n!\str*12nz
-administrations':%d|m!n!\str*12nz
+administrations:%d|m!n!\str*12nz
 administrative:2d\m!n2|str*t!v
 administratively:%d|m!n2\str*t!vli
 administrator:2d\m!n2|str*t&
 administrators:%d\m!n!|str*t&z
-administrators':%d\m!n2|str*t&z
+administrators:%d\m!n2|str*t&z
 admins:\%dm!nz,2d\m!nz
 admira:%d\m)r2
 admirable:\%dm&2b2l,\%dmr2b2l
@@ -1155,7 +1155,7 @@ adrift:2\dr!ft
 adroit:2\dr]t
 adroitly:2\dr]tli
 ads:\%dz
-ads':\%dz
+ads:\%dz
 adsit:\%ds!t
 adsl:|*|di|e\sel
 adsorption:2d\s>rp12n
@@ -1177,7 +1177,7 @@ adulterous:2\d2lt&2s
 adultery:2\d2lt&i
 adulthood:2\d2lt|h?d
 adults:\%d2lts,2\d2lts
-adults':\%d2lts,2\d2lts
+adults:\%d2lts,2\d2lts
 adusdur:\%d2sd&
 advacare:\%dv2|ker
 advalue:\%dv2|lu
@@ -1223,7 +1223,7 @@ advertisement:|%dv&\t)zm2nt,%d\v&t2zm2nt
 advertisements:\%dv&|t)zm2nts
 advertiser:\%dv&|t)z&
 advertisers:\%dv&|t)z&z
-advertisers':\%d|v&|t)z&z
+advertisers:\%d|v&|t)z&z
 advertises:\%dv&|t)z!z
 advertising:\%dv&|t)z!=
 advertorial:|%dv&\t>ri2l
@@ -1239,7 +1239,7 @@ advisedly:%d\v)z2dli,2d\v)z2dli
 advisement:2d\v)zm2nt
 adviser:%d\v)z&
 advisers:%d\v)z&z
-advisers':|%d\v)z&z
+advisers:|%d\v)z&z
 advises:%d\v)z!z
 advising:%d\v)z!=
 advisor:%d\v)z&
@@ -1352,7 +1352,7 @@ affidavits:|%f!\d*v!ts
 affiliate:2\f!li|*t,2\f!li2t
 affiliated:2\f!li|*t!d
 affiliates:2\f!li|*ts,2\f!li2ts
-affiliates':2\f!li!ts
+affiliates:2\f!li!ts
 affiliating:2\f!li|*t!=
 affiliation:2|f!li\*12n
 affiliations:2|f!li\*12nz
@@ -1509,18 +1509,18 @@ ageless:\*8l2s
 agematsu:\%g2\m%tsu
 agence:\%82ns
 agencies:\*82nsiz
-agencies':\*82nsiz
+agencies:\*82nsiz
 agency:\*82nsi
 agenda:2\8end2
 agendas:2\8end2z
 agent:\*82nt
 agents:\*82nts
-agents':\*82nts
+agents:\*82nts
 ager:\*8&
 ageratum:2\8er2t2m
 ageratums:2\8er2t2mz
 agers:\*8&z
-agers':\*8&z
+agers:\*8&z
 agerton:\*g&t2n
 ages:\*82z,\*8!z
 agfa:\%gf2
@@ -1754,7 +1754,7 @@ aided:\*d2d,\*d!d
 aiden:|*\den
 aidenn:|*\den
 aides:\*dz
-aides':\*dz
+aides:\*dz
 aidid:|)\did
 aiding:\*d!=
 aids:\*dz
@@ -1871,7 +1871,7 @@ airline:\er|l)n
 airliner:\er|l)n&
 airliners:\er|l)n&z
 airlines:\er|l)nz
-airlines':\er|l)nz
+airlines:\er|l)nz
 airlink:\er|l!=k
 airlinks:\er|l!=ks
 airlock:\er|l>k
@@ -1906,7 +1906,7 @@ airwave:\er|w*v
 airwaves:\er|w*vz
 airway:\er|w*
 airways:\er|w*z
-airways':\er|w*z
+airways:\er|w*z
 airwing:\erw!=
 airwings:\erw!=z
 airworthiness:\er|w&6in2s
@@ -2452,7 +2452,7 @@ allegiance:2\li82ns
 allegiances:|%\li8i|%ns!z,2\li82ns!z
 alleging:2\le8!=
 allegis:|%\l*8!s
-allegis':|%\l*8!s
+allegis:|%\l*8!s
 allegorical:|%l2\g>r2k2l
 allegories:\%l2|g>riz
 allegory:\%l2|g>ri
@@ -2523,7 +2523,7 @@ allie:\%li
 allied:\%|l)d,2\l)d
 alliedsignal:\%|l)d\s!gn2l
 allies:\%l)z,2\l)z
-allies':\%l)z
+allies:\%l)z
 alligator:\%l2|g*t&
 alligators:\%l2|g*t&z
 alligood:\%l!|g?d
@@ -2743,7 +2743,7 @@ alsace:%l\s%s,%l\sos
 alsatian:%l\s*12n
 alsbrook:\%lzbr?k
 alsbrooks:\%lzbr?ks
-alsbrooks':\%lzbr?ks
+alsbrooks:\%lzbr?ks
 alsbury:\%lzberi,\>lzberi
 alsdorf:\%lzd>rf,\>lzd>rf
 alsgaard:\olzgord
@@ -3121,12 +3121,12 @@ americanized:2\mer!k2|n)zd
 americano:2|mer!\kon[
 americanos:2|mer!\kon[z
 americans:2\mer2k2nz,2\mer!k2nz
-americans':2\mer!k2nz
+americans:2\mer!k2nz
 americar:2\mer!|kor
 americare:2\mer!|ker
 americares:2\mer!|kerz
 americas:2\mer2k2z,2\mer!k2z
-americas':2\mer!|k2z
+americas:2\mer!|k2z
 americium:2me\r!|si2m
 americo:2\m&2k[
 americold:2\mer!|k[ld
@@ -3151,7 +3151,7 @@ amersham:\%m&|1%m
 amerson:\%m&s2n
 amery:\%m&i
 ames:\*mz
-ames':\*mz
+ames:\*mz
 amesville:\*mzv!l
 ametek:\%m2|tek
 amethyst:\%m!0!st
@@ -3348,7 +3348,7 @@ amuse:2m\juz
 amused:2m\juzd
 amusement:2m\juzm2nt
 amusements:2m\juzm2nts
-amusements':2m\juzm2nts
+amusements:2m\juzm2nts
 amuses:2m\juz!z
 amusing:2m\juz!=
 amusingly:2m\juz!=li
@@ -3407,7 +3407,7 @@ analyses:2\n%l2|siz
 analysis:2\n%l2s2s,2\n%l!s!s
 analyst:\%n2l!st
 analysts:\%n2l!sts
-analysts':\%n2l!sts
+analysts:\%n2l!sts
 analytic:|%n2\l!t!k
 analytical:|%n2\l!t!k2l
 analytically:|%n2\l!t!kli
@@ -3465,7 +3465,7 @@ ancel:2n\sel
 ancell:on\s*l
 ancestor:\%n|sest&
 ancestors:\%n|sest&z
-ancestors':\%n|sest&z
+ancestors:\%n|sest&z
 ancestral:%n\sestr2l
 ancestry:\%nsestri
 ancheta:on\ket2
@@ -3559,7 +3559,7 @@ andretti:|%n\dreti
 andreu:\%ndru
 andrew:\%ndru
 andrews:\%n|druz
-andrews':\%n|druz
+andrews:\%n|druz
 andrey:\%ndri
 andrezak:\%ndr2z%k
 andria:\%ndri2
@@ -3622,7 +3622,7 @@ angela:\%n82l2
 angeleno:|%n82\len[,|%n82\lin[
 angelenos:|%n82\len[z,|%n82\lin[z
 angeles:\%n82l!s
-angeles':\%n82|liz
+angeles:\%n82|liz
 angeletti:o=ge\leti
 angelfish:\*n82l|f!1
 angeli:o=\geli
@@ -3651,7 +3651,7 @@ angelos:\%n82|l[z
 angelou:\%n82|lu
 angeloz:\%n82|l[z
 angels:\*n82lz
-angels':\*n82lz
+angels:\*n82lz
 angelucci:o=ge\lu$i
 anger:\%=g&
 angered:\%=g&d
@@ -3732,7 +3732,7 @@ anikst:\%n!kst
 aniline:\%n2|lin
 animal:\%n2m2l
 animals:\%n2m2lz
-animals':\%n2m2lz
+animals:\%n2m2lz
 animate:\%n2|m*t,\%n2m2t
 animated:\%n2|m*t!d
 animates:\%n2|m*ts,\%n2m2ts
@@ -4371,7 +4371,7 @@ applicability:|%pl2k2\b!l2ti
 applicable:\%pl2k2b2l
 applicant:\%pl!k2nt
 applicants:\%pl!k2nts
-applicants':\%pl2k2nts
+applicants:\%pl2k2nts
 application:|%pl2\k*12n
 applications:|%pl2\k*12nz
 applicator:\%pl2|k*t&
@@ -4523,7 +4523,7 @@ arabicon:2\r%b2|k>n
 arabie:\%r2bi
 arable:\%r2b2l
 arabs:\%r2bz,\*r2bz
-arabs':\%r2bz
+arabs:\%r2bz
 araby:\%r2|bi
 arachnid:2\r%kn2d,&\%kn!d
 arachnids:&\%kn2dz,&\%kn!dz
@@ -4577,7 +4577,7 @@ arbiters:\orb2t&z
 arbitrage:\orb!|tro3
 arbitrager:\orb!|tro3&
 arbitragers:\orb!|tro3&z
-arbitragers':\orb!|tro3&z
+arbitragers:\orb!|tro3&z
 arbitrageur:\orb!|tro3&
 arbitrageurs:|orb2|tro\3&z
 arbitraging:\orb2|tro8!=
@@ -4592,7 +4592,7 @@ arbitration:|orb!\tr*12n
 arbitrations:|orb!\tr*12nz
 arbitrator:\orb!|tr*t&
 arbitrators:\orb!|tr*t&z
-arbitrators':\orb2|tr*t&z
+arbitrators:\orb2|tr*t&z
 arbitron:\orb2|tron,\orb2tr2n
 arbo:\orb[
 arbogast:or\b[gost
@@ -4853,7 +4853,7 @@ arkady:|or\k*di
 arkansan:|or\k%nz2n
 arkansans:|or\k%nz2nz
 arkansas:\ork2n|so
-arkansas':\ork2n|soz
+arkansas:\ork2n|soz
 arkarow:\ork2r[
 arkin:\ork!n
 arkla:\orkl2
@@ -5173,7 +5173,7 @@ artistic:or\t!st!k
 artistically:or\t!st!kli
 artistry:\ort!stri
 artists:\ort!sts
-artists':\ort!sts
+artists:\ort!sts
 artley:\ortli
 artman:\ortm2n
 artois:ort\wo
@@ -5355,7 +5355,7 @@ askance:2\sk%ns
 asked:\%skt,\%st
 asker:\%sk&
 askers:\%sk&z
-askers':\%sk&z
+askers:\%sk&z
 askew:2\skju
 askey:2\ski
 askin:2\sk!n
@@ -5475,7 +5475,7 @@ assessor:2\ses&
 assessors:2\ses&z
 asset:\%|set
 assets:\%|sets
-assets':\%sets
+assets:\%sets
 asshole:\%sh[l
 assholes:\%sh[lz
 assicurazioni:2|sik&|%zi\[ni
@@ -5504,7 +5504,7 @@ assocation:|%s2\k*12n
 associate:2\s[si|*t,2\s[si2t,2\s[1i|*t,2\s[1i2t
 associated:2\s[si|*t!d,2\s[1i|*t!d
 associates:2\s[si|*ts,2\s[si2ts,2\s[1i|*ts,2\s[1i2ts
-associates':2\s[si2ts,2\s[1i2ts
+associates:2\s[si2ts,2\s[1i2ts
 associating:2\s[si|*t!=
 association:2|s[si\*12n,2|s[1i\*12n
 associations:2|s[si\*12nz,2|s[1i\*12nz
@@ -5587,7 +5587,7 @@ astronautic:|%str2\not!k
 astronautical:|%str2\not!k2l
 astronautics:|%str2\not!ks
 astronauts:\%str2|n>ts
-astronauts':\%str2|n>ts
+astronauts:\%str2|n>ts
 astronomer:2\stron2m&
 astronomers:2\stron2m&z
 astronomical:|%str2\nom!k2l
@@ -5668,7 +5668,7 @@ athey:\%0i
 athie:\*0i
 athlete:\%0|lit
 athletes:\%0|lits
-athletes':\%0|lits
+athletes:\%0|lits
 athletic:%0\let!k
 athletically:%0\let!kli
 athleticism:%0\let!|s!zm
@@ -5695,7 +5695,7 @@ atlantic:2t\l%n!k,2t\l%nt!k
 atlantica:|%t\l%nt!k2
 atlantico:|%t\l%nt!k[
 atlantis:%t\l%n!s,%t\l%nt!s
-atlantis':%t\l%nt!s,%t\l%nt!s!z
+atlantis:%t\l%nt!s,%t\l%nt!s!z
 atlas:\%tl2s
 atlases:\%tl2s!z,%t\l*s!z
 atler:\%tl&
@@ -5774,7 +5774,7 @@ attend:2\tend
 attendance:2\tend2ns
 attendant:2\tend2nt
 attendants:2\tend2nts
-attendants':2\tend2nts
+attendants:2\tend2nts
 attended:2\tend!d
 attendee:2\ten\di
 attendees:2\ten\diz
@@ -5812,7 +5812,7 @@ attleboro:\%t2lb&[
 attlee:\%tli
 attorney:2\t&ni
 attorneys:2\t&niz
-attorneys':2\t&niz
+attorneys:2\t&niz
 attract:2\tr%kt
 attracted:2\tr%kt!d
 attracting:2\tr%kt!=
@@ -5909,7 +5909,7 @@ auditor:\>d!t&
 auditorium:|>d2\t>ri2m
 auditoriums:|>d!\t>ri2mz
 auditors:\od2t&z
-auditors':\>d!t&z
+auditors:\>d!t&z
 auditory:\>d!|t>ri
 audits:\od2ts
 audran:\>dr2n
@@ -5983,7 +5983,7 @@ aungst:\(=gst
 aunt:\%nt,\>nt
 auntie:\%nti,\>nti
 aunts:\%nts,\>nts
-aunts':\%nts,\>nts
+aunts:\%nts,\>nts
 aupperle:\(p&li
 aura:\>r2
 aural:\>r2l
@@ -6065,7 +6065,7 @@ authoritarianism:2|0>r2\teri2|n!z2m
 authoritative:2\0>r2|t*t!v
 authoritatively:2|0>r2\t*t!vli
 authorities:2\0>r2tiz
-authorities':2\0>r!tiz
+authorities:2\0>r!tiz
 authority:2\0>r2ti
 authorization:|>0&2\z*12n
 authorizations:|>0&2\z*12nz
@@ -6074,7 +6074,7 @@ authorized:\>0&|)zd
 authorizes:\>0&|)z!z
 authorizing:\>0&|)z!=
 authors:\>0&z
-authors':\>0&z
+authors:\>0&z
 authorship:\>0&|1!p
 autism:\>|t!z2m
 autistic:>\t!st!k
@@ -6103,7 +6103,7 @@ autoimmune:|>\t]mjun
 autolatina:|>|t[l2\tin2
 automaker:\>t[|m*k&
 automakers:\>t[|m*k&z
-automakers':\>t[|m*k&z
+automakers:\>t[|m*k&z
 automap:\>t[|m%p
 automata:>\tom2t2
 automate:\>t2|m*t
@@ -6503,7 +6503,7 @@ babiarz:b2\bi&z
 babic:\bob!k
 babich:\b%b!$
 babies:\b*biz
-babies':\b*biz
+babies:\b*biz
 babik:\bob!k
 babin:\b%b!n
 babineau:\b%b!|n[
@@ -7200,7 +7200,7 @@ bancorporation:\b%n|k>rp&*12n
 bancroft:\b%=kr>ft
 bancserve:\b%nks&v
 bancshares:\b%=k1erz
-bancshares':b%=k\1erz
+bancshares:b%=k\1erz
 banctec:\b%=k|tek
 banctexas:b%=k\teks2s
 band:\b%nd
@@ -7300,7 +7300,7 @@ banked:\b%=kt
 banken:\b%=k2n
 banker:\b%=k&
 bankers:\b%=k&z
-bankers':\b%=k&z
+bankers:\b%=k&z
 bankert:\b%=k&t
 bankes:\b%=ks
 bankey:\b%n|ki
@@ -7322,7 +7322,7 @@ bankruptcy:\b%=kr2psi,\b%=kr2ptsi
 bankrupted:\b%=kr2pt!d
 bankrupting:\b%=|kr2pt!=
 banks:\b%=ks
-banks':\b%=ks
+banks:\b%=ks
 bankshare:\b%=k|1er
 bankshares:\b%=k|1erz
 bankson:\b%=ks2n
@@ -7486,7 +7486,7 @@ barchefsky:bo\$efski
 barcia:\bor$2
 barclay:\bor|kl*,\bor|kli
 barclays:\borkl*z,\borkliz
-barclays':\borkl*z,\borkliz
+barclays:\borkl*z,\borkliz
 barclift:\borkl!ft
 barco:\bork[
 barcomb:\bork2m
@@ -7559,7 +7559,7 @@ barinco:b&\!=|k[
 baring:\ber!=
 baringer:\ber!=&
 barings:\ber!=z
-barings':\ber!=z
+barings:\ber!=z
 baris:\boriz
 barish:\ber!1
 barista:bo\rist2
@@ -7999,7 +7999,7 @@ bate:\b*t
 bated:\b*t!d
 bateman:\b*tm2n
 bates:\b*ts
-bates':\b*ts
+bates:\b*ts
 bateson:\b%t!s2n,\b%ts2n,\b*ts2n
 batesville:\b*ts|v!l
 batey:\b*ti
@@ -8345,7 +8345,7 @@ bearishly:\ber!1li
 bearishness:\ber!1n2s
 bearman:\berm2n
 bears:\berz
-bears':\berz
+bears:\berz
 bearse:\b&s
 bearss:\b&s
 bearup:\ber2p
@@ -8370,7 +8370,7 @@ beating:\bit!=
 beatings:\bit!=z
 beatle:\bit2l
 beatles:\bit2lz
-beatles':\bit2lz
+beatles:\bit2lz
 beatnik:\bitn!k
 beatniks:\bitn!ks
 beato:bi\%t[
@@ -8623,7 +8623,7 @@ beer:\b!r
 beerbower:\b!rb[&
 beerman:\b!rm2n
 beers:\b!rz
-beers':\b!rz
+beers:\b!rz
 beery:\b!ri
 bees:\biz
 beese:\biz
@@ -8785,7 +8785,7 @@ beilke:\bilk
 beilman:\b)lm2n
 beim:\b)m
 bein:\bin
-bein':\bi!n
+bein:\bi!n
 beine:\bin
 being:\bi!=
 beings:\bi!=z
@@ -8974,7 +8974,7 @@ bellowing:\bel[!=
 bellows:\bel[z
 bellrose:\bel|r[z
 bells:\belz
-bells':\belz
+bells:\belz
 bellsouth:\bel|s(0
 bellucci:be\lu$i
 bellum:\bel2m
@@ -9044,7 +9044,7 @@ belying:b!\l)!=
 belz:\belz
 belzberg:\beltsb&g
 belzbergs:\beltsb&gz
-belzbergs':\belzb&gz
+belzbergs:\belzb&gz
 belzer:\belz&
 bem:\bem
 beman:\bim2n
@@ -9428,7 +9428,7 @@ berlanga:b&\lo=g2
 berlascone:|berl2\sk[ni
 berle:\b&l
 berles:\b&lz
-berles':\b&lz
+berles:\b&lz
 berlet:|b&\let
 berlex:\b&|leks
 berlin:b&\l!n
@@ -9606,7 +9606,7 @@ besant:\bez2nt
 besaw:\bis>
 besch:\be1
 beschloss:\be1|l>s
-beschloss':\be1|l>s
+beschloss:\be1|l>s
 besecker:\bes!k&
 beseech:bi\si$
 beseeched:bi\si$t
@@ -10183,7 +10183,7 @@ billowed:\b!l[d
 billowing:\b!l[!=
 billows:\b!l[z
 bills:\b!lz
-bills':\b!lz
+bills:\b!lz
 billup:\b!l2p
 billups:\b!l2ps
 billy:\b!li
@@ -10388,7 +10388,7 @@ birdlife:\b&d|l)f
 birdlike:\b&d|l)k
 birdman:\b&dm%n
 birds:\b&dz
-birds':\b&dz
+birds:\b&dz
 birdsall:\b&d|z>l
 birdseed:\b&d|sid
 birdsell:\b&ds2l
@@ -10481,7 +10481,7 @@ bishoff:\b!sh>f
 bishop:\b!12p
 bishoprics:\b!12pr!ks
 bishops:\b!12ps
-bishops':\b!1ops
+bishops:\b!1ops
 bishopsgate:\b!12ps|g*t
 bisiani:b!si\oni
 bisig:\b!s!g
@@ -10642,7 +10642,7 @@ blackouts:\bl%|k(ts
 blackpool:\bl%k|pul
 blackrock:\bl%|krok
 blacks:\bl%ks
-blacks':\bl%ks
+blacks:\bl%ks
 blacksburg:\bl%ksb&g
 blackshear:\bl%k1!r
 blacksher:\bl%k1&
@@ -10939,7 +10939,7 @@ blips:\bl!ps
 bliscoll:\bl!sk>l
 blish:\bl!1
 bliss:\bl!s
-bliss':\bl!s
+bliss:\bl!s
 blissett:\bl!s!t
 blissful:\bl!sf2l
 blissfully:\bl!sf2li
@@ -11175,7 +11175,7 @@ blueprint:\blu|pr!nt
 blueprints:\blu|pr!nts
 bluer:\blu&
 blues:\bluz
-blues':\bluz
+blues:\bluz
 bluest:\blu2st
 bluestein:\bl?st)n,\bl?stin
 bluestine:\blu|st)n
@@ -11603,7 +11603,7 @@ boitano:|b]\ton[
 boitnott:b]t\not
 boivin:b]\v%n
 bojangles:b[\8%=g2lz
-bojangles':b[\8%=g2lz
+bojangles:b[\8%=g2lz
 bojanowski:b2j2\n>fski
 bojarski:b2\jorski
 bojenka:b2\8e=k2
@@ -11787,12 +11787,12 @@ bonded:\bond2d,\bond!d
 bonderman:\bond&m2n
 bondholder:\bond|h[ld&
 bondholders:\bond|h[ld&z
-bondholders':\bond|h[ld&z
+bondholders:\bond|h[ld&z
 bondi:\bondi
 bonding:\bond!=
 bondra:\bondr2
 bonds:\bondz
-bonds':\bondz
+bonds:\bondz
 bondt:\bont
 bondurant:b[n\d?r2nt
 bondy:\bondi
@@ -11940,7 +11940,7 @@ booknote:\b?k|n[t
 booknotes:\b?k|n[ts
 bookout:\b?|k(t
 books:\b?ks
-books':\b?ks
+books:\b?ks
 bookseller:\b?k|sel&
 booksellers:\b?k|sel&z
 bookshelf:\b?k|1elf
@@ -11966,7 +11966,7 @@ boomer:\bum&
 boomerang:\bum&|%=
 boomeranged:\bum&|%=d
 boomers:\bum&z
-boomers':\bum&z
+boomers:\bum&z
 boomershine:\bum&|1)n
 boomhower:\bumh[&
 booming:\bum!=
@@ -12110,7 +12110,7 @@ boric:\b>r!k
 borin:\b>r!n
 boring:\b>r!=
 boris:\b>r!s
-boris':\b>r!s
+boris:\b>r!s
 borja:\b>rj2
 borjas:\b>rj2z
 bork:\b>rk
@@ -12162,7 +12162,7 @@ borrow:\bo|r[
 borrowed:\bo|r[d
 borrower:\bor[&
 borrowers:\bor[&z
-borrowers':\b>r2&z
+borrowers:\b>r2&z
 borrowing:\bor[!=
 borrowings:\bor[!=z
 borrowman:\bor[m2n
@@ -12233,7 +12233,7 @@ bosom:\b?z2m
 bosqi:\boski
 bosquez:b[s\kwez
 boss:\bos,\b>s
-boss':\b>s
+boss:\b>s
 bossard:b2\sord
 bossart:b2\sort
 bosse:\bos
@@ -12242,7 +12242,7 @@ bossen:\bos2n
 bosserman:\b>s&m2n
 bossert:\bos&t
 bosses:\b>s!z
-bosses':\b>s!z
+bosses:\b>s!z
 bosshardt:\b>s|hort
 bosshart:\b>s|hort
 bossi:\b[si
@@ -12325,7 +12325,7 @@ bottleneck:\bot2l|nek
 bottlenecks:\bot2l|neks
 bottler:\botl&
 bottlers:\botl&z
-bottlers':\botl&z
+bottlers:\botl&z
 bottles:\bot2lz
 bottling:\bot2l!=,\botl!=
 bottom:\bot2m
@@ -12611,7 +12611,7 @@ boylston:\b]lst2n
 boyne:\b]n
 boynton:\b]nt2n
 boys:\b]z
-boys':\b]z
+boys:\b]z
 boysel:\b]s2l
 boysen:\b]s2n
 boyson:\b]z2n
@@ -12876,7 +12876,7 @@ brando:\br%nd[
 brandon:\br%nd2n
 brandow:\br%n|d(
 brands:\br%ndz
-brands':\br%ndz
+brands:\br%ndz
 brandstetter:\br%ndst!t&
 brandt:\br%nt
 brandtner:\br%ntn&
@@ -13006,7 +13006,7 @@ braver:\br*v&
 braverman:\br*v&m2n
 bravery:\br*v&i
 braves:\br*vz
-braves':\br*vz
+braves:\br*vz
 bravest:\br*v2st
 braving:\br*v!=
 bravo:\brov[
@@ -13147,7 +13147,7 @@ breed:\brid
 breeden:\brid2n
 breeder:\brid&
 breeders:\brid&z
-breeders':\brid&z
+breeders:\brid&z
 breeding:\brid!=
 breedlove:\brid|l2v
 breeds:\bridz
@@ -13281,7 +13281,7 @@ brewed:\brud
 brewer:\bru&
 breweries:\bru&iz,\bruriz
 brewers:\bru&z
-brewers':\bru&z
+brewers:\bru&z
 brewery:\bru&i
 brewing:\bru!=
 brewington:\bru!=t2n
@@ -13345,7 +13345,7 @@ brides:\br)dz
 bridesburg:\br)dzb2rg
 bridesmaid:\br)dz|m*d
 bridesmaids:\br)dz|m*dz
-bridesmaids':\br)dz|m*dz
+bridesmaids:\br)dz|m*dz
 bridge:\br!8
 bridged:\br!8d
 bridgeford:\br!8f>rd
@@ -13536,7 +13536,7 @@ brito:\brit[
 britoil:br!\t]l
 briton:\br!t2n
 britons:\br!t2nz
-britons':\br!t2nz
+britons:\br!t2nz
 brits:\br!ts
 britsch:\br!$
 britt:\br!t
@@ -13579,7 +13579,7 @@ broadbent:\br>d|bent
 broadcast:\br>d|k%st
 broadcaster:\br>d|k%st&
 broadcasters:\br>d|k%st&z
-broadcasters':\br>d|k%st&z
+broadcasters:\br>d|k%st&z
 broadcasting:\br>d|k%st!=
 broadcasts:\br>d|k%sts
 broaddus:\br>d!s
@@ -13697,11 +13697,11 @@ broken-winded:\br[k2n\w!nd!d
 broker:\br[k&
 brokerage:\br[k&!8,\br[kr!8
 brokerages:\br[k&!8!z,\br[kr!8!z
-brokerages':\br[k&!8!z,\br[kr!8!z
+brokerages:\br[k&!8!z,\br[kr!8!z
 brokered:\br[k&d
 brokering:\br[k&!=
 brokers:\br[k&z
-brokers':\br[k&z
+brokers:\br[k&z
 broking:\br[k!=
 brokini:br2\kini
 brolin:\br[l!n
@@ -13775,7 +13775,7 @@ brookman:\br?km2n
 brookner:\br?kn&
 brookover:\br?|k[v&
 brooks:\br?ks
-brooks':\br?ks
+brooks:\br?ks
 brookshier:\bruk1i&
 brookshire:\bruk1)r
 brookside:\br?k|s)d
@@ -13819,7 +13819,7 @@ brotherhood:\br26&|h?d
 brotherly:\br26&li
 brothers:\br26&z
 brothers-in-law:\br26&z!n|l>
-brothers':\br26&z
+brothers:\br26&z
 brotherson:\br26&s2n
 brotherton:\br26&t2n
 broths:\br>0s
@@ -13875,7 +13875,7 @@ brownout:\br(|n(t
 brownouts:\br(|n(ts
 brownrigg:\br(nr!g
 browns:\br(nz
-browns':\br(nz
+browns:\br(nz
 brownson:\br(ns2n
 brownstein:\br(n|st)n,\br(n|stin
 brownstone:\br(n|st[n
@@ -14077,7 +14077,7 @@ bruynes:\bru!nz
 bruzzese:brut\s*zi
 bryan:\br)2n
 bryans:\br)2nz
-bryans':\br)2nz
+bryans:\br)2nz
 bryant:\br)2nt
 bryars:\br)&z
 bryce:\br)s
@@ -14222,7 +14222,7 @@ bucky:\b2ki
 bucoba:bju\k[b2
 bucolic:bju\kol!k
 bucs:\b2ks
-bucs':\b2ks
+bucs:\b2ks
 bucy:\bjusi
 buczek:\b2$ek
 buczkowski:b2$\k>fski
@@ -14396,7 +14396,7 @@ build-up:\b!l|d2p
 buildable:\b!ld2b2l
 builder:\b!ld&
 builders:\b!ld&z
-builders':\b!ld&z
+builders:\b!ld&z
 building:\b!ld!=
 buildings:\b!ld!=z
 builds:\b!ldz
@@ -14496,7 +14496,7 @@ bullock:\b?l2k
 bullocks:\b?l2ks
 bullpen:\b?l|pen
 bulls:\b?lz
-bulls':\b?lz
+bulls:\b?lz
 bullseye:\bulz)
 bullshit:\b?l|1!t
 bullshitter:\b?l|1!t&
@@ -14841,7 +14841,7 @@ burnished:\b&n!1t
 burnley:\b&nli
 burnout:\b&|n(t
 burns:\b&nz
-burns':\b&nz
+burns:\b&nz
 burnsed:\b&nzd
 burnside:\b&n|s)d
 burnstein:\b&n|st)n,\b&n|stin
@@ -14971,9 +14971,9 @@ busier:\b!zi&
 busiest:\b!zi2st
 busily:\b!z2li
 business:\b!zn2s,\b!zn!s
-business':\b!zn2s,\b!zn!s
+business:\b!zn2s,\b!zn!s
 businesses:\b!zn2s2z,\b!zn!s!z
-businesses':\b!z|nes!z
+businesses:\b!z|nes!z
 businessland:\b!zn!|sl%nd
 businesslike:\b!zn!|sl)k
 businessman:\b!zn2s|m%n,\b!zn!s|m%n
@@ -15136,7 +15136,7 @@ buyback:\b)|b%k
 buybacks:\b)|b%ks
 buyer:\b)&
 buyers:\b)&z
-buyers':\b)&z
+buyers:\b)&z
 buying:\b)!=
 buyout:\b)|(t
 buyouts:\b)|(ts
@@ -15178,7 +15178,7 @@ byerlein:\b)r|l)n
 byerley:\b)&li
 byerly:\b)&li
 byers:\b)&z
-byers':\b)&z
+byers:\b)&z
 byfield:\b)|fild
 byford:\b!f&d
 bygone:\b)|g>n
@@ -15382,7 +15382,7 @@ caesarea:|k*s&\i2
 caesarean:\k*s&|in
 caesareans:\k*s&|inz
 caesars:\siz&z
-caesars':\siz&z
+caesars:\siz&z
 caetano:k2\ton[
 cafarella:kofo\rel2
 cafarelli:kofo\reli
@@ -15808,7 +15808,7 @@ campoli:kom\p[li
 campopiano:komp[pi\on[
 campos:\k%mp[z
 camps:\k%mps
-camps':\k%mps
+camps:\k%mps
 campsite:\k%mp|s)t
 campsites:\k%mp|s)ts
 campton:\k%mpt2n
@@ -15835,7 +15835,7 @@ canadair:|k%n2\der
 canaday:\k%n2|d*
 canadian:k2\n*di2n
 canadians:k2\n*di2nz
-canadians':k2\n*di2nz
+canadians:k2\n*di2nz
 canadienne:k2\n%di|en
 canady:k2\nodi
 canal:k2\n%l
@@ -15895,7 +15895,7 @@ candidacies:\k%nd2d2siz
 candidacy:\k%nd!d2si
 candidate:\k%nd2d*t,\k%n2d!t
 candidates:\k%nd2d*ts,\k%n2d!ts
-candidates':\k%nd2d*ts
+candidates:\k%nd2d*ts
 candidly:\k%nd!dli
 candido:k%n\did[
 candie:\k%ndi
@@ -16333,7 +16333,7 @@ cardinal:\kord2n2l,\kord!n2l
 cardinale:kordi\noli
 cardinali:kordi\no|li
 cardinals:\kord2n2lz
-cardinals':\kord!n2lz
+cardinals:\kord!n2lz
 cardio:\kordi[
 cardiologist:|kordi\ol28!st
 cardiologists:|kordi\ol28!sts
@@ -16355,7 +16355,7 @@ cardoso:kor\d[s[
 cardoza:kor\d[z2
 cardozo:kor\d[z[
 cards:\kordz
-cards':\kordz
+cards:\kordz
 carducci:kor\du$i
 cardwell:\kord|wel
 cardy:\kordi
@@ -16508,7 +16508,7 @@ carma:\kormo
 carmack:\korm2k
 carmaker:\kor|m*k&
 carmakers:\kor|m*k&z
-carmakers':\kor|m*k&z
+carmakers:\kor|m*k&z
 carman:\korm2n
 carmany:\korm2|ni
 carmean:\kor|mi2n
@@ -16663,7 +16663,7 @@ carrier:\k%ri&,\keri&
 carriere:ko\r!ri
 carriero:ko\r!r[
 carriers:\k%ri&z,\keri&z
-carriers':\keri&z
+carriers:\keri&z
 carries:\k%riz,\keriz
 carrig:\k%r!g
 carrigan:\k%r!g2n
@@ -16701,7 +16701,7 @@ carryforwards:\keri|f>rw&dz
 carrying:\k%ri!=,\keri!=
 carryover:\ker|j[v&
 cars:\korz,\koz
-cars':\korz
+cars:\korz
 carse:\kors
 carsey:\korsi
 carsick:\kors!k
@@ -16807,7 +16807,7 @@ casbah:\k%sb2
 cascade:k%\sk*d
 cascaded:k%\sk*d!d
 cascades:k%\sk*dz
-cascades':k%\sk*dz
+cascades:k%\sk*dz
 cascading:k%\sk*d!=
 casciano:kos$i\on[
 casciato:kos\$ot[
@@ -17391,7 +17391,7 @@ cedes:\sidz
 cedillo:$e\d!l[
 ceding:\sid!=
 cedras:\s*|dros,\s*dr2s
-cedras':\s*|dros,\s*dr2s
+cedras:\s*|dros,\s*dr2s
 cedric:\sedr!k,\sidr!k
 cedrone:s*\dr[n*
 cees:\siz
@@ -17469,7 +17469,7 @@ cellphone:\self[n
 cellphones:\sel|f[nz
 cellpro:\selpr[
 cells:\selz
-cells':\selz
+cells:\selz
 cellstar:\sel|stor
 cellucci:$e\lu$i
 cellular:\selj2l&
@@ -17487,7 +17487,7 @@ celso:\sels[
 celt:\kelt,\selt
 celtic:\kelt!k,\selt!k
 celtics:\selt!ks
-celtics':\selt!ks
+celtics:\selt!ks
 celts:\kelts,\selts
 cement:s2\ment,s!\ment
 cemented:s2\ment!d,s!\ment!d
@@ -17538,7 +17538,7 @@ centerior:|sen\t!ri&
 centerpiece:\sent&|pis
 centerre:\sent&
 centers:\sen&z,\sent&z
-centers':\sen&z,\sent&z
+centers:\sen&z,\sent&z
 centerville:\sent&v!l
 centex:\sen|teks
 centigrade:\sent2|gr*d
@@ -17753,7 +17753,7 @@ chain:\$*n
 chained:\$*nd
 chaining:\$*n!=
 chains:\$*nz
-chains':\$*nz
+chains:\$*nz
 chainsaw:\$*n|s>
 chainsaws:\$*n|s>z
 chair:\$er
@@ -17812,7 +17812,7 @@ chamberland:\$%mb&l2nd
 chamberlayne:\$*mb&|l*n
 chamberlin:\$*mb&l!n
 chambers:\$*mb&z
-chambers':\$*mb&z
+chambers:\$*mb&z
 chamblee:\$%mbli
 chambless:12m\blis
 chamblin:\$%mbl!n
@@ -17949,7 +17949,7 @@ characterized:\ker2kt&|)zd
 characterizes:\ker2kt&|)z2z
 characterizing:\ker2kt&|)z!=
 characters:\k%r2kt&z,\ker2kt&z
-characters':\$er2kt&z
+characters:\$er2kt&z
 charade:1&\*d
 charades:1&\*dz
 charalambos:|$or2\lomb[s
@@ -17988,7 +17988,7 @@ charita:ko\rit2
 charitable:\$%r2t2b2l,\$er2t2b2l
 charitably:\$er!t2bli
 charities:\$er2tiz,\$er!tiz
-charities':\$er!tiz
+charities:\$er!tiz
 charity:\$er!ti
 charla:\$orl2
 charland:\$orl2nd
@@ -18001,7 +18001,7 @@ charleen:$or\lin
 charlemagne:\1orl2|m*n
 charlene:1or\lin
 charles:\$or2lz,\$orlz
-charles':\$or2lz,\$orlz
+charles:\$or2lz,\$orlz
 charleston:\$or2lst2n,\$orlst2n
 charlestown:\$or2l|st(n,\$orl|st(n
 charlesworth:\$or2lsw&0,\$or2lzw&0
@@ -18120,7 +18120,7 @@ chatty:\$%ti
 chatwal:\$%t|w>l
 chatwin:\$%tw!n
 chatz:\$%ts
-chatz':\$%ts
+chatz:\$%ts
 chau:\1[
 chaucer:\$>s&
 chaudhry:\$>dri
@@ -18151,7 +18151,7 @@ chavez:\1ovez,\$%|vez,12\vez
 chavin:\$*v!n
 chavira:ko\v!r2
 chavis:\$%v!s,\$*v!s
-chavis':\$%v!s,\$*v!s
+chavis:\$%v!s,\$*v!s
 chavitz:\$%v!ts
 chavous:12\v>s
 chaw:\$>
@@ -18295,7 +18295,7 @@ chemi:\kemi
 chemical:\kem2k2l,\kem!k2l
 chemically:\kem2kli
 chemicals:\kem!k2lz
-chemicals':\$em2k2lz
+chemicals:\$em2k2lz
 chemie:\$emi
 chemins:\$em!nz,12\m!nz
 chemise:12\miz
@@ -18449,7 +18449,7 @@ chianti:$i\%nti
 chiaoscurist:\kio|>|skur!st
 chiaoscuro:\kio|>|skur[
 chiapas:$i\op2s
-chiapas':$i\op2z
+chiapas:$i\op2z
 chiapparone:$i\%p&|[n
 chiappetta:kio\pet2
 chiappone:kio\p[ni
@@ -18484,7 +18484,7 @@ chicken:\$!k2n
 chickened:\$!k2nd
 chickening:\$!k2n!=
 chickens:\$!k2nz
-chickens':\$!k2nz
+chickens:\$!k2nz
 chickering:\$!k&!=
 chicks:\$!ks
 chico:\$i|k[
@@ -18502,7 +18502,7 @@ chiefdom:\$ifd2m
 chieffo:\kif[
 chiefly:\$ifli
 chiefs:\$ifs
-chiefs':\$ifs
+chiefs:\$ifs
 chieftain:\$ift2n
 chieftains:\$ift2nz
 chien:\$en
@@ -18539,7 +18539,7 @@ childraising:\$)l|dr*z!=
 childree:$)l\dri
 children:\$!ldr2n
 childrens:\$!ldr2nz
-childrens':\$!ldr2nz
+childrens:\$!ldr2nz
 childres:\$)ld&z
 childress:\$!ldr!s
 childrey:\$!ldri
@@ -18822,7 +18822,7 @@ chretien:kr!t\jen
 chriboniko:|$rib[\nik[,|$r!b2\nik[
 chriptosporidium:|kr!pt[sp>\r!di2m
 chris:\kr!s
-chris':\kr!s
+chris:\kr!s
 chrisco:\krisk[
 chriscoe:\kr!sk[
 chrisman:\kr!sm2n
@@ -18874,7 +18874,7 @@ christlieb:\kr!st|lib
 christman:\kr!stm2n
 christmann:\kr!stm2n
 christmas:\kr!sm2s
-christmas':\kr!sm2s
+christmas:\kr!sm2s
 christmases:\kr!sm2s!z
 christmastime:\kr!stm2|st)m
 christner:\kr!stn&
@@ -18987,7 +18987,7 @@ chupp:\$2p
 chura:\$?r2
 church:\$&$
 churches:\$&$!z
-churches':\$&$!z
+churches:\$&$!z
 churchgoer:\$&$|g[&
 churchgoers:\$&$|g[&z
 churchgoing:\$&$|g[!=
@@ -19246,15 +19246,15 @@ citibank:\s!ti|b%=k
 citic:\s!t!k
 citicorp:\s!ti|k>rp
 citicorps:\s!ti|k>rps
-citicorps':\s!ti|k>rps
+citicorps:\s!ti|k>rps
 cities:\s!tiz
-cities':\s!tiz
+cities:\s!tiz
 citing:\s)t!=
 citisteel:\s!ti|stil
 citizen:\s!t2z2n,\s!t!z2n
 citizenry:\s!t!z2nri
 citizens:\s!t2z2nz,\s!t!z2nz
-citizens':\s!t!z2nz
+citizens:\s!t!z2nz
 citizenship:\s!t!z2n|1!p
 citrano:$i\tron[
 citric:\s!tr!k
@@ -19322,7 +19322,7 @@ claiborne:\kl*b&n
 claim:\kl*m
 claimant:\kl*m2nt
 claimants:\kl*m2nts
-claimants':\kl*m2nts
+claimants:\kl*m2nts
 claimed:\kl*md
 claiming:\kl*m!=
 claims:\kl*mz
@@ -19488,7 +19488,7 @@ claudius:\kl>di2s
 claudson:\kl>ds2n
 claunch:\kl>n$
 claus:\kl>z
-claus':\kl>z
+claus:\kl>z
 clause:\kl>z
 clausell:\kl>z2l
 clausen:\kl(s2n
@@ -19644,7 +19644,7 @@ clerissa:kl&\is2
 clerk:\kl&k
 clerkin:\kl&k!n
 clerks:\kl&ks
-clerks':\kl&ks
+clerks:\kl&ks
 clermont:\kler|mont
 cleva:\kliv2
 cleve:\kliv
@@ -19680,7 +19680,7 @@ clicks:\kl!ks
 client:\kl)2nt
 clientele:|kl)2n\tel
 clients:\kl)2nts
-clients':\kl)2nts
+clients:\kl)2nts
 cliett:\klit
 clif:\kl!f
 cliff:\kl!f
@@ -19689,7 +19689,7 @@ cliffhanger:\kl!f|h%=&
 cliffhangers:\kl!f|h%=&z
 clifford:\kl!f&d
 cliffs:\kl!fs
-cliffs':\kl!fs
+cliffs:\kl!fs
 clift:\kl!ft
 clifton:\kl!ft2n
 cliggott:\kl!g2t
@@ -19708,7 +19708,7 @@ climb:\kl)m
 climbed:\kl)md
 climber:\kl)m&
 climbers:\kl)m&z
-climbers':\kl)m&z
+climbers:\kl)m&z
 climbing:\kl)m!=
 climbs:\kl)mz
 climer:\kl)m&
@@ -19747,7 +19747,7 @@ clintonite:\kl!nt2|n)t
 clintonites:\kl!nt2|n)ts
 clintonomics:|kl!nt2\nom!ks
 clintons:\kl!nt2nz
-clintons':\kl!nt2nz
+clintons:\kl!nt2nz
 clio:\kli[
 clip:\kl!p
 clipboard:\kl!p|b>rd
@@ -19802,7 +19802,7 @@ clonch:\klon$
 clone:\kl[n
 cloned:\kl[nd
 clones:\kl[nz
-clones':\kl[nz
+clones:\kl[nz
 clonidine:\klon!|din
 cloning:\kl[n!=
 cloninger:\kl[n!=&
@@ -20463,7 +20463,7 @@ collazo:k[\loz[
 colle:\k[l
 colleague:\kolig
 colleagues:\koligz
-colleagues':\koligz
+colleagues:\koligz
 collect:k2\lekt
 collected:k2\lekt2d
 collectibility:k2|lekt!\b!l!ti
@@ -20482,13 +20482,13 @@ collectivize:k2\lekt!|v)z
 collectivized:k2\lekt!|v)zd
 collector:k2\lekt&
 collectors:k2\lekt&z
-collectors':k2\lekt&z
+collectors:k2\lekt&z
 collects:k2\lekts
 colledge:\kol!8
 colleen:|ko\lin
 college:\kol!8
 colleges:\kol!8!z
-colleges':\kol!8!z
+colleges:\kol!8!z
 collegeville:\kol28v!l
 collegial:k2\li8i2l
 collegiality:k2|li8i\%l!ti
@@ -20526,7 +20526,7 @@ collings:\kol!=z
 collingsworth:k2\l!=zw&0
 collingwood:\kol!=|w?d
 collins:\kol!nz
-collins':\kol!nz
+collins:\kol!nz
 collinson:\kol!ns2n
 collinsworth:k2\l!nsw&0
 collis:\kol!s
@@ -20660,7 +20660,7 @@ columbine:\kol2m|b)n
 columbines:\kol2m|b)nz
 columbo:|k[\l2mb[
 columbus:k2\l2mb2s
-columbus':k2\l2mb2s
+columbus:k2\l2mb2s
 column:\kol2m
 columned:\kol2md
 columnist:\kol2mn2st
@@ -20771,7 +20771,7 @@ comical:\kom!k2l
 comically:\kom!k2li,\kom!kli
 comicopia:|kom!\k[pi2
 comics:\kom!ks
-comin':\k2m!n
+comin:\k2m!n
 cominco:k[\m!=k[
 coming:\k2m!=
 comings:\k2m!=z
@@ -20879,7 +20879,7 @@ committed:k2\m!t!d
 committee:k2\m!ti
 committeeman:k2\m!tim2n
 committees:k2\m!tiz
-committees':k2\m!tiz
+committees:k2\m!tiz
 committing:k2\m!t!=
 commode:k2\m[d
 commodious:k2\m[di2s
@@ -20908,7 +20908,7 @@ communicates:k2m\jun!|k*ts
 communicating:k2m\jun2|k*t!=
 communication:k2m|jun2\k*12n
 communications:k2m|jun2\k*12nz
-communications':k2m|jun2\k*12nz
+communications:k2m|jun2\k*12nz
 communicative:k2m\jun2k2t!v
 communicator:k2m\jun2|k*t&
 communicators:k2m\jun2k*t&z
@@ -20919,7 +20919,7 @@ communiques:k2m|jun!\k*z
 communism:\komj2|n!z2m
 communist:\komj2n2st
 communists:\komj2n2sts
-communists':\komjun!sts
+communists:\komjun!sts
 communities:k2m\jun2tiz,k2m\jun!tiz
 community:k2m\jun2ti,k2m\jun!ti
 communitywide:k2m\jun!ti|w)d
@@ -20946,7 +20946,7 @@ companero:|komp2n\je|r[
 companhia:k2m\p%nhi|o
 compania:k2m\p*|nio
 companies:\k2mp2|niz
-companies':\k2mp2|niz
+companies:\k2mp2|niz
 companion:k2m\p%nj2n
 companions:k2m\p%nj2nz
 companionship:k2m\p%nj2n|1!p
@@ -21015,7 +21015,7 @@ competitively:k2m\pet!t!vli
 competitiveness:k2m\pet!t!vn!s
 competitor:k2m\pet2t&,k2m\pet!t&
 competitors:k2m\pet2t&z,k2m\pet!t&z
-competitors':k2m\pet!t&z
+competitors:k2m\pet!t&z
 compher:\komf&
 compilation:|komp2\l*12n
 compilations:|komp2\l*12nz
@@ -21170,7 +21170,7 @@ computerizing:k2m\pjut&|)z!=
 computerland:k2m\pjut&|l%nd
 computerlike:k2m\pjut&|l)k
 computers:k2m\pjut&z
-computers':k2m\pjut&z
+computers:k2m\pjut&z
 computervision:k2m\pjut&|v!32n
 computerworld:k2m\pjut&|w&ld
 computes:k2m\pjuts
@@ -21248,7 +21248,7 @@ concern:k2n\s&n
 concerned:k2n\s&nd
 concerning:k2n\s&n!=
 concerns:k2n\s&nz
-concerns':k2n\s&nz
+concerns:k2n\s&nz
 concert:\kons&t,k2n\s&t
 concerted:k2n\s&t2d,k2n\s&t!d
 concerti:k2n\$erti
@@ -21534,7 +21534,7 @@ congregation:|ko=gr2\g*12n
 congregational:|ko=gr2\g*12n2l
 congregations:|ko=gr2\g*12nz
 congress:\ko=gr2s
-congress':\kongr2s!z,\ko=gr2s
+congress:\kongr2s!z,\ko=gr2s
 congresses:\ko=gr2s!z
 congressional:k2n\gre12n2l
 congressionally:k2n\gre12n2li,k2n\gre1n2li
@@ -21715,7 +21715,7 @@ conservatism:k2n\s&v2|t!z2m
 conservative:k2n\s&v2t!v
 conservatively:k2n\s&v2t!vli
 conservatives:k2n\s&v2t!vz
-conservatives':k2n\s&v2t!vz
+conservatives:k2n\s&v2t!vz
 conservativism:k2n\s&v2t!|v!z2m
 conservator:k2n\s&v2t&
 conservatories:k2n\s&v2|t>riz
@@ -21817,7 +21817,7 @@ constituencies:k2n\st!$u2nsiz
 constituency:k2n\st!$u2nsi
 constituent:k2n\st!$u2nt
 constituents:k2n\st!$u2nts
-constituents':k2n\st!$u2nts
+constituents:k2n\st!$u2nts
 constitute:\konst2|tut
 constituted:\konst2|tut2d
 constitutes:\konst2|tuts
@@ -21868,7 +21868,7 @@ consult:k2n\s2lt
 consultancy:k2n\s2lt2nsi
 consultant:k2n\s2lt2nt
 consultants:k2n\s2lt2nts
-consultants':k2n\s2l|t2nts
+consultants:k2n\s2l|t2nts
 consultation:|kons2l\t*12n
 consultations:|kons2l\t*12nz
 consultative:k2n\s2lt2t!v
@@ -21883,7 +21883,7 @@ consumerism:k2n\sum&|!z2m
 consumerist:k2n\sum&!st
 consumerists:k2n\sum&!sts
 consumers:k2n\sum&z
-consumers':k2n\sum&z
+consumers:k2n\sum&z
 consumes:k2n\sumz
 consuming:k2n\sum!=
 consummate:\kons2|m*t,\kons2m2t
@@ -21909,7 +21909,7 @@ containerboard:k2n\t*n&|b>rd
 containerize:k2n\t*n&|)z
 containerized:k2n\t*n&|)zd
 containers:k2n\t*n&z
-containers':k2n\t*n&z
+containers:k2n\t*n&z
 containing:k2n\t*n!=
 containment:k2n\t*nm2nt
 contains:k2n\t*nz
@@ -22019,7 +22019,7 @@ contractionary:k2n\tr%k12neri
 contractions:k2n\tr%k12nz
 contractor:\kon|tr%kt&
 contractors:\kon|tr%kt&z
-contractors':k2n\tr%kt&z
+contractors:k2n\tr%kt&z
 contracts:\kon|tr%kts,k2n\tr%kts
 contractual:k2n\tr%k$u2l
 contractually:k2n\tr%k$u2li
@@ -22041,7 +22041,7 @@ contrarians:k2n\treri2nz
 contrariness:\kontrerin2s
 contrary:\kontreri,k2n\treri
 contras:\kontr2z,\k>ntr2z
-contras':\kontr2z
+contras:\kontr2z
 contrast:\kontr%st,k2n\tr%st
 contrasted:k2n\tr%st2d
 contrasting:k2n\tr%st!=
@@ -22071,10 +22071,10 @@ controllable:k2n\tr[l2b2l
 controlled:k2n\tr[ld
 controller:k2n\tr[l&
 controllers:k2n\tr[l&z
-controllers':k2n\trol&z
+controllers:k2n\trol&z
 controlling:k2n\tr[l!=
 controls:k2n\tr[lz
-controls':\kontrolz
+controls:\kontrolz
 controversial:|kontr2\v&12l
 controversies:\kontr2|v&siz
 controversy:\kontr2|v&si
@@ -22187,7 +22187,7 @@ cooker:\k?k&
 cookers:\k?k&z
 cookie:\k?ki
 cookies:\k?kiz
-cookin':\k?k!n
+cookin:\k?k!n
 cooking:\k?k!=
 cookingham:\k?k!=h%m
 cookman:\k?km2n
@@ -22323,7 +22323,7 @@ copper:\kop&
 copper-green:\kop&|grin
 copperfield:\kop&|fild
 copperfields:\kop&|fildz
-copperfields':\kop&|fildz
+copperfields:\kop&|fildz
 copperhead:\kop&|hed
 copperheads:\kop&|hedz
 copperman:\kop&m2n
@@ -22449,7 +22449,7 @@ cores:\k>rz
 corespondent:|k>r2\spond2nt
 corestate:\k>r|st*t
 corestates:\k>r|st*ts
-corestates':\k>r2|st*ts
+corestates:\k>r2|st*ts
 coretech:\k>r|tek
 coretta:k>\ret2
 corette:\k>\ret
@@ -22592,11 +22592,11 @@ corporatewatch:\k>rpr2t|wo$
 corporatewide:\k>rp&!t|w)d
 corporation:|k>rp&\*12n
 corporations:|k>rp&\*12nz
-corporations':|k>rp&\*12nz
+corporations:|k>rp&\*12nz
 corporatism:\k>rp&2|t!z2m
 corporatist:\k>rp&2t!st
 corps:\k>r,\k>rz
-corps':\k>rz
+corps:\k>rz
 corpse:\k>rps
 corpses:\k>rps2z,\k>rps!z
 corpsman:\k>rm2n
@@ -22643,7 +22643,7 @@ corresponded:|k>r2\spond!d
 correspondence:|k>r2\spond2ns
 correspondent:|k>r2\spond2nt
 correspondents:|k>r2\spond2nts
-correspondents':|k>r2\spond2nts
+correspondents:|k>r2\spond2nts
 corresponding:|k>r2\spond!=
 correspondingly:|k>r2\spond!=li
 corresponds:|k>r2\spondz
@@ -22711,7 +22711,7 @@ corteland:\k>rtl2nd
 cortelyou:\k>rtel|ju
 corten:\k>rten
 cortens:\k>rtenz
-cortens':\k>rtenz
+cortens:\k>rtenz
 corter:\k>rt&
 cortes:|k>r\tez
 cortese:k&\t*zi
@@ -22782,7 +22782,7 @@ cosmodrome:\k>zm2|dr[m
 cosmology:k>z\m>l28i
 cosmonaut:\k>zm2|n>t
 cosmonauts:\k>zm2|n>ts
-cosmonauts':\k>zm2|n>ts
+cosmonauts:\k>zm2|n>ts
 cosmopolitan:|kozm2\pol2t2n
 cosmopulos:|k>zm2p\jul[s
 cosmos:\kozm[s
@@ -23045,7 +23045,7 @@ counties:\k(niz,\k(ntiz
 counting:\k(n!=,\k(nt!=
 countless:\k(ntl2s
 countries:\k2ntriz
-countries':\k2ntriz
+countries:\k2ntriz
 country:\k2ntri
 countryfolk:\k2ntri|f[k
 countryman:\k2ntrim2n
@@ -23118,7 +23118,7 @@ courtright:\k>r|tr)t
 courtroom:\k>r|trum
 courtrooms:\k>r|trumz
 courts:\k>rts
-courts':\k>rts
+courts:\k>rts
 courtship:\k>r|$!p
 courtwright:\k>r|tr)t
 courtyard:\k>rt|jord
@@ -23213,7 +23213,7 @@ cowbell:\k(|bel
 cowbells:\k(|belz
 cowboy:\k(|b]
 cowboys:\k(|b]z
-cowboys':\k(|b]z
+cowboys:\k(|b]z
 cowden:\k(d2n
 cowdery:\k(d&i
 cowdrey:\k(dri
@@ -23240,7 +23240,7 @@ cowlick:\k(l!k
 cowlicks:\k(l!ks
 cowling:\k(l!=
 cowlings:\k(l!=z
-cowlings':\k(l!=z
+cowlings:\k(l!=z
 cowman:\k(m2n
 coworker:\k[\w&k&
 coworkers:\k[\w&k&z
@@ -23545,7 +23545,7 @@ crediting:\kred2t!=
 credito:kre\dit[
 creditor:\kred2t&,\kred!t&
 creditors:\kred!t&z
-creditors':\kred!t&z
+creditors:\kred!t&z
 credits:\kred!ts
 creditwatch:\kred!t|wo$
 creditworthiness:\kred!t|w&6in2s
@@ -23702,7 +23702,7 @@ criminalized:\kr!m2n2|l)zd
 criminalizing:\kr!m2n2|l)z!=
 criminally:\kr!m2n2li
 criminals:\kr!m2n2lz
-criminals':\kr!m2n2lz
+criminals:\kr!m2n2lz
 criminologist:|kr!m!\nol28!st
 criminologists:|kr!m!\nol28!sts
 criminology:|kr!m!\nol28i
@@ -23795,7 +23795,7 @@ criticized:\kr!t2|s)zd
 criticizes:\kr!t!|s)z!z
 criticizing:\kr!t!|s)z!=
 critics:\kr!t!ks
-critics':\kr!t!ks
+critics:\kr!t!ks
 critique:kr2\tik,kr!\tik
 critiqued:kr!\tikt
 critiques:kr!\tiks
@@ -23822,7 +23822,7 @@ croat:\kr[|ot
 croatia:kr[\*12
 croatian:kr[\*12n
 croatians:kr[\*12nz
-croatians':kr[\*12nz
+croatians:kr[\*12nz
 croats:\kr[|ots
 croc:\krok
 crocco:\krok[
@@ -24197,7 +24197,7 @@ cubism:\kjub!z2m
 cubist:\kjub!st
 cubit:\kjub!t
 cubs:\k2bz
-cubs':\k2bz
+cubs:\k2bz
 cuccaro:ku\kor[
 cucchi:\kuki
 cucchiara:kuki\or2
@@ -24463,7 +24463,7 @@ curran:\k&2n
 curren:\k&2n
 currence:\k&2ns
 currencies:\k&2nsiz
-currencies':k&\ensiz
+currencies:k&\ensiz
 currency:\k&2nsi
 currencywatch:\k&2nsi|wo$
 currens:\k&2nz
@@ -24505,7 +24505,7 @@ curti:\k?rti
 curtice:\k?rt!s
 curtin:\k&t!n
 curtis:\k&t2s,\k&t!s
-curtis':\k&t!s
+curtis:\k&t!s
 curtiss:\k&t!s
 curtly:\k&tli
 curtner:\k&tn&
@@ -24561,7 +24561,7 @@ customarily:|k2st2\mer2li
 customary:\k2st2|meri
 customer:\k2st2m&
 customers:\k2st2m&z
-customers':\k2st2m&z
+customers:\k2st2m&z
 customizable:\k2st2|m)z2b2l
 customize:\k2st2|m)z
 customized:\k2st2|m)zd
@@ -25006,7 +25006,7 @@ dalla:\d%l2
 dallaire:\doler
 dallara:|d%\lor2
 dallas:\d%l2s
-dallas':\d%l2s
+dallas:\d%l2s
 dalley:\d%li
 dallhold:\d>l|h[ld
 dalliance:\d%li2ns
@@ -25122,10 +25122,10 @@ dance:\d%ns
 danced:\d%nst
 dancer:\d%ns&
 dancers:\d%ns&z
-dancers':\d%ns&z
+dancers:\d%ns&z
 dances:\d%ns2z,\d%ns!z
 dancey:\d%nsi
-dancin':\d%ns!n
+dancin:\d%ns!n
 dancing:\d%ns!=
 dancsak:\d%nks%k
 dancy:\d%nsi
@@ -25419,7 +25419,7 @@ datapoint:\d%t2\p]nt,\d*t2\p]nt
 datapoints:\d%t2\p]nts,\d*t2\p]nts
 datapower:\d%t2|p(r,\d*t2|p(r
 dataproducts:\d*t2|prod2kts
-dataproducts':\d%t2|pr>d2kts,\d*t2|pr>d2kts
+dataproducts:\d%t2|pr>d2kts,\d*t2|pr>d2kts
 dataquest:\d%t2|kwest,\d*t2|kwest
 dataram:\d%t&|%m,\d*t&|%m
 datarex:\d%t&|eks,\d*t&|eks
@@ -25465,7 +25465,7 @@ daughter:\d>t&
 daughter-in-law:\d>t&!n|l>
 daughters:\d>t&z
 daughters-in-law:\d>t&z!n|l>
-daughters':\d>t&z
+daughters:\d>t&z
 daughtery:\d>t&i
 daughton:\d>t2n
 daughtrey:\d>tri
@@ -25522,7 +25522,7 @@ davinci:d2\v!n|$i
 davino:do\vin[
 davir:d2\v!r
 davis:\d*v2s,\d*v!s
-davis':\d*v2s,\d*v2s2z
+davis:\d*v2s,\d*v2s2z
 davison:\d*v!s2n
 davisson:\d%v!s2n
 davitt:d2\v!t
@@ -25549,7 +25549,7 @@ daws:\d>z
 dawsey:\d>si
 dawson:\d>s2n
 dax:\d%ks
-dax':\d%ks
+dax:\d%ks
 daxor:\d%ks&
 day:\d*
 day-by-day:\d*b)|d*
@@ -25575,7 +25575,7 @@ daylong:\d*|l>=
 daynard:\d*n&d
 dayne:\d*n
 days:\d*z
-days':\d*z
+days:\d*z
 daytime:\d*|t)m
 daytimes:\d*|t)mz
 dayton:\d*t2n
@@ -25643,7 +25643,7 @@ deale:\dil
 dealer:\dil&
 dealerline:\dil&|l)n
 dealers:\dil&z
-dealers':\dil&z
+dealers:\dil&z
 dealership:\dil&|1!p
 dealerships:\dil&|1!ps
 dealey:\dili
@@ -25744,7 +25744,7 @@ debenedetto:d!ben2\det[
 debenedictis:\deb!n2|d!kt!s
 debenture:d2\ben$&
 debentures:d2\ben$&z
-debentures':d!\ben$&z
+debentures:d!\ben$&z
 debernardi:d!b&\nordi
 deberry:\diberi
 debes:\dibz
@@ -25804,7 +25804,7 @@ debtholder:\det|h[ld&
 debtholders:\det|h[ld&z
 debtor:\det&
 debtors:\det&z
-debtors':\det&z
+debtors:\det&z
 debts:\dets
 debug:di\b2g
 debugging:di\b2g!=
@@ -26164,7 +26164,7 @@ defence:d!\fens
 defend:d!\fend
 defendant:d!\fend2nt
 defendants:d!\fend2nts
-defendants':d!\fend2nts
+defendants:d!\fend2nts
 defended:d!\fend2d,d!\fend!d
 defender:d!\fend&
 defenders:d!\fend&z
@@ -26520,7 +26520,7 @@ deleeuw:\deliu
 delegate:\del2|g*t,\del2g2t
 delegated:\del2|g*t2d
 delegates:\del2|g*ts,\del2g2ts
-delegates':|del2\g*ts
+delegates:|del2\g*ts
 delegating:\del2|g*t!=
 delegation:|del2\g*12n
 delegations:|del2\g*12nz
@@ -26877,7 +26877,7 @@ democratized:d!\mokr2|t)zd
 democratizes:d!\mokr2|t)z!z
 democratizing:d!\mokr2|t)z!=
 democrats:\dem2|kr%ts
-democrats':\dem2|kr%ts
+democrats:\dem2|kr%ts
 demodulate:|di|mo82\l*t
 demodulated:|di|mo82\l*t2d
 demodulates:|di|mo82\l*ts
@@ -27091,7 +27091,7 @@ dentino:d!n\tin[
 dentist:\den!st,\dent2st,\dent!st
 dentistry:\den!stri,\dent!stri
 dentists:\dent2sts,\dent!sts
-dentists':\den!sts,\dent!sts
+dentists:\den!sts,\dent!sts
 dentition:den\t!12n
 dentler:\dentl&
 denton:\dent2n
@@ -27231,7 +27231,7 @@ depositional:|dep2\z!12n2l
 depositions:|dep2\z!12nz
 depositor:d2\poz!t&
 depositors:d2\poz!t&z
-depositors':d!\poz!t&z
+depositors:d!\poz!t&z
 depository:d!\poz2|t>ri
 deposits:d2\poz!ts,d!\poz2ts
 depot:\dip[
@@ -27530,7 +27530,7 @@ designee:|dez!g\ni
 designees:|dez!g\niz
 designer:d!\z)n&
 designers:d!\z)n&z
-designers':d!\z)n&z
+designers:d!\z)n&z
 designing:d!\z)n!=
 designor:d!\s!gn&
 designs:d!\z)nz
@@ -27820,7 +27820,7 @@ developable:d!\vel2p2b2l
 developed:d!\vel2pt
 developer:d!\vel2p&
 developers:d!\vel2p&z
-developers':d!\vel2p&z
+developers:d!\vel2p&z
 developing:d!\vel2p!=
 development:d!\vel2pm2nt
 developmental:d!|vel2p\men2l,d!|vel2p\ment2l
@@ -27863,7 +27863,7 @@ devilishly:\dev2l!1li,\devl!1li
 deville:d2\v!l
 devillier:d2\v!lj&
 devils:\dev2lz
-devils':\dev2lz
+devils:\dev2lz
 devilwood:\dev2l|w?d
 devin:\dev!n
 devincent:d*\vins2nt
@@ -28149,7 +28149,7 @@ dicke:\d!k
 dickel:\d!k2l
 dicken:\d!k2n
 dickens:\d!k2nz
-dickens':\d!k2nz
+dickens:\d!k2nz
 dickensheets:\d!k2n|1its
 dickensian:d!\kenzi2n
 dickenson:\d!k!ns2n
@@ -28531,7 +28531,7 @@ diminutive:d!\m!nj2t!v
 dimitri:d!\mitri
 dimitrios:d!\mitri|[s
 dimitrius:d!\mitri|2s
-dimitrius':d!\mitri|2s
+dimitrius:d!\mitri|2s
 dimitroff:\d!m!tr>f
 dimitruk:d!\mi|tr?k
 dimly:\d!mli
@@ -28604,7 +28604,7 @@ dinius:\d)ni!s
 dink:\d!=k
 dinkel:\d!=k2l
 dinkins:\d!=k!nz
-dinkins':\d!=k!nz
+dinkins:\d!=k!nz
 dinky:\d!=ki
 dinmukhamed:|d!nmu\komed
 dinneen:d!\nin
@@ -28646,7 +28646,7 @@ dior:|di\>r
 diorio:di\>ri|[
 diorite:\d)&|)t
 dios:\di[s
-dios':\di[s
+dios:\di[s
 dioxide:d)\ok|s)d
 dioxides:d)\oks)dz
 dioxin:|d)\oks!n
@@ -28673,7 +28673,7 @@ diplomat:\d!pl2|m%t
 diplomatic:|d!pl2\m%t!k
 diplomatically:|d!pl2\m%t!kli
 diplomats:\d!pl2|m%ts
-diplomats':\d!pl2|m%ts
+diplomats:\d!pl2|m%ts
 dipole:\d)|p[l
 dipped:\d!pt
 dippel:\d!p2l
@@ -28707,7 +28707,7 @@ directorate:d)\rekt&2t,d&\ekt&2t,di\rekt&2t,d!\rekt&2t
 directorial:d)rek\t>ri2l,d&ek\t>ri2l,direk\t>ri2l,d!rek\t>ri2l
 directories:d)\rekt&iz,d&\ekt&iz,di\rekt&iz,d!\rekt&iz
 directors:d)\rekt&z,d&\ekt&z,di\rekt&z,d!\rekt&z
-directors':d&\ekt&z,di\rekt&z,d!\rekt&z
+directors:d&\ekt&z,di\rekt&z,d!\rekt&z
 directorship:d)\rekt&|1!p,d&\ekt&|1!p,di\rekt&|1!p,d!\rekt&|1!p
 directorships:d)\rekt&|1!ps,d&\ekt&|1!ps,di\rekt&|1!ps,d!\rekt&|1!ps
 directory:d)\rekt&i,d&\ekt&i,di\rekt&i,d!\rekt&i
@@ -29263,7 +29263,7 @@ disservice:d!\s&v2s
 dissidence:\d!s2d2ns
 dissident:\d!s2d2nt
 dissidents:\d!s2d2nts
-dissidents':\d!s2d2nts
+dissidents:\d!s2d2nts
 dissimilar:d!\s!m2l&
 dissimilarity:|d!|s!m2\l%r2ti
 dissing:\d!s!=
@@ -29314,7 +29314,7 @@ distilled:d!\st!ld
 distiller:d!\st!l&
 distilleries:d!\st!l&iz
 distillers:d!\st!l&z
-distillers':d!\st!l&z
+distillers:d!\st!l&z
 distillery:d!\st!l&i
 distilling:d!\st!l!=
 distills:d!\st!lz
@@ -29358,7 +29358,7 @@ distributions:|d!str2b\ju12nz
 distributive:d!\str!bjut!v
 distributor:d!\str!bj2t&
 distributors:d!\str!bj2t&z
-distributors':d!\str!bj2t&z
+distributors:d!\str!bj2t&z
 distributorship:d!\str!bjut&|1!p
 distributorships:d!\str!bjut&|1!ps
 district:\d!str!kt
@@ -29491,7 +29491,7 @@ divisible:d!\v!z2b2l
 division:d!\v!32n
 divisional:d!\v!32n2l
 divisions:d!\v!32nz
-divisions':d!\v!32nz
+divisions:d!\v!32nz
 divisive:d!\v)s!v
 divisiveness:d!\v)s!vn2s
 divison:d!\v!s2n,d!\v!32n
@@ -29630,7 +29630,7 @@ doctorates:\dokt&2ts
 doctored:\dokt&d
 doctoring:\dokt&!=
 doctors:\dokt&z
-doctors':\dokt&z
+doctors:\dokt&z
 doctrinaire:|doktr2\ner
 doctrinal:\doktr2n2l
 doctrine:\doktr2n,\d>kt&!n
@@ -29655,7 +29655,7 @@ dodged:\do8d
 dodgen:\do82n
 dodger:\do8&
 dodgers:\do8&z
-dodgers':\do8&z
+dodgers:\do8&z
 dodges:\do8!z
 dodging:\do8!=
 dodi:\d[di
@@ -29720,7 +29720,7 @@ dogmatic:dog\m%t!k,d>g\m%t!k
 dogmatically:dog\m%t!kli
 dogmatism:\dogm2|t!z2m
 dogs:\dogz,\d>gz
-dogs':\d>gz
+dogs:\d>gz
 dogwood:\d>|gw?d
 dogwoods:\d>|gw?dz
 doh:\d[
@@ -29743,7 +29743,7 @@ doidge:\d]8
 doig:\d]g
 doilies:\d]liz
 doily:\d]li
-doin':\du!n
+doin:\du!n
 doing:\du!=
 doings:\du!=z
 doiron:\d]r2n,d]\r>n
@@ -29790,7 +29790,7 @@ dollar:\dol&,\d>l&
 dollard:\dol&d
 dollarhide:\dol&|h)d
 dollars:\dol&z,\d>l&z
-dollars':\dol&z
+dollars:\dol&z
 dolle:\dol
 dolled:\dold
 dollens:\dol2nz
@@ -29816,7 +29816,7 @@ dolorosa:d[l&\[s2
 dolph:\d[lf
 dolphin:\dolf2n
 dolphins:\dolf2nz
-dolphins':\dolf2nz
+dolphins:\dolf2nz
 dols:\dolz
 dolson:\d[ls2n
 dolton:\d[lt2n
@@ -29999,13 +29999,13 @@ donohoo:\don2|hu
 donohue:\don2|hju,\don2ju
 donor:\d[n&
 donors:\d[n&z
-donors':\d[n&z
+donors:\d[n&z
 donovan:\don2v2n
 dons:\donz
 donsbach:\donz|bok
 donut:\d[|n2t
 donuts:\d[|n2ts
-donuts':\d[|n2ts
+donuts:\d[|n2ts
 donvan:\donv2n
 donze:\donz
 doo:\du
@@ -30186,7 +30186,7 @@ dosimeters:d[\s!m2t&z
 dosing:\d[s!=
 doskocil:\d>sk2s!l
 dospasos:d[\sp%s[s
-dospasos':d[\sp%s[s
+dospasos:d[\sp%s[s
 doss:\d>s
 dossantos:d[\sont[z
 dossett:\dos!t
@@ -30274,7 +30274,7 @@ doughy:\d[i
 dougie:\dugi
 dougl:\dug2l
 douglas:\d2gl2s
-douglas':\d2gl2s
+douglas:\d2gl2s
 douglass:\d2gl2s
 doukas:\d(k2z
 doulton:\d[lt2n
@@ -30574,7 +30574,7 @@ dreamlike:\drim|l)k
 dreams:\drimz
 dreamt:\dremt
 dreamworks:\drim|w&ks
-dreamworks':\drim|w&ks
+dreamworks:\drim|w&ks
 dreamworld:\drim|w&ld
 dreamy:\drimi
 dreariness:\dririn2s
@@ -30710,7 +30710,7 @@ driven:\dr!v2n
 driver:\dr)v&
 driverless:\dr)v&l!s
 drivers:\dr)v&z
-drivers':\dr)v&z
+drivers:\dr)v&z
 drives:\dr)vz
 driveway:\dr)v|w*
 driveways:\dr)v|w*z
@@ -30817,7 +30817,7 @@ druggists:\dr2g2sts,\dr2g!sts
 drugmaker:\dr2g|m*k&
 drugmakers:\dr2g|m*k&z
 drugs:\dr2gz
-drugs':\dr2gz
+drugs:\dr2gz
 drugstore:\dr2g|st>r
 drugstores:\dr2g|st>rz
 druid:\dru!d
@@ -30965,7 +30965,7 @@ ducking:\d2k!=
 duckling:\d2kl!=
 ducklings:\d2kl!=z
 ducks:\d2ks
-ducks':\d2ks
+ducks:\d2ks
 ducksworth:\d2k|sw&0
 duckwall:\d2|kw>l
 duckweed:\d2|kwid
@@ -31090,7 +31090,7 @@ duisburg:\dusb&g
 duitsman:\dutsm2n
 duk:\d2k
 dukakis:du\kok!s
-dukakis':du\kok!s,du\kok!s!z
+dukakis:du\kok!s,du\kok!s!z
 dukakises:du\kok!s!z
 dukart:\d2kort
 duke:\duk
@@ -31230,7 +31230,7 @@ dunkelberger:\d2=k2lb&g&
 dunker:\d2=k&
 dunkerley:\d2=k&li
 dunkin:\d2=k!n
-dunkin':\d2=k!n
+dunkin:\d2=k!n
 dunkirk:\d2nk&k
 dunkle:\d2=k2l
 dunkleberger:\d2=k2lb&g&
@@ -31545,7 +31545,7 @@ dynalectron:\d)n2|lektr2n
 dynamic:d)\n%m!k
 dynamically:d)\n%m!|kli
 dynamics:d)\n%m!ks
-dynamics':d)\n%m!ks,d!\n%m!ks
+dynamics:d)\n%m!ks,d!\n%m!ks
 dynamism:\d)n2|m!z2m
 dynamite:\d)n2|m)t
 dynamo:\d)n2|m[
@@ -31607,7 +31607,7 @@ eader:\id&
 eades:\idz
 eadie:\edi
 eads:\idz
-eads':\idz
+eads:\idz
 eady:\idi
 eagan:\ig2n
 eagar:\ig&
@@ -31680,7 +31680,7 @@ earnhart:\&n|hort
 earnheart:\&n|hort
 earning:\&n!=
 earnings:\&n!=z
-earnings':\&n!=z
+earnings:\&n!=z
 earns:\&nz
 earnshaw:\&n|1>
 earp:\&p
@@ -31950,7 +31950,7 @@ economics:|ek2\nom!ks,|ik2\nom!ks
 economies:i\kon2miz,!\kon2miz
 economist:i\kon2m!st,!\kon2m!st
 economists:i\kon2m!s,!\kon2m!s,!\kon2m!sts
-economists':i\kon2m!sts,!\kon2m!sts
+economists:i\kon2m!sts,!\kon2m!sts
 economize:i\kon2|m)z,!\kon2|m)z
 economizes:i\kon2|m)z2z,!\kon2|m)z2z
 economizing:i\kon2|m)z!=,!\kon2|m)z!=
@@ -32074,7 +32074,7 @@ editorializing:|ed2\t>ri2|l)z!=
 editorially:|ed2\t>ri2li
 editorials:|ed2\t>ri2lz
 editors:\ed!t&z
-editors':\ed!t&z
+editors:\ed!t&z
 editorship:\ed2t&|1!p
 edits:\ed!ts
 ediva:e\div2
@@ -32144,7 +32144,7 @@ edward:\edw&d
 edwardian:ed\w>rdi2n
 edwardine:!d\w>rd)n
 edwards:\edw&dz
-edwards':\edw&dz
+edwards:\edw&dz
 edwardson:\edw>rds2n
 edwin:\edw2n,\edw!n
 edwina:ed\win2
@@ -32547,7 +32547,7 @@ elderkin:\eld&k!n
 elderly:\eld&li
 elderman:\eld&m2n
 elders:\eld&z
-elders':\eld&z
+elders:\eld&z
 eldest:\eld2st
 eldin:\eld!n
 eldon:!l\don
@@ -32590,7 +32590,7 @@ electricals:!\lektr!k2lz
 electricar:!\lektr!|kor
 electrician:!lek\tr!12n
 electricians:!lek\tr!12nz
-electricians':!lek\tr!12nz
+electricians:!lek\tr!12nz
 electricite:2|lek\tr!|s!t*
 electricity:!|lek\tr!s2ti
 electrics:!\lektr!ks
@@ -32629,7 +32629,7 @@ electron:|!\lektron
 electronic:|!|lek\tron!k
 electronically:|!|lek\tron!k2|li,!|lek\tron!kli
 electronics:|!|lek\tron!ks
-electronics':|!|lek\tron!ks
+electronics:|!|lek\tron!ks
 electrons:|!\lektronz
 electrophoresis:|!|lektr[f>\r!s!s,!lektr[f&\is!s
 electrophoretogram:!|lektrof2\ret2gr%m
@@ -32667,7 +32667,7 @@ elephant:\el2f2nt
 elephantiasis:|el!f2n\t)2s!s
 elephantine:|el2\f%n|tin
 elephants:\el2f2nts
-elephants':\el2f2nts
+elephants:\el2f2nts
 eletr:\el2t&
 eleuthera:!\lu0&2
 elevate:\el2|v*t
@@ -32941,7 +32941,7 @@ elvington:\elv!=t2n
 elvira:el\v)r2
 elvire:\el|v)r
 elvis:\elv!s
-elvis':\elv!s
+elvis:\elv!s
 elvy:\elvi
 elway:\el|w*
 elwell:!l\wel
@@ -33149,7 +33149,7 @@ eminently:\em2n2ntli
 emir:*\m!r,!\m!r
 emirate:\em&|*t,\em&2t
 emirates:\em&|*ts,\em&2ts
-emirates':\em&|*ts,\em&2ts
+emirates:\em&|*ts,\em&2ts
 emison:\em!s2n
 emissaries:\em2|seriz
 emissary:\em2|seri
@@ -33237,10 +33237,10 @@ employable:em\pl]2b2l
 employed:em\pl]d,!m\pl]d
 employee:em\pl]i,!m\pl]i
 employees:em\pl]iz,!m\pl]iz
-employees':em\pl]iz
+employees:em\pl]iz
 employer:em\pl]&,!m\pl]&
 employers:em\pl]&z,!m\pl]&z
-employers':em\pl]&z,!m\pl]&z
+employers:em\pl]&z,!m\pl]&z
 employing:em\pl]!=,!m\pl]!=
 employment:em\pl]m2nt,!m\pl]m2nt
 employments:em\pl]m2nts,!m\pl]m2nts
@@ -33453,7 +33453,7 @@ endosperm:\end2|sp&m
 endothelial:|end[\0i|li2l
 endothermic:|end[\0&m!k
 endotronics:|end[\tron!ks
-endotronics':|end2\tron!ks
+endotronics:|end2\tron!ks
 endow:en\d(
 endowed:en\d(d
 endowing:en\d(!=
@@ -33484,7 +33484,7 @@ enea:\eni2
 enema:\en2m2
 enemas:\en2m2z
 enemies:\en2miz
-enemies':\en2miz
+enemies:\en2miz
 enemy:\en2mi
 energas:\en&|g%s
 energen:\en&|8en
@@ -33564,9 +33564,9 @@ engineer:\en82\n!r
 engineered:|en82\nird
 engineering:\en82\n!r!=
 engineers:\en82\n!rz
-engineers':\en82\n!rz
+engineers:\en82\n!rz
 engines:\en82nz
-engines':\e=|ginz
+engines:\e=|ginz
 england:\!=gl2nd
 englander:\!=gl2nd&
 englanders:\!=gl2nd&z
@@ -33791,7 +33791,7 @@ enterococcus:|ent&2\k>k2s
 enterology:|ent&\ol28i
 enterprise:\en&|pr)z,\ent&|pr)z
 enterprises:\en&|pr)z!z,\ent&|pr)z!z
-enterprises':\en&|pr)z!z,\ent&|pr)z!z
+enterprises:\en&|pr)z!z,\ent&|pr)z!z
 enterprising:\en&|pr)z!=,\ent&|pr)z!=
 enterra:en\ter2
 enters:\en&z,\ent&z
@@ -33824,7 +33824,7 @@ entire:!n\t)&
 entirely:!n\t)&li
 entirety:!n\t)&ti
 entities:\ent!tiz
-entities':\ent!tiz
+entities:\ent!tiz
 entitle:en\t)t2l,!n\t)t2l
 entitled:en\t)t2ld
 entitlement:en\t)t2lm2nt
@@ -33912,7 +33912,7 @@ environmental:!n|v)r2n\men2l,!n|v)r2n\ment2l
 environmentalism:en\v)r2n|men2|l!z2m,en\v)r2n|ment2|l!z2m
 environmentalist:!n|v)r2n\men2l!st,!n|v)r2n\ment2l!st
 environmentalists:en\v)r2n|men2l!s,en\v)r2n|men2l!sts,en\v)r2n|ment2l!s,en\v)r2n|ment2l!sts
-environmentalists':en|v)r2n\men2l!sts,!n|v)r2n\ment2l!sts
+environmentalists:en|v)r2n\men2l!sts,!n|v)r2n\ment2l!sts
 environmentally:!n|v)r2n\men2li,!n|v)r2n\ment2li
 environments:!n\v)r2nm2nts
 environs:!n\v)r2nz
@@ -34097,7 +34097,7 @@ equitec:\ekw2|tek
 equitex:\ekw2|teks
 equiticorp:\ekw!ti|k>rp
 equities:\ekw2tiz
-equities':\ekw2tiz
+equities:\ekw2tiz
 equity:\ekw2ti
 equivalence:!\kw!v2l2ns
 equivalency:!\kw!v2l2nsi
@@ -34734,7 +34734,7 @@ europa:j?\r[p2
 europe:\j?r2p
 european:|j?r2\pi2n
 europeans:|j?r2\pi2nz
-europeans':|j?r2\pi2nz
+europeans:|j?r2\pi2nz
 europeenne:\jur[|pin
 europewide:\j?r2p\w)d
 europhile:\j?r[f)l
@@ -34802,7 +34802,7 @@ evanko:!\v%=k[
 evanoff:\ev2|n>f
 evanov:\ev2|n>v
 evans:\ev2nz
-evans':\ev2nz
+evans:\ev2nz
 evanson:\ev2ns2n
 evanston:\ev2nst2n
 evansville:\ev2nz|v!l
@@ -34856,7 +34856,7 @@ everette:\ev&\et
 everetts:\ev&2ts,\evr2ts
 everex:\ev&2ks
 everglades:\ev&|gl*dz
-everglades':\ev&|gl*dz
+everglades:\ev&|gl*dz
 evergood:\ev&|g?d
 evergreen:\ev&|grin
 evergreens:\ev&|grinz
@@ -34875,7 +34875,7 @@ everly:\ev&li
 everman:\ev&m2n
 evermore:\ev&|m>r
 evers:\ev&z
-evers':\ev&z
+evers:\ev&z
 eversman:\ev&sm2n
 eversole:\ev&|s[l
 everson:\ev&s2n
@@ -35007,7 +35007,7 @@ examine:!g\z%m!n
 examined:!g\z%m2nd
 examiner:!g\z%m2n&
 examiners:!g\z%m!n&z
-examiners':!g\z%m!n&z
+examiners:!g\z%m!n&z
 examines:!g\z%m2nz
 examining:!g\z%m!n!=
 example:!g\z%mp2l
@@ -35066,7 +35066,7 @@ exchanged:!ks\$*n8d
 exchanger:!ks\$*n8&
 exchangers:!ks\$*n8&z
 exchanges:!ks\$*n82z,!ks\$*n8!z
-exchanges':eks\$*n8!z
+exchanges:eks\$*n8!z
 exchanging:!ks\$*n8!=
 exchequer:\eks|$ek&
 excimer:|ek\s!m&
@@ -35140,7 +35140,7 @@ executioners:|eks2k\ju12n&z
 executions:|eks2k\ju12nz
 executive:!g\zekj2t!v
 executives:!g\zekj2t!vz
-executives':eg\zekj2t!vz
+executives:eg\zekj2t!vz
 executone:|eg\zekju|t[n
 executor:!g\zekj2t&
 executors:!g\zekj2t&z
@@ -35324,7 +35324,7 @@ expert:\eksp&t
 expertise:|eksp&\tiz
 expertly:\eksp&tli
 experts:\eksp&ts
-experts':\eksp&ts
+experts:\eksp&ts
 expiate:\ekspi|*t
 expiration:|eksp&\*12n
 expirations:|eksp&\*12nz
@@ -35387,7 +35387,7 @@ exportable:ek\sp>rt2b2l
 exported:!k\sp>rt2d
 exporter:!k\sp>rt&
 exporters:!k\sp>rt&z
-exporters':|ek\sp>rt&z
+exporters:|ek\sp>rt&z
 exporting:!k\sp>rt!=
 exports:\eksp>rts
 expos:\eksp[z
@@ -35405,7 +35405,7 @@ expounded:!k\sp(nd2d
 expounding:!k\sp(nd!=
 expounds:!k\sp(ndz
 express:!ks\pres
-express':!ks\pres
+express:!ks\pres
 expressed:!ks\prest
 expresses:!ks\pres2z,!ks\pres!z
 expressing:!ks\pres!=
@@ -35590,7 +35590,7 @@ eyer:\)&
 eyerly:\i&li
 eyerman:\i&m2n
 eyes:\)z
-eyes':\)z
+eyes:\)z
 eyeshade:\)|1*d
 eyeshadow:\)\1%d[
 eyesight:\)|s)t
@@ -35720,7 +35720,7 @@ factored:\f%kt&d
 factories:\f%kt&iz
 factoring:\f%kt&!=
 factors:\f%kt&z
-factors':\f%kt&z
+factors:\f%kt&z
 factory:\f%kt&i
 facts:\f%ks,\f%kts
 factual:\f%k$u2l
@@ -35969,7 +35969,7 @@ familiarity:f2|m!l\jer2ti
 familiarize:f2\m!lj&|)z
 familiarized:f2\m!lj&|)zd
 families:\f%m2liz,\f%mliz
-families':\f%m2liz
+families:\f%m2liz
 family:\f%m2li,\f%mli
 famine:\f%m2n
 famines:\f%m2nz
@@ -36018,7 +36018,7 @@ fanning:\f%n!=
 fannon:\f%n2n
 fanny:\f%ni
 fans:\f%nz
-fans':\f%nz
+fans:\f%nz
 fansler:\f%ns2l&,\f%nzl&
 fant:\f%nt
 fanta:\font2
@@ -36111,7 +36111,7 @@ farmboy:\form|b]
 farmed:\formd
 farmer:\form&
 farmers:\form&z
-farmers':\form&z
+farmers:\form&z
 farmhand:\form|h%nd
 farmhands:\form|h%ndz
 farmhouse:\form|h(s
@@ -36122,7 +36122,7 @@ farmington:\form!=t2n
 farmland:\form|l%nd
 farmlands:\form|l%ndz
 farms:\formz
-farms':\formz
+farms:\formz
 farmstead:\form|sted
 farmworker:\form|w&k&
 farmworkers:\form|w&k&z
@@ -36268,7 +36268,7 @@ fatherland:\fo6&|l%nd
 fatherless:\fo6&l2s
 fatherly:\fo6&li
 fathers:\fo6&z
-fathers':\f%0&z
+fathers:\f%0&z
 fathi:\f%0i
 fathom:\f%62m
 fathomable:\f%62m2b2l
@@ -36543,7 +36543,7 @@ feel:\fil
 feeler:\fil&
 feelers:\fil&z
 feeley:\fili
-feelin':\fil!n
+feelin:\fil!n
 feeling:\fil!=
 feelings:\fil!=z
 feels:\filz
@@ -37161,7 +37161,7 @@ fielders:\fild&z
 fieldhouse:\fild|h(s
 fielding:\fild!=
 fields:\fildz
-fields':\fildz
+fields:\fildz
 fieldwork:\fild|w&k
 fiend:\find
 fiendish:\find!1
@@ -37212,8 +37212,8 @@ figgs:\f!gz
 fight:\f)t
 fighter:\f)t&
 fighters:\f)t&z
-fighters':\f)t&z
-fightin':\f)t!n
+fighters:\f)t&z
+fightin:\f)t!n
 fighting:\f)t!=
 fightings:\f)t!=z
 fightmaster:\f)t|m%st&
@@ -37608,7 +37608,7 @@ firming:\f&m!=
 firmly:\f&mli
 firmness:\f&mn2s
 firms:\f&mz
-firms':\f&mz
+firms:\f&mz
 firmware:\f&m|wer
 firpo:\f!rp[
 firs:\f&z
@@ -38013,7 +38013,7 @@ fleischmann:\fl)1m2n
 fleisher:\fl)1&
 fleishman:\fl)1m2n
 fleiss:\fl)s,\fl)1
-fleiss':\fl)s,\fl)1
+fleiss:\fl)s,\fl)1
 fleissner:\fl)sn&
 fleitas:\fl)t2s
 fleming:\flem!=
@@ -38252,7 +38252,7 @@ flowered:\fl(&d
 flowering:\fl(&!=
 flowerpot:\fl(&|pot
 flowers:\fl(&z
-flowers':\fl(&z
+flowers:\fl(&z
 flowery:\fl(&i
 flowing:\fl[!=
 flown:\fl[n
@@ -38461,7 +38461,7 @@ folklore:\f[|kl>r
 folkman:\f[km2n
 folkrock:\f[|krok
 folks:\f[ks
-folks':\f[ks
+folks:\f[ks
 folkstone:\f[k|st[n
 folksy:\f[ksi
 folktale:\f[k|t*l
@@ -38554,7 +38554,7 @@ foodie:\fudi
 foodmaker:\fud|m*k&
 foodmakers:\fud|m*k&z
 foods:\fudz
-foods':\fudz
+foods:\fudz
 foodservice:\fud\s&v!s
 foodstuff:\fud|st2f
 foodstuffs:\fud|st2fs
@@ -38631,7 +38631,7 @@ forbad:f&\b%d
 forbade:f&\b*d
 forbearance:f>r\ber2ns
 forbes:\f>rbz
-forbes':\f>rbz
+forbes:\f>rbz
 forbeses:\f>rbz!z
 forbess:f>r\bes
 forbid:f&\b!d,f>\b!d
@@ -38648,7 +38648,7 @@ forcefully:\f>rsf2li
 forcefulness:\f>rsf2ln2s
 forceps:\f>rseps
 forces:\f>rs!z
-forces':\f>rs!z
+forces:\f>rs!z
 forcible:\f>rs2b2l
 forcibly:\f>rs2bli
 forcier:\f>rki&
@@ -38699,7 +38699,7 @@ foreheads:\f>r|hedz
 foreign:\for2n,\f>r2n
 foreigner:\for2n&,\forn&,\f>r2n&,\f>rn&
 foreigners:\for2n&z,\forn&z,\f>r2n&z,\f>rn&z
-foreigners':\for2n&z,\forn&z,\f>r2n&z,\f>rn&z
+foreigners:\for2n&z,\forn&z,\f>r2n&z,\f>rn&z
 forelimb:\f>r|l!m
 forelimbs:\f>r|l!mz
 foreman:\f>rm2n
@@ -39032,7 +39032,7 @@ founder:\f(nd&
 foundered:\f(nd&d
 foundering:\f(nd&!=
 founders:\f(nd&z
-founders':\f(nd&z
+founders:\f(nd&z
 founding:\f(nd!=
 foundling:\f(ndl!=
 foundries:\f(ndriz
@@ -39161,7 +39161,7 @@ frame:\fr*m
 framed:\fr*md
 framer:\fr*m&
 framers:\fr*m&z
-framers':\fr%m&z
+framers:\fr%m&z
 frames:\fr*mz
 framework:\fr*m|w&k
 frameworks:\fr*m|w&ks
@@ -39194,7 +39194,7 @@ franchise:\fr%n|$)z
 franchised:\fr%n$)zd
 franchisee:\fr%n|$)\zi
 franchisees:|fr%n$)\ziz
-franchisees':|fr%n$)\ziz
+franchisees:|fr%n$)\ziz
 franchiser:\fr%n|$)z&
 franchisers:\fr%n|$)z&z
 franchises:\fr%n|$)z!z
@@ -39206,7 +39206,7 @@ francies:fr2n\siz
 francine:fr%n\sin
 francines:fr%n\sinz
 francis:\fr%ns2s,\fr%ns!s
-francis':\fr%ns2s,\fr%ns!s
+francis:\fr%ns2s,\fr%ns!s
 franciscan:fr%n\s!sk2n
 franciscans:fr%n\s!sk2nz
 francisco:fr%n\s!sk[
@@ -39667,7 +39667,7 @@ friendliest:\frendli2st,\frenli2st
 friendliness:\frendlin!s,\frenlin!s
 friendly:\frendli,\frenli
 friends:\frendz,\frenz
-friends':\frendz,\frenz
+friends:\frendz,\frenz
 friendship:\frend1!p,\fren1!p
 friendships:\frend1!ps,\fren1!ps
 frier:\fr)&
@@ -40097,7 +40097,7 @@ fundraiser:\f2n|dr*z&
 fundraisers:\f2n|dr*z&z
 fundraising:\f2n|dr*s!=
 funds:\f2ndz
-funds':\f2ndz
+funds:\f2ndz
 funeral:\fjun&2l
 funerals:\fjun&2lz
 funerary:\fjun&|eri
@@ -40251,7 +40251,7 @@ futrell:fju\trel
 futterman:\f2t&m2n
 future:\fju$&
 futures:\fju$&z
-futures':\fju$&z
+futures:\fju$&z
 futurism:\fju$&|!z2m
 futurist:\fju$&!st
 futuristic:|fju$&\!st!k
@@ -40650,7 +40650,7 @@ gameplay:\g*m|pl*
 gamer:\g*m&
 gamers:\g*m&z
 games:\g*mz
-games':\g*mz
+games:\g*mz
 gameshow:\g*m|1[
 gameshows:\g*m|1[z
 gamesman:\g*mz|m%n
@@ -41079,7 +41079,7 @@ gatekeepers:\g*t|kip&z
 gateley:\g%t!li,\g*tli
 gately:\g*tli
 gates:\g*ts
-gates':\g*ts
+gates:\g*ts
 gateway:\g*t|w*
 gateways:\g*t|w*z
 gatewood:\g*t|w?d
@@ -41712,7 +41712,7 @@ gerd:\g&d
 gerda:\g&d2
 gerdeman:\g&dm2n
 gerdes:\3&dz
-gerdes':\3&dz
+gerdes:\3&dz
 gerding:\gert!=
 gerdts:\g&dts
 gere:\g!r
@@ -41760,7 +41760,7 @@ germanic:8&\m%n!k
 germann:\g&m2n
 germano:8&\mon[
 germans:\8&m2nz
-germans':\8&m2nz
+germans:\8&m2nz
 germantown:\8&m2n|t(n
 germany:\8&m2ni
 germanys:\8&m2niz
@@ -41876,7 +41876,7 @@ getsinger:\gets!n8&
 gettel:\get2l
 getter:\get&
 getters:\get&z
-gettin':\g!t2n
+gettin:\g!t2n
 getting:\get!=,\g!t!=
 gettinger:\get!n8&,\get!=&
 gettings:\get!=z
@@ -41998,7 +41998,7 @@ giannotti:\8on[|ti
 gianotti:\8on[|ti
 giant:\8)2nt
 giants:\8)2nts
-giants':\8)2nts
+giants:\8)2nts
 giap:\8j%p,8i\%p
 giaquinto:\8okwint[
 giard:\8ord,8i\ord
@@ -42356,7 +42356,7 @@ girlie:\g&li
 girlish:\g&l!1
 girlishly:\g&l!1li
 girls:\g&lz
-girls':\g&lz
+girls:\g&lz
 girobank:\g!r[|b%=k
 girod:3&\od
 giroir:3)r\wor
@@ -42435,7 +42435,7 @@ givers:\g!v&z
 gives:\g!vz
 giveth:\g!ve0
 givhan:\g!vh2n
-givin':\g!v!n
+givin:\g!v!n
 giving:\g!v!=
 giving-feast:\g!v!=|fist
 givins:\g!v!nz
@@ -42487,7 +42487,7 @@ gladu:\gl*du
 gladwell:\gl%d|wel
 gladwin:\gl%dw!n
 gladys:\gl%d!s
-gladys':\gl%d!s
+gladys:\gl%d!s
 glaeser:\gl*z&
 glahn:\gl%n
 glam:\gl%m
@@ -43039,7 +43039,7 @@ gohman:\g[m2n
 gohn:\gon
 gohr:\gor
 goin:\g]n
-goin':\g[2n
+goin:\g[2n
 goines:\g]nz
 going:\g[!n,\g[!=
 goings:\g[!=z
@@ -43581,10 +43581,10 @@ government:\g2v&m2nt,\g2v&nm2nt
 governmental:\g2v&|ment2l,|g2v&n\ment2l
 governmentally:\g2v&|men2li,\g2v&|ment2li
 governments:\g2v&m2nts,\g2v&nm2nts
-governments':\g2v&m2nts,\g2v&nm2nts
+governments:\g2v&m2nts,\g2v&nm2nts
 governor:\g2v&n&
 governors:\g2v&n&z
-governors':\g2v&n&z
+governors:\g2v&n&z
 governorship:\g2v&n&|1!p
 governorships:\g2v&n&|1!ps
 governs:\g2v&nz
@@ -43832,7 +43832,7 @@ grandon:\gr%ndon
 grandpa:\gr%nd|po
 grandparent:\gr%nd|per2nt
 grandparents:\gr%nd|per2nts
-grandparents':\gr%nd|per2nts
+grandparents:\gr%nd|per2nts
 grandpas:\gr%nd|poz
 grandpre:\gr%nd|pr*
 grands:\gr%ndz
@@ -43905,7 +43905,7 @@ graphic:\gr%f!k
 graphical:\gr%f!k2l
 graphically:\gr%f!kli
 graphics:\gr%f!ks
-graphics':\gr%f!ks
+graphics:\gr%f!ks
 graphite:\gr%|f)t
 graphology:gr2\fol28i
 graphs:\gr%fs
@@ -44140,7 +44140,7 @@ greeno:\grin[
 greenough:\grin2f
 greenpeace:\grin|pis
 greens:\grinz
-greens':\grinz
+greens:\grinz
 greensboro:\grinzb&r[
 greensburg:\grinzb&g
 greenshield:\grin|1ild
@@ -44616,7 +44616,7 @@ groupies:\grupiz
 grouping:\grup!=
 groupings:\grup!=z
 groups:\grups
-groups':\grups
+groups:\grups
 groupware:\grup|wer
 grouse:\gr(s
 groused:\gr(st
@@ -44636,7 +44636,7 @@ grow:\gr[
 growe:\gr[
 grower:\gr[&
 growers:\gr[&z
-growers':\gr[&z
+growers:\gr[&z
 growing:\gr[!=
 growl:\gr(l
 growled:\gr(ld
@@ -44881,7 +44881,7 @@ guerrieri:g&\!ri
 guerriero:g&\!r[
 guerrilla:g&\!l2
 guerrillas:g&\!l2z
-guerrillas':g&\!l2z
+guerrillas:g&\!l2z
 guerrini:g&\ini
 guerry:g&\i
 guertin:ger\tin
@@ -44899,7 +44899,7 @@ guested:\gest!d
 guesthouse:\gest|h(s
 guesthouses:\gest|h(s!z
 guests:\gests
-guests':\gests
+guests:\gests
 guettler:\get2l&,\getl&
 guevara:g*\vor2,g2\vor2
 guez:\gez
@@ -45284,7 +45284,7 @@ guynn:\g)n
 guyon:\g)2n
 guyot:\g)2t
 guys:\g)z
-guys':\g)z
+guys:\g)z
 guyton:\g)t2n
 guza:\gjuz2
 guzek:\guzek
@@ -45541,7 +45541,7 @@ hafnium:\h%fni2m
 haft:\h%ft
 hafta:\h%ft2
 hafts:\h%fs,\h%fts
-hafts':\h%fs,\h%fts
+hafts:\h%fs,\h%fts
 hag:\h%g
 haga:\hog2
 hagadorn:\h%g2d>rn
@@ -45895,7 +45895,7 @@ hamanaka:h2m2\nok2
 hamann:\hom2n
 hamar:h2\mor
 hamas:|ho\mos
-hamas':|ho\mos
+hamas:|ho\mos
 hamasaki:|homo\soki
 hambelton:h2m\belt2n
 hamberg:\h%mb&g
@@ -45951,7 +45951,7 @@ hamman:\h%m2n
 hammann:\h%m2n
 hammar:\h%m&
 hammas:h2\mos
-hammas':h2\mos
+hammas:h2\mos
 hamme:\h%m
 hammel:\h%m2l
 hammell:\h%m2l
@@ -46157,7 +46157,7 @@ hanged:\h%=d
 hangen:\h%=2n
 hanger:\h%=&
 hangers:\h%=&z
-hangin':\h%=g!n
+hangin:\h%=g!n
 hanging:\h%=g!=,\h%=!=
 hangings:\h%=g!=z
 hangman:\h%=m2n
@@ -46614,7 +46614,7 @@ harring:\h%r!=
 harrington:\her!=t2n
 harriott:\h%ri2t
 harris:\her!s
-harris':\her!s
+harris:\her!s
 harrisburg:\h%r!sb&g,\her!sb&g
 harrisburgh:\h%r!sb&g,\her!sb&g
 harrises:\h%r!s!z
@@ -47005,7 +47005,7 @@ havier:\h%vj&
 haviland:\h*vil2nd
 havill:ho\vil
 havilland:\h%v2l2nd
-havin':\h%v!n
+havin:\h%v!n
 having:\h%v!=
 havington:\h%v!=t2n
 havins:\h%v!nz
@@ -47041,7 +47041,7 @@ hawkeye:\h>|k)
 hawkiness:\h>kn2s
 hawking:\h>k!=
 hawkins:\h>k!nz
-hawkins':\h>k!nz
+hawkins:\h>k!nz
 hawkinson:\h>k!ns2n
 hawkish:\h>k!1
 hawks:\h>ks
@@ -47787,7 +47787,7 @@ helmkamp:\helm|k%mp
 helmke:\helmk
 helmont:\hel|mont
 helms:\helmz
-helms':\helmz
+helms:\helmz
 helmsburton:\helmzb&t2n
 helmsley:\helmzli
 helmsleys:\helmzliz
@@ -48079,7 +48079,7 @@ herbal:\&b2l,\h&b2l
 herbalife:\&b2|l)f,\h&b2|l)f
 herbalist:\&b2l2st,\h&b2l2st
 herbalists:\&b2l2s,\&b2l2sts,\h&b2l2s,\h&b2l2sts
-herbalists':\&b2l2sts,\h&b2l2sts
+herbalists:\&b2l2sts,\h&b2l2sts
 herbarium:&\be|ri2m,h&\be|ri2m
 herbariums:&\be|ri2mz,h&\be|ri2mz
 herbeck:\h&bek
@@ -48705,7 +48705,7 @@ hillmann:\h!lm2n
 hillmer:\h!lm&
 hillock:\h!l2k
 hills:\h!lz
-hills':\h!lz
+hills:\h!lz
 hillsboro:\h!lzb&[
 hillsborough:\h!lzb&[
 hillsdale:\h!lz|d*l
@@ -49336,11 +49336,11 @@ holderfield:\h[ld&|fild
 holderman:\h[ld&m2n
 holderness:\h[ld&n2s
 holders:\h[ld&z
-holders':\h[ld&z
+holders:\h[ld&z
 holdfast:\h[l|f%st
 holding:\h[ld!=
 holdings:\h[ld!=z
-holdings':\h[ld!=z
+holdings:\h[ld!=z
 holdman:\h[ldm2n
 holdorf:\h[ld>rf
 holdout:\h[l|d(t
@@ -49528,7 +49528,7 @@ holum:\h[l2m
 holven:\h>lven
 holverson:\holv&s2n
 holvis:\h[lv2s
-holvis':\h[lv2s
+holvis:\h[lv2s
 holway:\holw*
 holweger:\h[lw!g&
 holwerda:h[l\w&d2
@@ -49597,7 +49597,7 @@ homeostasis:|h[mi[\st*s2s
 homeostatic:|h[mi[\st%t!k
 homeowner:\h[|m[n&
 homeowners:\h[|m[n&z
-homeowners':\h[|m[n&z
+homeowners:\h[|m[n&z
 homeownership:\h[|m[n&|1!p
 homepage:\h[m|p*8
 homeporting:\h[m\p>rt!=
@@ -49607,7 +49607,7 @@ homers:\h[m&z
 homerun:h[m\r2n
 homeruns:h[m\r2nz
 homes:\h[mz
-homes':\h[mz
+homes:\h[mz
 homesick:\h[m|s!k
 homesickness:\h[m|s!kn2s
 homesley:\h[mzli
@@ -49844,7 +49844,7 @@ hoping:\h[p!=
 hopke:\h[pk
 hopkin:\hopk!n
 hopkins:\hopk!nz
-hopkins':\hopk!nz
+hopkins:\hopk!nz
 hopkinson:\hopk!ns2n
 hopkinton:\hopk!nt2n
 hopkyns:\hopk!nz
@@ -49988,7 +49988,7 @@ horseplay:\h>rs|pl*
 horsepower:\h>r|sp(&
 horseradish:\h>rs|r%d!1
 horses:\h>rs2z,\h>rs!z
-horses':\h>rs!z
+horses:\h>rs!z
 horseshit:\h>rs|1!t
 horseshoe:\h>rs|1u
 horseshoes:\h>rs|1uz
@@ -50058,7 +50058,7 @@ hospitalizations:|hosp!t2l2\z*12nz
 hospitalize:\h>|sp!t2|l)z
 hospitalized:\hosp!t2|l)zd
 hospitals:\ho|sp!t2lz
-hospitals':\h>sp!t2lz
+hospitals:\h>sp!t2lz
 hoss:\hos
 hossack:\hos2k
 hossain:h2\s*n
@@ -50068,7 +50068,7 @@ hossler:\hos2l&,\hosl&
 host:\h[st
 hostage:\host!8
 hostages:\host282z
-hostages':\h>st!8!z
+hostages:\h>st!8!z
 hosted:\h[st!d
 hostel:\host2l
 hostels:\host2lz
@@ -50107,7 +50107,7 @@ hotel:h[\tel
 hotelier:h[\telj&
 hoteliers:h[\telj&z
 hotels:h[\telz
-hotels':h[\telz
+hotels:h[\telz
 hoten:\h[t2n
 hoth:\ho0
 hothouse:\hot|h(s
@@ -50176,7 +50176,7 @@ hourihan:(\rihon
 hourlong:\(r|l>=
 hourly:\(rli
 hours:\(&z,\(rz
-hours':\(rz
+hours:\(rz
 housand:\h(s2nd
 housden:\h(sd2n
 house:\h(s
@@ -50203,7 +50203,7 @@ housen:\h(s2n
 houser:\h(z&
 houseraising:\h(s|r*z!=
 houses:\h(s2z,\h(s!z
-houses':\h(s!z
+houses:\h(s!z
 houseware:\h(|swer
 housewares:\h(|swerz
 housewarming:\h(|swom!=
@@ -50512,7 +50512,7 @@ hughart:\h2g|hort,\hju|ort,\ju|ort
 hughbanks:\h2b2=ks,\hjub2=ks,\jub2=ks
 hughen:\hju2n,\ju2n
 hughes:\hjuz,\juz
-hughes':\hjuz,\juz
+hughes:\hjuz,\juz
 hughett:\hju!t,\ju!t
 hughette:|hju\et,|ju\et
 hughey:\h2gi,\hjui,\jui
@@ -50762,7 +50762,7 @@ hunton:\h2nt2n
 huntoon:h2n\tun
 huntress:\h2ntr!s
 hunts:\h2nts
-hunts':\h2nts
+hunts:\h2nts
 huntsinger:\h2nts!n8&
 huntsman:\h2ntsm2n
 huntsville:\h2ntsv!l
@@ -50836,7 +50836,7 @@ husar:\hus&
 husband:\h2zb2nd
 husbandry:\h2zb2ndri
 husbands:\h2zb2ndz
-husbands':\h2sb2ndz
+husbands:\h2sb2ndz
 husby:\h2sbi
 huschka:\h21k2
 huse:\hjuz
@@ -51242,7 +51242,7 @@ icicles:\)s!k2lz
 icily:\)s!li
 icing:\)s!=
 ickes:\)kiz,\)ks,\!kiz
-ickes':\!k2s,\!kiz
+ickes:\!k2s,\!kiz
 icloud:\)\kl(d
 icon:\)kon
 iconic:|)\kon!k
@@ -51428,7 +51428,7 @@ ikon:\)kon
 il:\!l
 ila:\il2
 ilalis:|!\l%l2s
-ilalis':|!\l%l2s
+ilalis:|!\l%l2s
 ilan:|i\lon
 ilana:|!\lon2
 ilardi:|!\lordi
@@ -51466,7 +51466,7 @@ illig:\!l!g
 illina:|!\lin2
 illingworth:\!l!=|w&0
 illinois:|!l2\n],|!l2\n]z
-illinois':\!l!n]z
+illinois:\!l!n]z
 illiquid:|!\l!kw!d
 illiquidity:|!l!\kw!d!ti
 illiteracy:|!\l!t&2si
@@ -51537,7 +51537,7 @@ iman:\)m2n
 imari:i\mori
 imasco:!\m%s[
 imax:\)|m%ks
-imax':\)|m%ks
+imax:\)|m%ks
 imbalance:!m\b%l2ns
 imbalances:!m\b%l2ns!z
 imbecile:\!mb2s)l,\!mb2s2l
@@ -51598,7 +51598,7 @@ immersed:|!\m&st
 immersion:|!\m&32n
 immigrant:\!m2gr2nt
 immigrants:\!m2gr2nts
-immigrants':\!m!gr2nts
+immigrants:\!m!gr2nts
 immigrate:\!m2|gr*t
 immigrated:\!m2|gr*t!d
 immigration:|!m2\gr*12n
@@ -51801,10 +51801,10 @@ importation:|!mp>r\t*12n
 imported:|!m\p>rt!d
 importer:|!m\p>rt&
 importers:|!m\p>rt&z
-importers':|!m\p>rt&z
+importers:|!m\p>rt&z
 importing:|!m\p>rt!=
 imports:\!m|p>rts,|!m\p>rts
-imports':\!mp>rts
+imports:\!mp>rts
 impose:|!m\p[z
 imposed:|!m\p[zd
 imposes:!m\p[z2z,!m\p[z!z
@@ -52019,7 +52019,7 @@ inchcape:\!n$|k*p
 inched:\!n$t
 incheon:\!n$>n
 inches:\!n$2z,\!n$!z
-inches':\!n$2z,\!n$!z
+inches:\!n$2z,\!n$!z
 inching:\!n$!=
 inchoate:|!n\k[2t
 inchon:\!n$>n
@@ -52218,7 +52218,7 @@ indianian:|!ndi\%ni2n
 indianians:|!ndi\%ni2nz
 indianola:\!ndi2\n[l2
 indians:\!ndi2nz
-indians':\!ndi2nz
+indians:\!ndi2nz
 indic:\!nd!k
 indica:\!d2k2
 indicate:\!nd2|k*t
@@ -52280,7 +52280,7 @@ individualize:|!nd!\v!82l)z,|!nd!\v!8u2l)z
 individualized:|!nd!\v!82l)zd,|!nd!\v!8u2l)zd
 individually:|!nd!\v!82li,|!nd!\v!8u2li
 individuals:|!nd2\v!82w2lz
-individuals':|!nd!\v!82w2lz
+individuals:|!nd!\v!82w2lz
 indivisible:|!nd!\v!s!b2l
 indo:\!nd[
 indo-european:|!nd[|j?r2\pi2n
@@ -52336,12 +52336,12 @@ industrialized:|!n\d2stri2|l)zd
 industrializing:|!n\d2stri2|l)z!=
 industrially:|!n\d2stri2li
 industrials:|!n\d2stri2lz
-industrials':|!n\d2stri2lz
+industrials:|!n\d2stri2lz
 industrie:\!nd2stri
 industrielle:|!n\d2stri2|le,|!n|d2stri\el
 industrier:\!nd2|stri&
 industries:\!nd2striz
-industries':\!nd2striz
+industries:\!nd2striz
 industrious:|!n\d2stri2s
 industrivaerden:\!nd2stri|verd2n
 industry:\!nd2stri
@@ -52415,7 +52415,7 @@ infantry:\!nf2ntri
 infantryman:\!nf%ntrim2n
 infantrymen:\!nf%ntrim2n
 infants:\!nf2nts
-infants':\!nf2nts
+infants:\!nf2nts
 infarction:|!n\fork12n
 infatuate:|!n\f%$u|*t
 infatuated:|!n\f%$u|*t!d
@@ -52782,7 +52782,7 @@ innovative:\!n2|v*t!v,\!n[|v*t!v
 innovator:\!n2|v*t&,\!n[|v*t&
 innovators:\!n2|v*t&z,\!n[|v*t&z
 inns:\!nz
-inns':\!nz
+inns:\!nz
 innuendo:|!nju\end[
 innuendoes:|!nju\end[z
 innuendos:|!nju\end[z
@@ -52863,7 +52863,7 @@ inshore:\!n\1>r
 inside:\!n|s)d,|!n\s)d
 insider:|!n\s)d&
 insiders:|!n\s)d&z
-insiders':|!n\s)d&z
+insiders:|!n\s)d&z
 insides:\!ns)dz,|!n\s)dz
 insidious:|!n\s!|di2s
 insight:\!n|s)t
@@ -52913,7 +52913,7 @@ inspections:|!n\spek12nz
 inspector:|!n\spekt&
 inspectorate:|!n\spekt&2t
 inspectors:|!n\spekt&z
-inspectors':|!n\spekt&z
+inspectors:|!n\spekt&z
 inspects:|!n\spekts
 inspeech:|!n\spi$
 inspiration:|!nsp&\*12n
@@ -52969,7 +52969,7 @@ institut:\!nst!tut
 institute:\!nst2|tut
 instituted:\!nst2|tut!d
 institutes:\!nst2|tuts
-institutes':\!nst!|tuts
+institutes:\!nst!|tuts
 instituting:\!nst!|tut!=
 institution:|!nst!\tu12n
 institutional:|!nst!\tu12n2l
@@ -52982,7 +52982,7 @@ institutionalizes:|!nst!\tu12n2|l)z!z
 institutionalizing:|!nst!\tu12n2|l)z!=
 institutionally:|!nst!\tu12n2|li,|!nst!\tu1n2li
 institutions:|!nst!\tu12nz
-institutions':|!nst!\tu12nz
+institutions:|!nst!\tu12nz
 instituto:|!nst!\tu|t[
 instone:\!n|st[n
 instruct:|!n\str2kt
@@ -53003,7 +53003,7 @@ instrumentality:|!nstr2men\t%l!ti
 instrumentals:|!nstr2\men2lz,|!nstr2\ment2lz
 instrumentation:|!nstr2|men\t*12n
 instruments:\!nstr2m2nts
-instruments':\!nstr2m2nts
+instruments:\!nstr2m2nts
 insubordinate:|!ns2\b>rd2|n*t,|!ns2\b>rd2n2t
 insubordination:|!ns2|b>rd2\n*12n
 insubstantial:|!ns2b\st%n12l
@@ -53033,13 +53033,13 @@ insure:|!n\1?r
 insured:|!n\1?rd
 insurer:|!n\1?r&
 insurers:|!n\1?r&z
-insurers':|!n\1?r&z
+insurers:|!n\1?r&z
 insures:|!n\1?rz
 insurgencies:|!n\s&82nsiz
 insurgency:|!n\s&82nsi
 insurgent:|!n\s&82nt
 insurgents:|!n\s&82nts
-insurgents':|!n\s&82nts
+insurgents:|!n\s&82nts
 insuring:|!n\1?r!=
 insurmountable:|!ns&\m(nt2b2l
 insurrection:|!ns&\ek12n
@@ -53556,7 +53556,7 @@ investigations:|!n|vest2\g*12nz
 investigative:|!n\vest2|g*t!v
 investigator:|!n\vest2|g*t&
 investigators:|!n\vest2|g*t&z
-investigators':|!n\vest2|g*t&z
+investigators:|!n\vest2|g*t&z
 investigatory:|!n\vest2g2|t>ri
 investimento:|!n|vest!\men|t[
 investing:|!n\vest!=
@@ -53564,11 +53564,11 @@ investissements:|!n|ves\tiz!monts
 investiture:|!n\vest2$&
 investment:|!n\vesm2nt,|!n\vestm2nt
 investments:|!n\vesm2nts,|!n\vestm2nts
-investments':|!n\vesm2nts,|!n\vestm2nts
+investments:|!n\vesm2nts,|!n\vestm2nts
 investnet:|!n\vest|net
 investor:|!n\vest&
 investors:|!n\vest&z
-investors':|!n\vest&z
+investors:|!n\vest&z
 invests:|!n\vests
 inveterate:|!n\vet&2t
 invidious:|!n\v!di2s
@@ -53679,7 +53679,7 @@ irangate:|!\ron|g*t
 irani:|!\roni
 iranian:|!\roni2n,)\r*ni2n
 iranians:|!\roni2nz,)\r*ni2nz
-iranians':)\r*ni2nz
+iranians:)\r*ni2nz
 iranscam:)\r%nsk%m
 iraq:|)\rok,|i\rok,|!\rok
 iraqgate:|)\rok|g*t,|i\rok|g*t,|!\rok|g*t
@@ -53888,7 +53888,7 @@ islander:\)l2nd&
 islanders:\)l2nd&z
 islandia:|)\l%ndi2
 islands:\)l2ndz
-islands':\)sl2ndz
+islands:\)sl2ndz
 islas:\)l2z
 isle:\)l
 isleen:\)lin
@@ -53939,7 +53939,7 @@ ispra:\!spr2
 israel:\!zr*l,\!zri2l
 israeli:|!z\r*li
 israelis:|!z\r*liz
-israelis':|!z\r*liz
+israelis:|!z\r*liz
 israelite:\!zr2|l)t
 israelites:\!zr2|l)ts
 israeloff:|!s\r*l>f
@@ -53961,9 +53961,9 @@ issued:\!1ud
 issueless:\!1ul2s
 issuer:\!1u&
 issuers:\!1u&z
-issuers':\!surz
+issuers:\!surz
 issues:\!1uz
-issues':\!suz
+issues:\!suz
 issuing:\!1u!=
 issy:\!si
 istanbul:|!ston\bul
@@ -54178,7 +54178,7 @@ jacobo:jo\k[b[
 jacoboski:|8%k[\b>ski
 jacobowitz:j2\kob2w!ts
 jacobs:\8*k2bz
-jacobs':\8*|k2bz
+jacobs:\8*|k2bz
 jacobsen:\8*k2bs2n
 jacobson:\8*k2bs2n
 jacobus:82\k[b2s
@@ -54191,7 +54191,7 @@ jacque:\3*k
 jacqueline:\8%k2l!n,\8%kl!n,\8%kw2l!n
 jacquelyn:\8%kw!l!n
 jacques:\8%k,\3ok
-jacques':\8%ks,\3oks
+jacques:\8%ks,\3oks
 jacquet:\8%ket,8%\k*
 jacquetta:8o\ket2
 jacquez:jo\kwez
@@ -54288,7 +54288,7 @@ jamb:\8%m
 jambor:jom\b>r
 jamerson:\8%m&s2n
 james:\8*mz
-james':\8*mz
+james:\8*mz
 jameson:\8*ms2n
 jamestown:\8*mz|t(n
 jamesway:\8*mz|w*
@@ -54614,7 +54614,7 @@ jeffe:\8ef,\8efi
 jeffer:\8ef&
 jefferey:\8ef&i
 jefferies:\8efriz
-jefferies':\8ef&iz
+jefferies:\8ef&iz
 jefferis:\8ef&!s
 jeffers:\8ef&z
 jefferson:\8ef&s2n
@@ -54792,7 +54792,7 @@ jesuit:\8e3u!t
 jesuits:\8e3u!ts
 jesup:\8es2p
 jesus:\8iz2s
-jesus':\8iz2s
+jesus:\8iz2s
 jet:\8et
 jetborne:\8et|b>rn
 jeter:\8it&
@@ -54801,7 +54801,7 @@ jetliner:\8et|l)n&
 jetliners:\8et|l)n&z
 jetro:\8etr[
 jets:\8ets
-jets':\8ets
+jets:\8ets
 jetson:\8ets2n
 jetsons:\8ets2nz
 jetstream:\8et|strim
@@ -54840,7 +54840,7 @@ jewitt:\8u!t
 jewkes:\8uks
 jewry:\8uri
 jews:\8uz
-jews':\8uz
+jews:\8uz
 jex:\8eks
 jeyaretnam:|8*&\etn2m
 jezek:\jezek
@@ -54956,7 +54956,7 @@ jobina:j[\bin2
 jobless:\8obl2s
 joblessness:\8obl2sn2s
 jobs:\8obz
-jobs':\8obz
+jobs:\8obz
 jobson:\8obs2n
 jobst:\8obst
 jobyna:j2\bin2
@@ -55105,7 +55105,7 @@ jonbenet:\8>nb2\n*
 joncas:\8o=k2z
 jone:\8[n
 jones:\8[nz
-jones':\8[nz
+jones:\8[nz
 jonesboro:\8[nzb2r[
 joneses:\8[nz!z
 jonestown:\8[nzt(n
@@ -55200,7 +55200,7 @@ journalist:\8&n2l2st,\8&n2l!st
 journalistic:|8&n2\l!st!k
 journalistically:|8&n2\l!st!k2li,|8&n2\l!st!kli
 journalists:\8&n2l2sts,\8&n2l!sts
-journalists':\8&n2l!sts
+journalists:\8&n2l!sts
 journals:\8&n2lz
 journey:\8&ni
 journeyed:\8&nid
@@ -55274,7 +55274,7 @@ judgement:\828m2nt
 judgemental:828\ment2l
 judgements:\828m2nts
 judges:\828!z
-judges':\828!z
+judges:\828!z
 judgeship:\828|1!p
 judgeships:\828|1!ps
 judging:\828!=
@@ -55465,7 +55465,7 @@ jurgenson:\8&g!ns2n
 jurica:\8?r!k2
 jurich:\8?r!k
 juries:\8?riz
-juries':\8?riz
+juries:\8?riz
 juris:\8?r!s,\j?r!s
 jurisdiction:|8?r2s\d!k12n,|8?r!s\d!k12n
 jurisdictional:|8?r2s\d!k12n2l
@@ -55480,7 +55480,7 @@ jurkowski:j&\k>fski
 jurney:\8&ni
 juror:\8?r&
 jurors:\8?r&z
-jurors':\8?r&z
+jurors:\8?r&z
 jurs:\8&z
 jury:\8?ri
 jus:\82s,\8u
@@ -55493,7 +55493,7 @@ juster:\82st&
 justesen:\82stiz2n
 justice:\82st2s,\82st!s
 justices:\82st2s2z,\82st!s!z
-justices':\82st!s!z
+justices:\82st!s!z
 justifiable:\82st2|f)2b2l
 justifiably:\82st2|f)2bli
 justification:|82st2f2\k*12n
@@ -55835,10 +55835,10 @@ kansai:k%n\s)
 kansallis:|k%n\s%l!s
 kansan:\k%nz2n
 kansans:\k%nz2nz
-kansans':\k%nz2nz
+kansans:\k%nz2nz
 kansas:\k%nz2s
 kansas-city:\k%nz2\s!ti,\k%nz2s\s!ti
-kansas':\k%nz2s
+kansas:\k%nz2s
 kansian:\k%nzi2n
 kant:\k%nt
 kanter:\k%nt&
@@ -56561,7 +56561,7 @@ kennebunkport:|ken2\b2=k|p>rt
 kennecott:\ken2|kot
 kennedy:\ken2di
 kennedys:\ken2diz
-kennedys':\ken2diz
+kennedys:\ken2diz
 kennel:\ken2l
 kennell:\ken2l
 kennelly:\ken2li
@@ -56801,7 +56801,7 @@ keycorp:\kik>rp
 keye:\k)
 keyed:\kid
 keyes:\kiz
-keyes':\kiz
+keyes:\kiz
 keyhole:\ki|h[l
 keyholes:\ki|h[lz
 keying:\ki!=
@@ -56926,7 +56926,7 @@ kidney:\k!dni
 kidneys:\k!dniz
 kido:\kid[
 kids:\k!dz
-kids':\k!dz
+kids:\k!dz
 kidstock:\k!d|stok
 kidwa:\k!dw2
 kidwell:\k!d|wel
@@ -57216,7 +57216,7 @@ kingpins:\k!=|p!nz
 kingrey:\k!=gri
 kingry:\k!=g&i
 kings:\k!=z
-kings':\k!=z
+kings:\k!=z
 kingsborough:\k!=z|b&[
 kingsbridge:\k!=z|br!8
 kingsbury:\k!=z|beri
@@ -57826,7 +57826,7 @@ knickers:\n!k&z
 knickknack:\n!k|n%k
 knickknacks:\n!k|n%ks
 knicks:\n!ks
-knicks':\n!ks
+knicks:\n!ks
 knief:\nif
 kniep:\nip
 knieriem:\ni|rim
@@ -58318,7 +58318,7 @@ koppen:\kop2n
 koppenhaver:\kop!nh2v&
 kopper:\kop&
 koppers:\kop&z
-koppers':\kop&z
+koppers:\kop&z
 koppes:\kops
 kopple:\kop2l
 kopplin:\kopl!n
@@ -58345,7 +58345,7 @@ korea:\kri2,|k>\ri2,k&\ri2
 koreagate:|k>\ri2|g*t,k&\ri2|g*t
 korean:\kri2n,|k>\ri2n,k&\ri2n
 koreans:\kri2nz,|k>\ri2nz,k&\ri2nz
-koreans':\kri2nz,|k>\ri2nz,k&\ri2nz
+koreans:\kri2nz,|k>\ri2nz,k&\ri2nz
 koreas:\k>ri2z,k&ri2z,kri2z
 koreatown:k&\i2|t(n
 korell:\k>rel
@@ -58486,7 +58486,7 @@ kotlowitz:\kotl2w!ts
 koto:\k[t[
 kotowski:k2\t>fski
 kotsonis:|k%t\s[n2s,k[t\s[n2s
-kotsonis':|k%t\s[n2s,k[t\s[n2s
+kotsonis:|k%t\s[n2s,k[t\s[n2s
 kott:\kot
 kotter:\kot&
 kottke:\kotki
@@ -59402,7 +59402,7 @@ labonte:l2\bont,l2\bonti
 labor:\l*b&
 laboratoires:l2\b>r2t|woz
 laboratories:\l%br2|t>riz
-laboratories':\l%br2|t>riz
+laboratories:\l%br2|t>riz
 laboratory:\l%br2|t>ri
 laborde:l2\b>rd
 labore:l2\b>r
@@ -59433,7 +59433,7 @@ labrioche:|lobri\[1
 labriola:lobri\[l2
 labrosse:lo\br[si
 labs:\l%bz
-labs':\l%bz
+labs:\l%bz
 labuda:l2b\jud2
 labus:\l%b!s
 labyrinth:\l%b&|!n0
@@ -59536,7 +59536,7 @@ ladenburg:\l*d2nb&g
 lader:\l*d&
 ladewig:\l%du!g
 ladies:\l*diz
-ladies':\l*|diz
+ladies:\l*|diz
 lading:\l*d!=
 ladino:l2\din[
 ladish:lo\d!1
@@ -59705,7 +59705,7 @@ lakeman:\l*km2n
 laker:\l*k&
 lakers:\l*k&z
 lakes:\l*ks
-lakes':\l*ks
+lakes:\l*ks
 lakeshore:\l*k|1>r
 lakeside:\l*k|s)d
 lakeview:\l*k|vju
@@ -59715,7 +59715,7 @@ lakin:\l%k!n
 lakins:\l%k!nz
 lakota:l2\k[t2
 lakotas:l2\k[t2z
-lakotas':l2\k[t2z
+lakotas:l2\k[t2z
 lakshamanan:l%k12\mon2n
 lal:\l%l
 lala:\lol2
@@ -59790,7 +59790,7 @@ lambright:\l%m|br)t
 lambro:\l%mbr[
 lambros:\l%mbr[z
 lambs:\l%mz
-lambs':\l%mz
+lambs:\l%mz
 lambsdorff:\l%mzd>rf
 lambson:\l%ms2n
 lamby:\l%mbi
@@ -59998,7 +59998,7 @@ landrum:\l%ndr2m
 landrus:\l%ndr2s
 landry:\l%ndri
 lands:\l%ndz
-lands':\l%ndz
+lands:\l%ndz
 landsat:\l%nd\s%t
 landsberg:\l%ndzb&g
 landsberger:\l%ndzb&g&
@@ -60728,7 +60728,7 @@ lawlis:\l>l!s
 lawlor:\l>l&
 lawmaker:\l>|m*k&
 lawmakers:\l>|m*k&z
-lawmakers':\l>\m*k&z
+lawmakers:\l>\m*k&z
 lawmaking:\l>|m*k!=
 lawman:\l>m2n
 lawmen:\l>\men
@@ -60762,7 +60762,7 @@ lawyered:\l>j&d
 lawyering:\l>j&!=
 lawyerly:\l>j&li
 lawyers:\l]&z,\l>j&z
-lawyers':\l>j&z
+lawyers:\l>j&z
 lax:\l%ks
 laxalt:\l%ksolt
 laxative:\l%ks2t!v
@@ -60855,7 +60855,7 @@ leaderboard:\lid&|b>rd
 leaderboards:\lid&|b>rdz
 leaderless:\lid&l2s
 leaders:\lid&z
-leaders':\lid&z
+leaders:\lid&z
 leadership:\lid&|1!p
 leaderships:\lid&|1!ps
 leading:\lid!=
@@ -60879,7 +60879,7 @@ league:\lig
 leaguer:\lig&
 leaguers:\lig&z
 leagues:\ligz
-leagues':\ligz
+leagues:\ligz
 leah:\li2
 leahey:\l*hi
 leahy:\l*hi
@@ -61240,7 +61240,7 @@ legislative:\le82|sl*t!v
 legislatively:\le8!|sl*t!vli
 legislator:\le82|sl*t&
 legislators:\le82|sl*t&z
-legislators':\le8!|sl*t&z
+legislators:\le8!|sl*t&z
 legislature:\le82|sl*$&
 legislatures:\le8!|sl*$&z
 legit:\le8!t,l2\8!t
@@ -61474,7 +61474,7 @@ lend:\lend
 lender:\lend&
 lenderman:\lend&m2n
 lenders:\lend&z
-lenders':\lend&z
+lenders:\lend&z
 lending:\lend!=
 lendings:\lend!=z
 lendl:\lend2l
@@ -61890,7 +61890,7 @@ lewinsky:l2\w!nski,lu\!nski
 lewinsohn:\lu!ns2n
 lewinton:\lu!nt2n
 lewis:\lu!s
-lewis':\lu!s
+lewis:\lu!s
 lewisburg:\lu!sb&g
 lewiston:\lu2st2n
 lewke:\luki
@@ -61971,7 +61971,7 @@ liberalizes:\l!|b&2|l)z!z
 liberalizing:\l!|b&2|l)z!=
 liberally:\l!|b&2|li
 liberals:\l!|b&2lz
-liberals':\l!|b&2lz
+liberals:\l!|b&2lz
 liberate:\l!|b&|*t
 liberated:\l!|b&|*t!d
 liberati:li|b&\o|ti
@@ -62447,9 +62447,9 @@ linens:\l!n2nz
 liner:\l)n&
 linerboard:\l)n&|b>rd
 liners:\l)n&z
-liners':\l)n&z
+liners:\l)n&z
 lines:\l)nz
-lines':\l)nz
+lines:\l)nz
 linette:l!\net
 lineup:\l)|n2p
 lineups:\l)|n2ps
@@ -62558,7 +62558,7 @@ lionheart:\l)2n|hort
 lionize:\l)2|n)z
 lionized:\l)2|n)zd
 lions:\l)2nz
-lions':\l)2nz
+lions:\l)2nz
 liotier:li\[ti|*,li\[ti&
 liotta:li\[t2
 liou:li\u
@@ -62602,7 +62602,7 @@ lippold:\l!|p[ld
 lipps:\l!ps
 lippy:\l!pi
 lips:\l!ps
-lips':\l!ps
+lips:\l!ps
 lipschitz:\l!p1!ts
 lipschultz:\l!p12lts
 lipschutz:\l!p12ts
@@ -62832,7 +62832,7 @@ liverwort:\l!v&w&t
 liverworts:\l!v&w&ts
 livery:\l!v&i
 lives:\l)vz,\l!vz
-lives':\l)vz
+lives:\l)vz
 livesay:\l!v!s*
 livesey:\l!v!si
 livestock:\l)v|stok
@@ -62840,7 +62840,7 @@ livezey:\l!v!zi
 livia:\l!vi2
 livid:\l!v!d
 lividity:l!\v!d!ti
-livin':\l!v!n
+livin:\l!v!n
 living:\l!v!=
 livingood:\l!v!n|g?d
 livingroom:\l!v!=|rum
@@ -62886,7 +62886,7 @@ llosa:\l[s2
 llovio:\l[vi[
 lloyd:\l]d
 lloyds:\l]dz
-lloyds':\l]dz
+lloyds:\l]dz
 ln:\l*n
 lo:\l[
 load:\l[d
@@ -62910,7 +62910,7 @@ loaned:\l[nd
 loaning:\l[n!=
 loanloss:\l[n|l>s
 loans:\l[nz
-loans':\l[nz
+loans:\l[nz
 loar:\l>r
 loath:\l[0
 loathe:\l[6
@@ -62932,7 +62932,7 @@ lobby:\lobi
 lobbying:\lobi!=
 lobbyist:\lobi2st
 lobbyists:\lobi!sts
-lobbyists':\lobi!sts
+lobbyists:\lobi!sts
 lobdell:\lobd2l
 lobe:\l[b
 lobed:\l[bd
@@ -63343,7 +63343,7 @@ lookalike:\l?k2|l)k
 looked:\l?kt
 looker:\l?k&
 lookers:\l?k&z
-lookin':\l?k!n
+lookin:\l?k!n
 looking:\l?k!=
 lookingbill:\l?k!=|b!l
 lookit:\l?k!t
@@ -63514,7 +63514,7 @@ losee:l2\si
 loseke:\los!k
 loser:\luz&
 losers:\luz&z
-losers':\l[z&z
+losers:\l[z&z
 loses:\luz2z,\luz!z
 losey:\losi
 losh:\lo1
@@ -63553,7 +63553,7 @@ lotto:\lo|t[,\lot[
 lotts:\lots
 lotty:\loti
 lotus:\l[t2s
-lotus':\l[t2s
+lotus:\l[t2s
 lotz:\lots
 lotze:\l[tz
 lou:\lu
@@ -63594,7 +63594,7 @@ loughry:\l(ri
 louie:lu\i
 louima:lu\im2
 louis:\lui,\lu!s
-louis':\luiz,\lu!s,\lu!s!z
+louis:\luiz,\lu!s,\lu!s!z
 louisa:lu\iz2
 louisan:\lu!s2n
 louise:lu\iz
@@ -63661,7 +63661,7 @@ loveridge:\l2v|r!8
 lovering:\l2v&!=
 lovern:\l2v&n
 lovers:\l2v&z
-lovers':\l2v&z
+lovers:\l2v&z
 loves:\l2vz
 lovett:\l2v!t
 lovette:\l2\vet
@@ -63812,7 +63812,7 @@ luca:\luk2
 lucado:lu\kod[
 lucarelli:luko\reli
 lucas:\luk2s
-lucas':\luk2s
+lucas:\luk2s
 lucasfilm:\luk2sf!lm,lu\k%sf!lm
 lucasville:\luk2s|v!l
 lucca:\luk2
@@ -64131,7 +64131,7 @@ lunny:\l2ni
 lunsford:\l2nsf&d
 lunt:\l2nt
 luntz:\l2nts
-luntz':\l2nts
+luntz:\l2nts
 lunz:\l2nz
 luo:\lw[
 luoma:lu\[m2
@@ -64510,12 +64510,12 @@ machineguns:m2\1ing2nz
 machineries:m2\1in&iz,m2\1inriz
 machinery:m2\1in&i,m2\1inri
 machines:m2\1inz
-machines':m2\$inz
+machines:m2\$inz
 machinima:m2\1in!m2
 machining:m2\1in!=
 machinist:m2\1in2st
 machinists:m2\1in!sts
-machinists':m2\1in!sts
+machinists:m2\1in!sts
 machismo:m2\k!zm[,m2\$!zm[
 machivelli:|m%k2\veli
 machivellian:|m%k2\veli2n
@@ -64762,7 +64762,7 @@ magaw:\m%g>
 magazine:\m%g2|zin
 magaziner:|m%g2\zin&
 magazines:\m%g2|zinz
-magazines':\m%g2|zinz
+magazines:\m%g2|zinz
 magby:\m%gbi
 magda:\m%gd2
 magdala:mog\dol2
@@ -64960,7 +64960,7 @@ maidenform:\m*d2n|f>rm
 maidens:\m*d2nz
 maidie:\m*di
 maids:\m*dz
-maids':\m*dz
+maids:\m*dz
 maiello:|m)\el[
 maier:\m*&
 maiers:\m*&z
@@ -65080,7 +65080,7 @@ majorities:m2\8>r!tiz
 majority:m2\8>r2ti
 majoros:mo\j>r[z
 majors:\m*8&z
-majors':\m*8&z
+majors:\m*8&z
 majrooh:\m%8ru
 majure:mo\j?r*
 mak:\m%k
@@ -65101,14 +65101,14 @@ makeovers:\m%|k[v&z
 makepeace:\m%kpis
 maker:\m*k&
 makers:\m*k&z
-makers':\m*k&z
+makers:\m*k&z
 makes:\m*ks
 makeshift:\m*k|1!ft
 makeup:\m*|k2p
 makhoul:m2\kul
 maki:\moki
 makin:\m%k!n
-makin':\m*k!n
+makin:\m*k!n
 makinen:\m%k!n2n
 making:\m*k!=
 makings:\m*k!=z
@@ -65374,11 +65374,11 @@ manageable:\m%n!82b2l
 managed:\m%n28d,\m%n!8d
 management:\m%n28m2nt,\m%n!8m2nt
 managements:\m%n!8m2nts
-managements':\m%n!8m2nts
+managements:\m%n!8m2nts
 manager:\m%n28&,\m%n!8&
 managerial:|m%n!\8!ri2l
 managers:\m%n28&z,\m%n!8&z
-managers':\m%n28&z
+managers:\m%n28&z
 manages:\m%n!8!z
 managing:\m%n28!=
 managua:m2\nogw2
@@ -65702,7 +65702,7 @@ manufacture:|m%nj2\f%k$&
 manufactured:|m%nj2\f%k$&d
 manufacturer:|m%nj2\f%k$&&
 manufacturers:|m%nj2\f%k$&&z
-manufacturers':|m%n2\f%k$&&z
+manufacturers:|m%n2\f%k$&&z
 manufactures:|m%nj2\f%k$&z
 manufacturing:|m%nj2\f%k$&!=
 manumission:|monu\m!12n
@@ -65784,7 +65784,7 @@ maraschino:|m%r2\skin[
 marasco:mo\rosk[
 marasek:m&\osek
 marash:\mor21
-marash':\mor21
+marash:\mor21
 marathi:m2\roti
 marathon:\mer2|0on
 marathons:\mer2|0onz
@@ -65889,9 +65889,9 @@ marcone:mor\k[ni
 marconi:mor\k[ni
 marcor:\mor|k>r
 marcos:\mork[s
-marcos':\mork[s,\mork[s!z
+marcos:\mork[s,\mork[s!z
 marcoses:mor\k[s!z
-marcoses':mor\k[s!z
+marcoses:mor\k[s!z
 marcott:mor\kot
 marcotte:mor\k>t
 marcou:mor\ku
@@ -66035,7 +66035,7 @@ marinello:mor!\nel[
 mariner:\mer2n&
 mariners:\mer2n&z
 marines:m&\inz
-marines':m&\inz
+marines:m&\inz
 marinez:mo\rinez
 maring:\mer!=
 marini:mo\rini
@@ -66095,7 +66095,7 @@ marketeer:|mork2\t!r
 marketeers:|mork2\t!rz
 marketer:\mork2t&
 marketers:|mork2t&z
-marketers':\mork2t&z
+marketers:\mork2t&z
 marketi:\mork2ti
 marketing:\mork2t!=
 marketings:\mork2t!=z
@@ -66104,7 +66104,7 @@ marketmakers:\mork2t|m*k&z
 marketplace:\mork2t|pl*s,\mork!t|pl*s
 marketplaces:\mork2t|pl*s!z
 markets:\mork2ts,\mork!ts
-markets':\mork!ts
+markets:\mork!ts
 marketscope:\mork2t|sk[p
 marketwide:\mork2t|w)d
 markey:\mor|ki
@@ -66171,7 +66171,7 @@ marliave:|morli\ev
 marlin:\morl2n,\morl!n
 marling:\morl!=
 marlins:\morl2nz
-marlins':\morl2nz
+marlins:\morl2nz
 marlo:\morl[
 marlon:\morl2n
 marlow:\morl[
@@ -66265,7 +66265,7 @@ marrujo:mo\ruj[
 marry:\meri
 marrying:\meri!=
 mars:\morz
-mars':\morz
+mars:\morz
 marsal:\mors2l,mor\sol
 marsala:mor\sol2
 marsalis:\mors2l!s,mor\so|l!s
@@ -66551,7 +66551,7 @@ mass:\m%s
 mass.:\m%s,|m%s2\$us2ts
 massa:\m%s2
 massachusetts:|m%s2\$us2ts
-massachusetts':|m%s2\$us2ts
+massachusetts:|m%s2\$us2ts
 massachussetts:|m%s2\$us2ts
 massacre:\m%s2k&
 massacred:\m%s2k&d
@@ -66631,7 +66631,7 @@ masterminds:\m%st&|m)ndz
 masterpiece:\m%st&|pis
 masterpieces:\m%st&|pis2z,\m%st&|pis!z
 masters:\m%st&z
-masters':\m%st&z
+masters:\m%st&z
 masterson:\m%st&s2n
 masterstroke:\m%st&|str[k
 masterwork:\m%st&|w&k
@@ -66718,7 +66718,7 @@ materializes:m2\t!ri2|l)z!z
 materializing:m2\t!ri2|l)z!=
 materially:m2\t!ri2li
 materials:m2\t!ri2lz
-materials':m2\t!ri2lz
+materials:m2\t!ri2lz
 materiel:m2|t!ri\el
 materiels:m2|t!ri\elz
 matern:\m%t&n
@@ -67005,7 +67005,7 @@ mavis:\m*v!s
 mavrodi:m%v\r[di
 mavroules:m%v\rulz
 mavs:\movz
-mavs':\movz
+mavs:\movz
 maw:\m>
 mawhinney:\m%w!ni
 mawkish:\m>k!1
@@ -67114,7 +67114,7 @@ mayors:\m*&z
 mayotte:m*\>t
 mayr:\m*r
 mays:\m*z
-mays':\m*z
+mays:\m*z
 mayse:\m*z
 mayson:\m*z2n
 maytag:\m*|t%g
@@ -67547,7 +67547,7 @@ mcdougal:m2k\dug2l
 mcdougald:m2k\dug2ld
 mcdougall:m2k\dug2l
 mcdougals:m2k\dug2lz
-mcdougals':m2k\dug2lz
+mcdougals:m2k\dug2lz
 mcdougle:m2k\dug2l
 mcdow:m2k\d(
 mcdowall:m2k\d(2l
@@ -68191,7 +68191,7 @@ meanings:\min!=z
 meanness:\minn2s
 meanor:\min&
 means:\minz
-means':\minz
+means:\minz
 meant:\ment
 meantime:\min|t)m
 meanwhile:\min|w)l
@@ -68238,7 +68238,7 @@ mechanic:m2\k%n!k,m!\k%n!k
 mechanical:m2\k%n!k2l
 mechanically:m2\k%n!kli
 mechanics:m2\k%n!ks
-mechanics':m2\k%n!ks
+mechanics:m2\k%n!ks
 mechanicsburg:m2\k%n!ksb&g
 mechanism:\mek2|n!z2m
 mechanisms:\mek2|n!z2mz
@@ -68714,7 +68714,7 @@ melzer:\melz&
 member:\memb&
 membered:\memb&d
 members:\memb&z
-members':\memb&z
+members:\memb&z
 membership:\memb&|1!p
 memberships:\memb&|1!ps
 membrane:\mem|br*n
@@ -68744,7 +68744,7 @@ memorialize:m2\m>ri2|l)z
 memorialized:m2\m>ri2|l)zd
 memorials:m2\m>ri2lz
 memories:\mem&iz
-memories':\mem&|iz
+memories:\mem&|iz
 memorize:\mem&|)z
 memorized:\mem&|)zd
 memorizes:\mem&|)z!z
@@ -68935,7 +68935,7 @@ merchandising:\m&$2n|d)z!=
 merchant:\m&$2nt
 merchantmen:\m&$2ntm!n
 merchants:\m&$2nts
-merchants':\m&$2nts
+merchants:\m&$2nts
 merchantsbank:\m&$2nts|b%=k
 merci:m&\si
 mercier:\m&|si&
@@ -69220,7 +69220,7 @@ metallo:me\tol[
 metallurgical:|met2\l&8!k2l
 metallurgy:\met2l&8i
 metals:\met2lz
-metals':\met2lz
+metals:\met2lz
 metalwork:\met2l|w&k
 metalworker:\met2l|w&k&
 metalworkers:\met2l|w&k&z
@@ -69331,7 +69331,7 @@ metropolitan:|metr2\pol2t2n
 metropolitans:|metr2\pol2t2nz
 metrosexual:|metr2\sek|1u2l
 mets:\mets
-mets':\mets
+mets:\mets
 metsker:\metsk&
 mette:\met
 metter:\met&
@@ -69581,7 +69581,7 @@ microscopy:m)\kr2sk2pi
 microsemi:|m)kr[\semi
 microsoft:\m)|kr[\s>ft
 microsystems:\m)|kr[\s!st2mz
-microsystems':\m)kr[|s!st2mz
+microsystems:\m)kr[|s!st2mz
 microtel:\m)kr[|tel
 microtubule:\m)|kr[\tubjul
 microtubules:\m)|kr[\tubjulz
@@ -69886,7 +69886,7 @@ milke:\m!lk
 milked:\m!lkt
 milken:\m!lk2n
 milkens:\m!lk2nz
-milkens':\m!lk2nz
+milkens:\m!lk2nz
 milking:\m!lk!=
 milkman:\m!lk|m%n
 milko:\m!lk[
@@ -69973,7 +69973,7 @@ millner:\m!ln&
 millon:\m!l2n
 milloy:\m!l]
 mills:\m!lz
-mills':\m!lz
+mills:\m!lz
 millsap:\m!l|s%p
 millsaps:\m!l|s%ps
 millspaugh:\m!lsp>
@@ -70111,15 +70111,15 @@ mineralogically:|m!n&2\lo8!k2li,|m!n&2\lo8!kli
 mineralogist:|m!n&\%l28!st,|m!n&\ol28!st
 mineralogy:|m!n&\ol28i
 minerals:\m!n&2lz,\m!nr2lz
-minerals':\m!n&2lz,\m!nr2lz
+minerals:\m!n&2lz,\m!nr2lz
 minerd:\m!n&d
 minero:m!\ner[
 miners:\m)n&z
-miners':\m)n&z
+miners:\m)n&z
 minerva:m2\n&v2,m!\n&v2
 minervini:|min&\vini
 mines:\m)nz
-mines':\m)nz
+mines:\m)nz
 minestrone:|m!n2\str[|ni
 minesweeper:\m)n|swip&
 minesweepers:\m)n|swip&z
@@ -70192,7 +70192,7 @@ minister:\m!n2st&,\m!n!st&
 ministerial:|m!n!\stiri2l
 ministering:\m!n!str!=
 ministers:\m!n2st&z,\m!n!st&z
-ministers':\m!n!st&z
+ministers:\m!n!st&z
 ministership:\m!n!st&1!p
 ministral:\m!n2str2l
 ministration:|m!n2\str*12n
@@ -70298,7 +70298,7 @@ minutely:\m!n2tli
 minuteman:\m!n2t|m%n
 minutemen:\m!n2t|men
 minutes:\m!n2ts
-minutes':\m!n2ts
+minutes:\m!n2ts
 minutia:m!\nu1i2
 minutiae:m!\nu1i2
 minyard:\m!njord
@@ -70613,7 +70613,7 @@ missie:\m!si
 missildine:m!sil\dini,m!s!l\d)n
 missile:\m!s2l
 missiles:\m!s2lz
-missiles':\m!s2lz
+missiles:\m!s2lz
 missimer:\m!s!m&
 missing:\m!s!=
 mission:\m!12n
@@ -70904,7 +70904,7 @@ modell:m[\d*l
 modelling:\mod2|l!=
 modelo:m[\del[
 models:\mod2lz
-models':\mod2lz
+models:\mod2lz
 modem:\m[d2m
 modems:\m[d2mz
 moden:\m[d2n
@@ -71173,7 +71173,7 @@ molonicks:m2\l>n!ks
 molony:m2\l>ni
 molotov:\m>l2|tof
 molpus:\m>lp2s
-molpus':\m>lp2s
+molpus:\m>lp2s
 molson:\m[ls2n
 molstad:\m[lst2d
 molt:\m[lt
@@ -71494,7 +71494,7 @@ month:\m2n0
 monthlong:\m2n0|l>=
 monthly:\m2n0li
 months:\m2n0s
-months':\mon0s
+months:\mon0s
 monti:\monti
 monticciolo:mon|ti$i\[l[
 monticello:|mont2\sel[,|mont!\sel[
@@ -71822,7 +71822,7 @@ morrie:\m>ri
 morrill:m>\ril
 morrin:\m>r!n
 morris:\m>r2s,\m>r!s
-morris':\m>r2s
+morris:\m>r2s
 morrisett:\m>r2|set
 morrisette:\m>r!set
 morrisey:\m>r!si
@@ -71997,7 +71997,7 @@ motherless:\m26&l!s
 motherly:\m26&li
 mothers:\m26&z
 mothers-in-law:\m26&z!n|l>
-mothers':\m20&z
+mothers:\m20&z
 mothershead:\m26&z|hed
 mothershed:\m26&|1ed
 mothership:\m26&|1!p
@@ -72051,7 +72051,7 @@ motorize:\m[t&|)z
 motorized:\m[t&|)zd
 motorola:|m[t&\[l2
 motors:\m[t&z
-motors':\m[t&z
+motors:\m[t&z
 motown:\m[|t(n
 motrin:\motr!n
 mots:\mots
@@ -72462,7 +72462,7 @@ multifacet:|m2lti\f%s2t
 multifaceted:|m2lti\f%s2t!d
 multifamily:|m2lt)\f%m2li,|m2lti\f%mli
 multifoods:\m2lti\fudz
-multifoods':\m2lti|fudz
+multifoods:\m2lti|fudz
 multifunctional:|m2lti\f2=k|12n2l
 multilateral:|m2lti\l%t&2l,|m2lt!\l%t&2l
 multilateralism:|m2lt!\l%t&2|l!z2m,|m2lt!\l%t&2l!zm
@@ -72769,7 +72769,7 @@ musicals:\mjuz!k2lz
 musich:\mjus!k
 musician:mju\z!12n
 musicians:mju\z!12nz
-musicians':mju\z!12nz
+musicians:mju\z!12nz
 musicianship:mju\z!12n1!p
 musick:\mjus!k
 musicland:\mjuz!|kl%nd
@@ -73357,7 +73357,7 @@ natan:\n*t2n
 natasha:n2\t%12,n2\to12
 natcher:\n%$&
 natchez:\n%|$ez
-natchez':\n%|$ez
+natchez:\n%|$ez
 natchitoches:n%k2\t>1
 nate:\n*t
 nath:\n%0
@@ -73392,7 +73392,7 @@ nationally:\n%12n2li,\n%1n2li
 nationals:\n%12n2lz,\n%1n2lz
 nationhood:\n*12n|h?d
 nations:\n*12nz
-nations':\n*12nz
+nations:\n*12nz
 nationsbanc:\n*12nz|b%=k,\n*12nz|bo=k
 nationsbank:\n*12nz|b%=k
 nationwide:\n*12n\w)d
@@ -73511,7 +73511,7 @@ nazer:\n*z&
 nazi:\notsi
 nazionale:notsi[\noli
 nazis:\notsiz
-nazis':\notsiz
+nazis:\notsiz
 nazism:\n%z!z2m
 nazzaro:not\sor[
 nba:\en|bi\*
@@ -73698,7 +73698,7 @@ negotiation:n!|g[1i\*12n
 negotiations:n2|g[1i\*12nz,n!|g[1i\*12nz
 negotiator:n2\g[1i|*t&,n!\g[1i|*t&
 negotiators:n!\g[1i|*t&z
-negotiators':n2\g[1i|*t&z
+negotiators:n2\g[1i|*t&z
 negrete:\ne|grit
 negri:\negri
 negrin:\negr!n
@@ -73737,14 +73737,14 @@ neighborhoods:\n*b&|h?dz
 neighboring:\n*b&!=
 neighborly:\n*b&li
 neighbors:\n*b&z
-neighbors':\n*b&z
+neighbors:\n*b&z
 neighbour:\n*b&
 neighbourhood:\n*b&|h?d
 neighbourhoods:\n*b&|h?dz
 neighbouring:\n*b&!=
 neighbourly:\n*b&li
 neighbours:\n*b&z
-neighbours':\n*b&z
+neighbours:\n*b&z
 neighmond:\n*m2nd
 neikirk:\nik&k
 neil:\nil
@@ -73944,7 +73944,7 @@ nethercutt:\ne0&k2t
 netherland:\ne6&l2nd
 netherlandic:\ne6&|l%nd!k
 netherlands:\ne6&l2ndz
-netherlands':\ne0&l%ndz
+netherlands:\ne0&l%ndz
 nethers:\ne6&z
 netherton:\ne6&t2n
 netherworld:\ne6&|w&ld
@@ -73976,7 +73976,7 @@ network:\net|w&k
 networked:\net|w&kt
 networking:\net|w&k!=
 networks:\net|w&ks
-networks':\net|w&ks
+networks:\net|w&ks
 networth:\net|w&0
 netz:\nets
 netzel:\netz2l
@@ -74195,7 +74195,7 @@ newport:\nup>rt
 newport-news:\nup>rt\nuz
 newquist:\nu|kw!st
 news:\njuz,\nuz
-news':\nuz
+news:\nuz
 newscast:\nuz|k%st
 newscaster:\nuz|k%st&
 newscasters:\nuz|k%st&z
@@ -74226,7 +74226,7 @@ newspaper:\nuz|p*p&
 newspaperman:\nuz|p*p&|m%n
 newspapermen:\nuz|p%p&m2n
 newspapers:\nuz|p*p&z
-newspapers':\nuz|p*p&z
+newspapers:\nuz|p*p&z
 newspeak:\nu|spik
 newspeople:\nuzpip2l
 newsperson:\nuzp&s2n
@@ -74330,14 +74330,14 @@ niches:\n!$!z
 nichol:\n!k>l
 nichola:n!\h[l2
 nicholas:\n!k2l2s,\n!kl2s
-nicholas':\n!k2l2s,\n!kl2s
+nicholas:\n!k2l2s,\n!kl2s
 nichole:\n!k[l
 nicholes:\n!k[lz
 nicholi:\n!k2l)
 nicholl:\n!k2l
 nicholls:\n!k2lz
 nichols:\n!k2lz
-nichols':\n!k2lz
+nichols:\n!k2lz
 nicholson:\n!k2ls2n
 nichter:\n!kt&
 nick:\n!k
@@ -74508,7 +74508,7 @@ nightmare:\n)t|mer
 nightmares:\n)t|merz
 nightmarish:\n)t|mer!1
 nights:\n)ts
-nights':\n)ts
+nights:\n)ts
 nightshade:\n)|$*d
 nightshirt:\n)|$&t
 nightshirts:\n)|$&ts
@@ -74587,12 +74587,12 @@ nine:\n)n
 ninefold:\n!n|f[ld
 niner:\n)n&
 niners:\n)n&z
-niners':\n)n&z
+niners:\n)n&z
 nines:\n)nz
 nineteen:\n)n\tin
 nineteenth:\n)n\tin0
 nineties:\n)ntiz
-nineties':\n)ntiz
+nineties:\n)ntiz
 ninetieth:\n)nti!0
 ninette:n!\net
 ninety:\n)nti
@@ -74995,7 +74995,7 @@ non-sequitur:\non\sekw!t&
 non-sequiturs:\non\sekw!t&z
 non-smoker:nons\m[k&
 non-smokers:nons\m[k&z
-non-smokers':\nons\m[k&z
+non-smokers:\nons\m[k&z
 non-smoking:nons\m[k!=
 non-specific:|nonsp2\s!f!k
 non-sporting:non\sp>rt!=
@@ -75165,7 +75165,7 @@ nonsense:\nonsens
 nonsensical:non\sens!k2l
 nonsmoker:nons\m[k&
 nonsmokers:nons\m[k&z
-nonsmokers':\nons\m[k&z
+nonsmokers:\nons\m[k&z
 nonsmoking:\nons\m[k!=
 nonspecific:|nonsp2\s!f!k
 nonsporting:non\sp>rt!=
@@ -75444,7 +75444,7 @@ noteholders:\n[t|h[ld&z
 notepad:\n[t|p%d
 notepads:\n[t|p%dz
 notes:\n[ts
-notes':\n[ts
+notes:\n[ts
 notestine:n[te\stini
 notetaker:\n[t|t*k&
 notetakers:\n[t|t*k&z
@@ -75454,7 +75454,7 @@ noth:\no0
 nothdurft:\no0d&ft
 nother:\n26&
 nothin:\no0!n
-nothin':\n20!n
+nothin:\n20!n
 nothing:\n20!=
 nothingness:\n20!=n2s
 nothings:\n20!=z
@@ -75702,7 +75702,7 @@ nunnelly:\n2n2li
 nunnery:\n2n&i
 nuno:\nun[
 nuns:\n2nz
-nuns':\n2nz
+nuns:\n2nz
 nunsense:\n2n|sens
 nunziata:nunzi\ot2
 nunziato:nunzi\ot[
@@ -75727,7 +75727,7 @@ nursery:\n&s&i
 nurseryman:\n&s&i|m%n
 nurserymen:\n&s&im2n
 nurses:\n&s2z,\n&s!z
-nurses':\n&s2z,\n&s!z
+nurses:\n&s2z,\n&s!z
 nursing:\n&s!=
 nurture:\n&$&
 nurtured:\n&$&d
@@ -75834,8 +75834,8 @@ nyx:\n!ks
 o:\[
 o.:\[
 o.s:\[z
-o.s':\[z
-o':\[
+o.s:\[z
+o:\[
 o'banion:[\b%nj2n
 o'bannon:[\b%n2n
 o'bara:[\bor2
@@ -75965,7 +75965,7 @@ oakmark:\[k|mork
 oakmont:\[k|mont
 oakridge:\[|kr!8
 oaks:\[ks
-oaks':\[ks
+oaks:\[ks
 oakville:\[k|v!l
 oakwood:\[|kw?d
 oaky:\[ki
@@ -76440,13 +76440,13 @@ officeholders:\>f2s|h[ld&z
 officemax:\>f2s|m%ks
 officer:\>f2s&,\>f!s&
 officers:\>f2s&z,\>f!s&z
-officers':\>f!s&z
+officers:\>f!s&z
 offices:\>f2s2z,\>f2s!z
 official:2\f!12l
 officialdom:2\f!12ld2m
 officially:2\f!12li
 officials:2\f!12lz
-officials':2\f!12lz
+officials:2\f!12lz
 officiate:2\f!1i|*t
 officiated:2\f!1i|*t2d
 officiates:2\f!1i|*ts
@@ -76638,7 +76638,7 @@ okuno:[k\jun[
 okura:[\kur2
 okurowski:[k&\[ski
 okwu:\>kwu
-ol':\[l
+ol:\[l
 ola:\[l2
 olack:\[l%k
 olaf:\[lof
@@ -76814,9 +76814,9 @@ olympians:[\l!mpi2nz
 olympias:[\l!mpi2s
 olympic:[\l!mp!k
 olympics:[\l!mp!ks
-olympics':[\l!mp!ks
+olympics:[\l!mp!ks
 olympus:[\l!mp2s
-olympus':[\l!mp2s
+olympus:[\l!mp2s
 om:\>m
 oma:\[m2
 omaar:\[mor
@@ -76876,7 +76876,7 @@ ona:2\no
 onagers:\on28&z
 onan:\[n2n
 onassis:[\n%s!s,[\nos!s
-onassis':[\n%s!s,[\nos!s
+onassis:[\n%s!s,[\nos!s
 onate:\[n*t
 onawa:[\now2
 onboard:\on|b>rd
@@ -76919,7 +76919,7 @@ oneness:\w2n2s,\w2nn2s
 oneok:\[niok
 onerous:\[n&2s
 ones:\w2nz
-ones':\w2nz
+ones:\w2nz
 oneself:|w2n\self
 onetime:\w2n\t)m
 onex:\w2\neks
@@ -77031,12 +77031,12 @@ operation:|op&\*12n
 operational:|op&\*12n2l
 operationally:\op&\*12n2li,\op&\*1n2li
 operations:|op&\*12nz
-operations':|op&\*12nz
+operations:|op&\*12nz
 operative:\op&2t!v
 operatives:\op&2t!vz
 operator:\op&|*t&
 operators:\op&|*t&z,\>p&|*t&z
-operators':\>p&|*t&z
+operators:\>p&|*t&z
 opere:[\per
 operetta:|op&\et2
 operettas:|op&\et2z
@@ -77083,7 +77083,7 @@ oppler:\>pl&
 oppliger:\opl!g&
 opponent:2\p[n2nt
 opponents:2\p[n2nts
-opponents':2\p[n2nts
+opponents:2\p[n2nts
 opportune:|op&\tun
 opportunism:|op&\tu|n!z2m
 opportunist:|op&\tun!st
@@ -77147,7 +77147,7 @@ optional:\op12n2l,\>p12n2l
 optioned:\op12nd,\>p12nd
 optioning:\op12n!=,\>p12n!=
 options:\op12nz,\>p12nz
-options':\op12nz
+options:\op12nz
 opto:\opt[
 optometric:|opt[\metr!k
 optometrist:op\tom2tr!st
@@ -77352,7 +77352,7 @@ orinoco:|>r2\n[k[
 oriola:>ri\[l2
 oriole:\>ri|[l
 orioles:\>ri|[lz
-orioles':\>ri|[lz
+orioles:\>ri|[lz
 orion:[\r)2n,>\r)2n
 oriordan:[\r!rd2n,>\r!rd2n
 oritz:\>r!ts
@@ -77373,7 +77373,7 @@ orlean:\>r|li2n
 orleanian:|>rli\2ni2n
 orleanians:|>rli\2ni2nz
 orleans:\>rli2nz,|>r\linz
-orleans':\>rli2nz
+orleans:\>rli2nz
 orlena:\>rl!n2
 orlene:\>r|lin
 orlich:\>rl!k
@@ -77700,7 +77700,7 @@ othello:2\0el[
 other:\26&
 otherness:\26&n2s
 others:\26&z
-others':\26&z
+others:\26&z
 otherwise:\26&|w)z
 otherworldly:\26&\w&ldli
 othilia:[\0ili2
@@ -77962,7 +77962,7 @@ outshone:(t\1[n
 outside:\(t\s)d
 outsider:(t\s)d&
 outsiders:(t\s)d&z
-outsiders':(t\s)d&z
+outsiders:(t\s)d&z
 outsides:\(t\s)dz
 outsize:\(t|s)z
 outsized:\(t|s)zd
@@ -78441,7 +78441,7 @@ ownby:\(nbi
 owned:\[nd
 owner:\[n&
 owners:\[n&z
-owners':\[n&z
+owners:\[n&z
 ownership:\[n&|1!p
 owning:\[n!=
 owns:\[nz
@@ -78793,7 +78793,7 @@ palest:\p*l2st
 palestine:\p%l2|st)n
 palestinian:|p%l!\st!ni2n
 palestinians:|p%l!\st!ni2nz
-palestinians':|p%l2\st!ni2nz
+palestinians:|p%l2\st!ni2nz
 palette:\p%l2t
 paley:\p*li
 palfrey:\p%lfri
@@ -78963,7 +78963,7 @@ panelize:\p%n2|l)z
 panelized:\p%n2|l)zd
 panella:p2\nel2
 panels:\p%n2lz
-panels':\p%n2lz
+panels:\p%n2lz
 panem:\p*n2m
 panepinto:pone\pint[
 panes:\p*nz
@@ -79042,7 +79042,7 @@ pantheistic:|p%n0i\!st!k
 pantheon:\p%n0i|on
 panther:\p%n0&
 panthers:\p%n0&z
-panthers':\p%n0&z
+panthers:\p%n0&z
 panties:\p%ntiz
 panting:\p%nt!=
 pantle:\p%nt2l
@@ -79111,7 +79111,7 @@ papermaking:\p%p&|m*k!=
 papermate:\p*p&|m*t
 papernick:\p*p&|n!k
 papers:\p*p&z
-papers':\p*p&z
+papers:\p*p&z
 paperweight:\p*p&|w*t
 paperwork:\p*p&|w&k
 paperworker:\p*p&|w&k&
@@ -79283,7 +79283,7 @@ parenthood:\per2nt|h?d
 parenti:po\renti
 parenting:\per2nt!=
 parents:\per2nts
-parents':\per2nts
+parents:\per2nts
 pares:\perz
 pareti:|pe\reti
 pareto:|po\ret[
@@ -79305,7 +79305,7 @@ parillo:po\r!l[
 parimutuel:|per!m\ju$u2l
 paring:\per!=
 paris:\p%r!s,\per!s
-paris':\p%r!s,\per!s
+paris:\p%r!s,\per!s
 parise:\por)z
 pariseau:\p%r!s[
 parish:\p%r!1,\per!1
@@ -79344,7 +79344,7 @@ parkison:\pork!s2n
 parkland:\por|kl%nd
 parkman:\porkm2n
 parks:\porks
-parks':\porks
+parks:\porks
 parkside:\pork|s)d
 parkway:\por|kw*
 parlance:\porl2ns
@@ -79474,7 +79474,7 @@ partiality:|por1i\%l2ti
 partially:\por12li,\por1li
 participant:por\t!s2p2nt
 participants:por\t!s2p2nts
-participants':por\t!s2p2nts
+participants:por\t!s2p2nts
 participate:por\t!s2|p*t
 participated:por\t!s2|p*t!d
 participates:por\t!s2|p*ts
@@ -79497,7 +79497,7 @@ partida:por\tid2
 partido:por\tid[
 partied:\portid
 parties:\portiz
-parties':\por|tiz,\portiz
+parties:\por|tiz,\portiz
 partin:\port!n
 parting:\port!=
 partington:\port!=t2n
@@ -79515,16 +79515,16 @@ partner:\portn&
 partnered:\portn&d
 partnering:\portn&!=
 partners:\portn&z
-partners':\portn&z
+partners:\portn&z
 partnership:\portn&|1!p
 partnerships:\portn&|1!ps
-partnerships':\portn&1!ps
+partnerships:\portn&1!ps
 partney:\portni
 parton:\port2n
 partridge:\portr28,\portr!8
 partridges:\portr!8!z
 parts:\ports
-parts':\ports
+parts:\ports
 parttime:\port|t)m
 partum:\port2m
 party:\porti
@@ -79604,7 +79604,7 @@ passed:\p%st
 passel:\p%s!l
 passenger:\p%s2n8&
 passengers:\p%s2n8&z
-passengers':\p%s2n8&z
+passengers:\p%s2n8&z
 passer:\p%s&
 passerby:\p%s&bi
 passero:po\ser[
@@ -79747,7 +79747,7 @@ patience:\p*12ns
 patient:\p*12nt
 patiently:\p*12ntli
 patients:\p*12nts,\p*12nz
-patients':\p*12nts
+patients:\p*12nts
 patillo:p2\t!l[
 patin:\p%t!n
 patina:p2\tin2
@@ -79972,10 +79972,10 @@ paye:\p*
 payee:|p*\i
 payer:\p*&
 payers:\p*&z
-payers':\p*&z
+payers:\p*&z
 payette:\p*\et
 payeur:p*\&
-payin':\p*!n
+payin:\p*!n
 paying:\p*!=
 payless:\p*|les
 payload:\p*|l[d
@@ -80039,10 +80039,10 @@ peak:\pik
 peake:\pik
 peaked:\pikt
 peakes:\piks
-peakes':\piks
+peakes:\piks
 peaking:\pik!=
 peaks:\piks
-peaks':\piks
+peaks:\piks
 peal:\pil
 peale:\pil
 pealer:\pil&
@@ -80074,7 +80074,7 @@ peas:\piz
 peasant:\pez2nt
 peasantry:\pez2ntri
 peasants:\pez2nts
-peasants':\pez2nts
+peasants:\pez2nts
 pease:\pis,\piz
 peasey:\pizi
 peaslee:\piz|li
@@ -80092,7 +80092,7 @@ pebereau:\peb&|[
 pebley:\pebli
 pecan:\pi|kon,p2\kon,p!\k%n
 pecanins:\pek2n!nz
-pecanins':\pek2n!nz
+pecanins:\pek2n!nz
 pecans:\pi|konz,p2\konz,p!\k%nz
 pecci:\pe$i
 pech:\pek
@@ -80480,7 +80480,7 @@ penrod:\pen|rod
 penrose:\pen|r[z
 penry:\penri
 pens:\penz
-pens':\penz
+pens:\penz
 pensacola:|pens2\k[l2
 pense:\pens
 pensinger:\pens!n8&
@@ -80533,7 +80533,7 @@ peony:\pi2ni
 people:\pip2l
 peopled:\pip2ld
 peoples:\pip2lz
-peoples':\pip2lz
+peoples:\pip2lz
 peoria:pi\>ri2
 pep:\pep
 pepcid:\peps!d
@@ -80581,7 +80581,7 @@ peralez:p&\olez
 peralta:p&\olt2
 peras:\per2s
 peratis:p&\%t!s,p&\ot!s
-peratis':p&\%t!s,p&\ot!s
+peratis:p&\%t!s,p&\ot!s
 peraza:p&\oz2
 perazzo:p&\oz[
 perc:\p&k
@@ -80644,7 +80644,7 @@ perennially:p&\eni2li
 perennials:p&\eni2lz
 perera:p&\er2
 peres:\perez
-peres':\perez
+peres:\perez
 perestroika:|per2\str]k2
 peretti:p&\eti
 peretz:\p&!ts
@@ -80678,7 +80678,7 @@ performatives:p&\f>rm2t!vz
 performed:p&\f>rmd
 performer:p&\f>rm&
 performers:p&\f>rm&z
-performers':p&\f>rm&z
+performers:p&\f>rm&z
 performing:p&\f>rm!=
 performs:p&\f>rmz
 perfume:p&f\jum
@@ -80745,7 +80745,7 @@ perkey:\p&ki
 perkin:\p&k!n
 perking:\p&k!=
 perkins:\p&k2nz,\p&k!nz
-perkins':\p&k!nz
+perkins:\p&k!nz
 perkinson:\p&k!ns2n
 perko:\p&k[
 perkovic:\p&k2v!$
@@ -81449,12 +81449,12 @@ philippi:f!\l!pi
 philippic:f!\l!p!k
 philippine:\f!l2|pin
 philippines:\f!l2|pinz
-philippines':\f!l2|pinz
+philippines:\f!l2|pinz
 philippino:|f!l2\pin[
 philippoussis:|f!l2\pus2s
 philipps:\f!l!ps
 philips:\f!l2ps,\f!l!ps
-philips':\f!l!ps
+philips:\f!l!ps
 philipson:\f!l2ps2n
 philistia:f!\l!sti2
 philistine:\f!l2|stin
@@ -81472,7 +81472,7 @@ phillippe:\f!l2p
 phillippi:f2\lipi
 phillipps:\f!l!ps
 phillips:\f!l!ps
-phillips':\f!l!ps
+phillips:\f!l!ps
 phillipson:\f!l2ps2n
 phillis:\f!l!s
 philly:\f!li
@@ -81615,11 +81615,11 @@ physically:\f!z!k2li,\f!z!kli
 physicals:\f!z!k2lz
 physician:f2\z!12n
 physicians:f2\z!12nz,f!\z!12nz
-physicians':f!\z!12nz
+physicians:f!\z!12nz
 physicist:\f!z!s!st
 physicists:\f!z!s!sts
 physics:\f!z!ks
-physics':\f!s!ks
+physics:\f!s!ks
 physio:\f!zi[
 physiologic:|f!zi2\lo8!k
 physiological:|f!zi2\lo8!k2l
@@ -81699,7 +81699,7 @@ pickell:\p!k2l
 pickelsimer:\p!k!ls!m&
 picken:\p!k2n
 pickens:\p!k2nz
-pickens':\p!k2nz
+pickens:\p!k2nz
 picker:\p!k&
 pickeral:\p!k&2l
 pickerel:\p!k&2l
@@ -81757,7 +81757,7 @@ picts:\p!kts
 picture:\p!k$&
 pictured:\p!k$&d
 pictures:\p!k$&z
-pictures':\p!k$&z
+pictures:\p!k$&z
 picturesque:\p!k$&2sk
 picturetel:\p!k|$&|tel
 picturing:\p!k$&!=
@@ -81958,7 +81958,7 @@ piloted:\p)l2t!d
 piloting:\p)l2t!=
 pilotless:\p)l2tl2s
 pilots:\p)l2ts
-pilots':\p)l2ts
+pilots:\p)l2ts
 pilotte:p!\l>t
 pilsner:\p!lzn&
 pilson:\p!ls2n
@@ -82119,7 +82119,7 @@ pipefish:\p)p|f!1
 pipefishes:\p)p|f!1!z
 pipeline:\p)|pl)n
 pipelines:\p)|pl)nz
-pipelines':\p)|pl)nz
+pipelines:\p)|pl)nz
 piper:\p)p&
 pipers:\p)p&z
 pipes:\p)ps
@@ -82361,7 +82361,7 @@ plains:\pl*nz
 plainsong:\pl*n|s>=
 plaintiff:\pl*n2f,\pl*nt2f
 plaintiffs:\pl*n!fs,\pl*nt!fs
-plaintiffs':\pl*n!fs,\pl*nt!fs
+plaintiffs:\pl*n!fs,\pl*nt!fs
 plaintive:\pl*n!v,\pl*nt!v
 plaintively:\pl*|n)vli,\pl*n|t)vli
 plainview:\pl*n|vju
@@ -82390,7 +82390,7 @@ planeloads:\pl*n|l[dz
 planer:\pl*n&
 planers:\pl*n&z
 planes:\pl*nz
-planes':\pl*nz
+planes:\pl*nz
 planet:\pl%n2t
 planetarium:|pl%n2\teri2m
 planetary:\pl%n2|teri
@@ -82404,11 +82404,11 @@ planktonic:pl%=k\ton!k
 planned:\pl%nd
 planner:\pl%n&
 planners:\pl%n&z
-planners':\pl%n&z
+planners:\pl%n&z
 planning:\pl%n!=
 plano:\pl*n[
 plans:\pl%nz
-plans':\pl%nz
+plans:\pl%nz
 plant:\pl%nt
 plantain:\pl%nt2n
 plantains:\pl%nt2nz
@@ -82425,7 +82425,7 @@ plantlike:\pl%nt|l)k
 plantronic:|pl%n\tron!k
 plantronics:|pl%n\tron!ks
 plants:\pl%nts
-plants':\pl%nts
+plants:\pl%nts
 plantz:\pl%nts
 plaque:\pl%k
 plaques:\pl%ks
@@ -82512,7 +82512,7 @@ playcount:\pl*|k(nt
 played:\pl*d
 player:\pl*&
 players:\pl*&z
-players':\pl*&z
+players:\pl*&z
 playford:\pl*f&d
 playful:\pl*f2l
 playfully:\pl*f2li
@@ -82521,7 +82521,7 @@ playground:\pl*|gr(n,\pl*|gr(nd
 playgrounds:\pl*|gr(ndz,\pl*|gr(nz
 playhouse:\pl*|h(s
 playhouses:\pl*|h(s!z
-playin':\pl*!n
+playin:\pl*!n
 playing:\pl*!=
 playlist:\pl*l!st
 playlists:\pl*l!sts
@@ -83003,7 +83003,7 @@ policing:p2\lis!=
 policy:\pol2si
 policyholder:\pol2si|h[ld&
 policyholders:\pol2si|h[ld&z
-policyholders':\pol2si|h[ld&z
+policyholders:\pol2si|h[ld&z
 policymaker:\pol2si|m*k&
 policymakers:\pol2si|m*k&z
 policymaking:\pol2si|m*k!=
@@ -83035,7 +83035,7 @@ political:p2\l!t2k2l,p2\l!t!k2l
 politically:\pl!t!kli,p2\l!t!k2li
 politician:|pol2\t!12n
 politicians:|pol2\t!12nz
-politicians':|pol2\t!12nz
+politicians:|pol2\t!12nz
 politicization:p2|l!t2s2\z*12n
 politicize:p2\l!t!|s)z
 politicized:p2\l!t!|s)zd
@@ -83044,7 +83044,7 @@ politicking:\pol2|t!k!=
 politico:p2\l!t!|k[
 politicos:p2\l!t!|k[z
 politics:\pol2|t!ks
-politics':\pol2|t!ks
+politics:\pol2|t!ks
 politis:\pol)t!s
 polito:p[\lit[
 politte:p2\l!t
@@ -83804,11 +83804,11 @@ powerless:\p(&l2s
 powerlessness:\p(&l2sn2s
 powerpc:\p(&\pi\si
 powerpcs:\p(&\pi\siz
-powerpcs':\p(&\pi\siz
+powerpcs:\p(&\pi\siz
 powerpoint:\p(&|p]nt
 powerpoints:\p(&|p]nts
 powers:\p(&z
-powers':\p(&z
+powers:\p(&z
 powersoft:\p(&|soft
 powertrain:\p(r|tr*n
 powis:\p(!s
@@ -84020,7 +84020,7 @@ predawn:pri\d>n
 preddy:\predi
 predecessor:\pred2|ses&
 predecessors:\pred2|ses&z
-predecessors':|pred2\ses&z
+predecessors:|pred2\ses&z
 predefined:|prid!\f)nd
 predestination:|pri|dest2\n*12n
 predestine:|pri\dest2n
@@ -84284,7 +84284,7 @@ presidential:|prez2\den12l
 presidentialist:|prez2\den12l!st
 presidentially:|pres!\den12li
 presidents:\prez2|dents,\prez!d2ns,\prez!d2nts
-presidents':\prez!d2nts
+presidents:\prez!d2nts
 presides:pri\z)dz,pr!\z)dz
 presiding:pri\z)d!=,pr!\z)d!=
 presidio:pr!\s!di|[
@@ -84297,7 +84297,7 @@ presnell:\presn2l
 presplit:\pris\pl!t
 presque-isle:\presk)l
 press:\pres
-press':\pres
+press:\pres
 pressboard:\pres|b>rd
 pressburger:\presb&g&
 presse:\pres
@@ -84543,7 +84543,7 @@ prince:\pr!ns
 princely:\pr!nsli
 princes:\pr!ns2z,\pr!ns!z
 princess:\pr!nses
-princess':\pr!nses
+princess:\pr!nses
 princesses:\pr!nses!z
 princeton:\pr!nst2n
 princeville:\pr!ns|v!l
@@ -84614,7 +84614,7 @@ prison:\pr!z2n
 prisoned:\pr!z2nd
 prisoner:\pr!z2n&,\pr!zn&
 prisoners:\pr!z2n&z,\pr!zn&z
-prisoners':\pr!z2n&z,\pr!zn&z
+prisoners:\pr!z2n&z,\pr!zn&z
 prisons:\pr!z2nz
 prissie:\pr!si
 prissy:\pr!si
@@ -84774,18 +84774,18 @@ produce:\pr[dus,pr2\dus
 produced:pr2\dust
 producer:pr2\dus&
 producers:pr2\dus&z
-producers':pr2\dus&z
+producers:pr2\dus&z
 produces:pr2\dus2z,pr2\dus!z
 producing:pr2\dus!=
 product:\prod2kt
 production:p&\d2k12n,pr2\d2k12n,pr[\d2k12n
 productions:p&\d2k12nz,pr2\d2k12nz,pr[\d2k12nz
-productions':p&\d2k12nz,pr2\d2k12nz,pr[\d2k12nz
+productions:p&\d2k12nz,pr2\d2k12nz,pr[\d2k12nz
 productive:p&\d2kt!v,pr2\d2kt!v,pr[\d2kt!v
 productively:p&\d2kt!vli,pr2\d2kt!vli,pr[\d2kt!vli
 productivity:|pr[d2k\t!v2ti,|pr[d2k\t!v!ti
 products:\prod2ks,\prod2kts
-products':\pr>d2ks,\pr>d2kts
+products:\pr>d2ks,\pr>d2kts
 prody:\p[di
 proehl:\pr[l
 prof.:\pr>f,pr2\fes&
@@ -84803,12 +84803,12 @@ professionalize:pr2\fe12n2|l)z
 professionalized:pr2\fe12n2|l)zd
 professionally:pr2\fe12n2li,pr2\fe1n2li
 professionals:pr2\fe12n2lz
-professionals':pr2\fe12n2lz
+professionals:pr2\fe12n2lz
 professions:pr2\fe12nz
 professor:pr2\fes&
 professorial:|pr[f2\s>ri2l
 professors:pr2\fes&z
-professors':pr2\fes&z
+professors:pr2\fes&z
 professorship:pr2\fes&|1!p
 professorships:pr2\fes&|1!ps
 profeta:pr[\fet2
@@ -84868,7 +84868,7 @@ programmer:\pr[|gr%m&
 programmers:\pr[|gr%m&z
 programming:\pr[|gr%m!=
 programs:\pr[|gr%mz
-programs':\pr[|gr%mz
+programs:\pr[|gr%mz
 progress:\pro|gres,pr2\gres,pr[\gres
 progressed:pr2\grest
 progresses:\pro|gres2z,pr[\gres2z
@@ -84901,7 +84901,7 @@ projective:pr2\8ekt!v
 projector:pr2\8ekt&
 projectors:pr2\8ekt&z
 projects:\pro8eks,\pro8ekts,pr2\8eks,pr2\8ekts
-projects':\pr>8eks,\pr>8ekts
+projects:\pr>8eks,\pr>8ekts
 prokofiev:\prok[|fiv
 prokop:\pr[k2p
 prolactin:pr[\l%kt2n
@@ -85012,7 +85012,7 @@ propensity:pr2\pens!ti
 proper:\prop&
 properly:\prop&li
 properties:\prop&tiz
-properties':\pr[p&tiz
+properties:\pr[p&tiz
 property:\prop&ti
 propes:\pr[ps
 propfan:\prop|f%n
@@ -85069,7 +85069,7 @@ prorated:\pr[|r*t!d
 proration:|pr[\r*12n
 prorok:\pr>r2k
 pros:\pr[z
-pros':\pr[z
+pros:\pr[z
 prosaic:pr[\z*!k
 proscar:\pr>|skor
 prosch:\pr>1
@@ -85089,7 +85089,7 @@ prosecutions:|pros2k\ju12nz
 prosecutor:\pros!k|jut&
 prosecutorial:|pros!kju\t>ri2l
 prosecutors:\pros!k|jut&z
-prosecutors':\pros2kjut&z
+prosecutors:\pros2kjut&z
 prosek:\pr[sek
 prosekey:pr[\seki
 proselytize:\pros2l2|t)z
@@ -85173,7 +85173,7 @@ protestations:|pr[|tes\t*12nz
 protested:\pr[|test!d,pr2\test!d
 protester:\pr[|test&
 protesters:\pr[|test&z
-protesters':\pr[|test&z
+protesters:\pr[|test&z
 protesting:\pr[|test!=,pr2\test!=
 protestors:\pr[|test&z
 protests:\pr[|tes,\pr[|tests,pr2\tes,pr2\tests
@@ -85441,7 +85441,7 @@ public-spiritedness:|p2bl!k\sp!r!|t!dn2s
 publically:\p2bl!kli
 publication:|p2bl!\k*12n
 publications:|p2bl!\k*12nz
-publications':|p2bl!\k*12nz
+publications:|p2bl!\k*12nz
 publicis:p2\blis!s
 publicist:\p2bl!s!st
 publicists:\p2bl!s!sts
@@ -85456,7 +85456,7 @@ publish:\p2bl!1
 published:\p2bl!1t
 publisher:\p2bl!1&
 publishers:\p2bl!1&z
-publishers':\p2bl!1&z
+publishers:\p2bl!1&z
 publishes:\p2bl!12z,\p2bl!1!z
 publishing:\p2bl!1!=
 publishings:\p2bl!1!=z
@@ -85675,7 +85675,7 @@ purchase:\p&$2s
 purchased:\p&$2st
 purchaser:\p&$2s&
 purchasers:\p&$2s&z
-purchasers':\p&$2s&z
+purchasers:\p&$2s&z
 purchases:\p&$2s2z,\p&$2s!z
 purchasing:\p&$2s!=
 purdham:\p&d2m
@@ -85893,7 +85893,7 @@ pyramids:\p!r2m!dz
 pyre:\p)&
 pyrena:p!\rin2
 pyrenees:\p!r2iz
-pyrenees':\p!r2iz
+pyrenees:\p!r2iz
 pyres:\p)&z
 pyrite:\p)r)t
 pyro:\p)r[
@@ -86044,7 +86044,7 @@ quarterly:\kw>rt&li
 quarterman:\kw>rt&m2n
 quartermaster:\kw>rt&|m%st&
 quarters:\kw>rt&z
-quarters':\kw>rt&z
+quarters:\kw>rt&z
 quartet:kw>r\tet
 quartets:kw>r\tets
 quarteurlanc:|kwort&\l%=k
@@ -86149,7 +86149,7 @@ questionings:\kwes$2n!=z
 questionnaire:|kwes$2\ner
 questionnaires:|kwes$2\nerz
 questions:\kwes$2nz
-questions':\kwes$2nz
+questions:\kwes$2nz
 questran:\kwes|tr%n
 questrom:\kwestr2m
 quests:\kwests
@@ -86651,7 +86651,7 @@ raid:\r*d
 raided:\r*d!d
 raider:\r*d&
 raiders:\r*d&z
-raiders':\r*d&z
+raiders:\r*d&z
 raiding:\r*d!=
 raids:\r*dz
 raiff:\r*f
@@ -86673,7 +86673,7 @@ railroad:\r*l|r[d
 railroaded:\r*l|r[d!d
 railroading:\r*l|r[d!=
 railroads:\r*l|r[dz
-railroads':\r*l|r[dz
+railroads:\r*l|r[dz
 rails:\r*lz
 railsback:\r*lz|b%k
 railtex:\r*l|teks
@@ -86770,7 +86770,7 @@ rakow:\r%k(
 rakowski:r2\k(ski
 raleigh:\r>li
 rales:\r*lz
-rales':\r*lz
+rales:\r*lz
 raleses:r2\lis!z
 raley:\r%li
 ralf:\rolf
@@ -86934,7 +86934,7 @@ ranged:\r*n8d
 rangel:\r%n\8el
 ranger:\r*n8&
 rangers:\r*n8&z
-rangers':\r*n8&z
+rangers:\r*n8&z
 ranges:\r*n82z,\r*n8!z
 ranging:\r*n8!=
 rangoon:r%=\gun
@@ -87130,7 +87130,7 @@ rated:\r*t!d
 rateliff:\r%tl!f
 ratepayer:\r*t|p*&
 ratepayers:\r*t|p*&z
-ratepayers':\r*t|p*&z
+ratepayers:\r*t|p*&z
 rater:\r*t&
 raters:\r*t&z
 rates:\r*ts
@@ -87386,7 +87386,7 @@ reade:\red
 reader:\rid&
 readerman:\rid&m2n
 readers:\rid&z
-readers':\rid&z
+readers:\rid&z
 readership:\rid&|1!p
 readied:\redid
 readier:\redi&
@@ -87422,7 +87422,7 @@ reaganite:\r*g2|n)t,\rig2|n)t
 reaganites:\r*g2|n)ts
 reaganomics:|r*g2\nom!ks
 reagans:\r*g2nz
-reagans':\r*g2nz,\rig2nz
+reagans:\r*g2nz,\rig2nz
 reagen:\rig2n
 reagent:\ri82nt,ri\*82nt
 reagents:\ri82nts,ri\*82nts
@@ -87601,7 +87601,7 @@ rebelliousness:r2\beli2sn2s
 rebello:re\bel[
 rebelo:re\bel[
 rebels:\reb2lz,r!\belz
-rebels':\reb2lz
+rebels:\reb2lz
 reber:\reb&
 rebert:\reb&t
 rebholz:\rebh[lz
@@ -87738,7 +87738,7 @@ recipe:\res2pi
 recipes:\res2piz
 recipient:r2\s!pi2nt,r!\s!pi2nt
 recipients:r!\s!pi2nts
-recipients':r!\s!pi2nts
+recipients:r!\s!pi2nts
 reciprocal:r!\s!pr2k2l
 reciprocant:ri\s!pr2k2nt
 reciprocants:ri\s!pr2k2nts
@@ -87875,7 +87875,7 @@ recording:r2\k>rd!=,r!\k>rd!=
 recordings:r!\k>rd!=z
 recordkeeping:\rek&d|kip!=
 records:\rek&dz,r2\k>rdz,r!\k>rdz
-records':\rek&dz
+records:\rek&dz
 recore:re\k>ri
 recoton:r!\k>t!n
 recount:|ri\k(nt,r!\k(nt
@@ -88107,11 +88107,11 @@ redrawn:ri\dr>n
 redress:\ridres,r!\dres
 redressing:ri\dres!=
 reds:\redz
-reds':\redz
+reds:\redz
 redshaw:\red|1>
 redskin:\red|sk!n
 redskins:\red|sk!nz
-redskins':\red|sk!nz
+redskins:\red|sk!nz
 redstone:\red|st[n
 reduce:r2\dus,ri\dus,r!\dus
 reduced:r2\dust,ri\dust,r!\dust
@@ -88134,7 +88134,7 @@ reeb:\rib
 reebok:\ribok
 reeboks:\riboks
 reebs:\ribz
-reebs':\ribz
+reebs:\ribz
 reece:\ris
 reeche:\ri$
 reeck:\rik
@@ -88185,7 +88185,7 @@ rees:\riz
 reese:\ris
 reeser:\ris&
 reesjones:|ris\8[nz
-reesjones':|ris\8[nz,|ris\8[nz2z
+reesjones:|ris\8[nz,|ris\8[nz2z
 reesman:\rism2n
 reesor:\ris&
 reestablish:ri!\st%bl!1
@@ -88199,7 +88199,7 @@ reevaluation:ri!|v%lju\*12n
 reeve:\riv
 reever:\riv&
 reeves:\rivz
-reeves':\rivz
+reeves:\rivz
 reexamination:ri!g|z%m2\n*12n
 reexamine:rieg\z%m2n
 reexamined:ri!g\z%m2nd
@@ -88249,7 +88249,7 @@ refinements:r!\f)nm2nts
 refiner:r!\f)n&
 refineries:r!\f)n&iz
 refiners:r!\f)n&z
-refiners':r!\f)n&z
+refiners:r!\f)n&z
 refinery:r!\f)n&i
 refines:r!\f)nz
 refining:r2\f)n!=,r!\f)n!=
@@ -88294,7 +88294,7 @@ reformatory:r!\f>rm2|t>ri
 reformed:r!\f>rmd
 reformer:r!\f>rm&
 reformers:r!\f>rm&z
-reformers':r!\f>rm&z
+reformers:r!\f>rm&z
 reforming:r!\f>rm!=
 reformist:r!\f>rm!st
 reformists:r!\f>rm!sts
@@ -88332,7 +88332,7 @@ refueling:rif\ju2l!=,rif\jul!=
 refuge:\refju8
 refugee:\refju8i
 refugees:\ref|ju8iz
-refugees':\ref|ju8iz
+refugees:\ref|ju8iz
 refuges:ref\ju8!z
 refugio:r2f\ju8i[
 refund:\ri|f2nd,r!\f2nd
@@ -88470,7 +88470,7 @@ regulations:|regj2\l*12nz
 regulative:\regj2|l*t!v
 regulator:\regj2|l*t&
 regulators:\regj2|l*t&z
-regulators':\regj2|l*t&z
+regulators:\regj2|l*t&z
 regulatory:\regj2l2|t>ri
 regurgitate:|r!\g&82|t*t
 regwan:\regwon
@@ -88558,7 +88558,7 @@ reidel:\r)d2l
 reidenbach:\r)d!nbok
 reider:\rid&
 reiders:\rid&z
-reiders':\rid&z
+reiders:\rid&z
 reidinger:\r)d!=&
 reidt:\ridt
 reidy:\ridi
@@ -89313,11 +89313,11 @@ reported:|ri\p>rt!d,r!\p>rt!d
 reportedly:ri\p>rt2dli,r!\p>rt2dli
 reporter:r!\p>rt&
 reporters:r!\p>rt&z
-reporters':r!\p>rt&z
+reporters:r!\p>rt&z
 reporting:ri\p>rt!=,r!\p>rt!=
 reportorial:|rep&\t>ri2l
 reports:ri\p>rts,r!\p>rts
-reports':ri\p>rts,r!\p>rts
+reports:ri\p>rts,r!\p>rts
 repos:\ri|p[z
 reposa:re\p[s2
 repose:ri\p[z
@@ -89344,7 +89344,7 @@ representational:|repr2z2n\t*12n2l
 representations:|repr2z2n\t*12nz
 representative:|repr2\zen2t!v,|repr2\zent2t!v,|repr!\zen2t!v,|repr!\zent2t!v
 representatives:|repr2\zen2t!vz,|repr2\zent2t!vz,|repr!\zen2t!vz,|repr!\zent2t!vz
-representatives':|repr2\sen2t!vz,|repr2\sent2t!vz
+representatives:|repr2\sen2t!vz,|repr2\sent2t!vz
 represented:|repr!\zent!d
 representing:|repr!\zent!=
 represents:|repr!\zents
@@ -89400,7 +89400,7 @@ republica:r!\p2bl!k2
 republican:ri\p2bl2k2n,ri\p2bl!k2n,r!\p2bl!k2n
 republicanism:r!\p2bl!k2|n!z2m
 republicans:ri\p2bl2k2nz,ri\p2bl!k2nz,r!\p2bl!k2nz
-republicans':ri\p2bl!k2nz,r!\p2bl!k2nz
+republicans:ri\p2bl!k2nz,r!\p2bl!k2nz
 republicbank:ri\p2bl!k|b%=k
 republics:ri\p2bl!ks
 republika:r!\p2bl!k2
@@ -89484,7 +89484,7 @@ research:\ris&$,ri\s&$
 researched:ri\s&$t
 researcher:\ris&$&
 researchers:\ris&$&z
-researchers':\ris&$&z
+researchers:\ris&$&z
 researches:ri\s&$!z
 researching:ri\s&$!=
 resection:|ri\sek12n
@@ -89552,7 +89552,7 @@ residency:\rez!d2nsi
 resident:\rez!d2nt
 residential:|rez!\den12l
 residents:\rez!d2nts
-residents':\rez!d2nts
+residents:\rez!d2nts
 resides:ri\z)dz,r!\z)dz
 residing:ri\z)d!=,r!\z)d!=
 residual:r!\z!8u2l
@@ -89608,7 +89608,7 @@ resort:ri\s>rt,ri\z>rt,r!\z>rt
 resorted:ri\s>rt!d,ri\z>rt!d,r!\z>rt!d
 resorting:ri\s>rt!=,ri\z>rt!=,r!\z>rt!=
 resorts:ri\s>rts,ri\z>rts,r!\z>rts
-resorts':r!\z>rts
+resorts:r!\z>rts
 resound:|ri\s(nd,|ri\z(nd
 resounding:ri\s(nd!=
 resoundingly:r!\z(nd!=li
@@ -89616,7 +89616,7 @@ resource:\ris>rs
 resourceful:ri\s>rsf2l
 resourcefulness:ri\s>rsf2ln2s
 resources:\ris>rs!z
-resources':\ris>rs!z
+resources:\ris>rs!z
 respawn:|ri\spon
 respeak:|ri\spik
 respect:ri\spekt,r!\spekt
@@ -89643,7 +89643,7 @@ respond:ri\spond,r!\spond
 responded:ri\spond2d,ri\spond!d,r!\spond!d
 respondent:r!\spond2nt
 respondents:r!\spond2nts
-respondents':r!\spond2nts
+respondents:r!\spond2nts
 responder:r!\spond&
 responders:r!\spond&z
 responding:ri\spond!=,r!\spond!=
@@ -89679,7 +89679,7 @@ restaurant:\res|tront,\rest&|ont
 restauranteur:restron\t&
 restauranteurs:restron\t&z
 restaurants:\res|tronts,\rest&|onts
-restaurants':\res|tronts,\rest&|onts
+restaurants:\res|tronts,\rest&|onts
 restaurateur:|rest&2\t&,|restr2\t&
 restaurateurs:|rest&2\t&z,|restr2\t&z
 rested:\rest2d,\rest!d
@@ -89769,7 +89769,7 @@ retail:\ri|t*l
 retailed:\ri|t*ld
 retailer:\ri|t*l&
 retailers:\ri|t*l&z
-retailers':\ri|t*l&z
+retailers:\ri|t*l&z
 retailing:\ri|t*l!=
 retails:\ri|t*lz
 retain:ri\t*n,r!\t*n
@@ -89825,7 +89825,7 @@ retire:|ri\t)&,ri\t)r,r!\t)r
 retired:ri\t)&d,ri\t)rd,r!\t)rd
 retiree:ri\t)\ri
 retirees:ri\t)\riz
-retirees':r!|t)\riz
+retirees:r!|t)\riz
 retirement:ri\t)&m2nt,r!\t)&m2nt
 retirements:ri\t)rm2nts,r!\t)rm2nts
 retires:ri\t)&z,ri\t)rz,r!\t)rz
@@ -89911,7 +89911,7 @@ returnee:r!t&\ni
 returnees:r!t&\niz
 returning:ri\t&n!=,r!\t&n!=
 returns:ri\t&nz,r!\t&nz
-returns':r2\t&nz,ri\t&nz
+returns:r2\t&nz,ri\t&nz
 retz:\rets
 retzer:\retz&
 retzlaff:\retzl2f
@@ -89941,7 +89941,7 @@ reusser:\r]s&
 reust:\rust
 reuter:\r]t&
 reuters:\r]t&z
-reuters':\r]t&z
+reuters:\r]t&z
 reutgers:\r]tg&z
 reuther:\r]6&
 reutter:\r]t&
@@ -90148,7 +90148,7 @@ reynard:\r*n&d
 reynaud:\r*n>d
 reynold:\ren2ld
 reynolds:\ren2ldz
-reynolds':\ren2ldz
+reynolds:\ren2ldz
 reynoldson:\r*n[lds2n
 reynosa:ri\n[s2
 reynoso:ri\n[s[
@@ -90313,7 +90313,7 @@ rich:\r!$
 richa:\r!$2
 richard:\r!$&d
 richards:\r!$&dz
-richards':\r!$&dz
+richards:\r!$&dz
 richardson:\r!$&ds2n
 richardsonsmith:\r!$&ds2ns\m!0
 richardt:\r!kort
@@ -90381,7 +90381,7 @@ ricki:\r!ki
 rickie:\r!ki
 ricklefs:\r!kl!fs
 rickles:\r!k2lz
-rickles':\r!k2lz,\r!k2lz!z
+rickles:\r!k2lz,\r!k2lz!z
 rickman:\r!km2n
 rickner:\r!kn&
 ricks:\r!ks
@@ -90464,7 +90464,7 @@ riedel:\rid2l
 rieder:\rid&
 riederer:\rid&&
 rieders:\rid&z
-rieders':\rid&z
+rieders:\rid&z
 riedesel:\rid!s2l
 riedl:\rid2l
 riedlinger:\rid2l!=&,\ridl!=&
@@ -90583,7 +90583,7 @@ rightmyer:\r)tmi&
 rightness:\r)tn2s
 righto:\r)t[
 rights:\r)ts
-rights':\r)ts
+rights:\r)ts
 rightward:\r)tw&d
 rightwing:\r)t|w!=
 righty:\r)ti
@@ -90713,7 +90713,7 @@ rinsing:\r!ns!=
 rintala:rin\tol2
 rintel:r!n\tel
 rintels:r!n\telz
-rintels':r!n\telz
+rintels:r!n\telz
 rio:\ri[
 rio-de-janeiro:\ri[\di82\ne|r[
 riojas:ri\[joz
@@ -90730,7 +90730,7 @@ rioters:\r)2t&z
 rioting:\r)2t!=
 riotous:\r)2t2s
 riots:\r)2ts
-riots':\r)2ts
+riots:\r)2ts
 rioux:\ru
 rip:\r!p
 ripa:\rip2
@@ -90870,7 +90870,7 @@ rivaling:\r)v2l!=,\r)vl!=
 rivalries:\r)v2lriz
 rivalry:\r)v2lri
 rivals:\r)v2lz
-rivals':\r)v2lz
+rivals:\r)v2lz
 rivard:\r!v&d
 rivas:\rivoz
 riven:\r!v2n
@@ -91016,7 +91016,7 @@ roberta:r2\b&t2
 roberti:r2\b&ti
 roberto:r2\bert[,r[\bert[
 roberts:\rob&ts
-roberts':\rob&ts
+roberts:\rob&ts
 robertshaw:\ro\b&t\1>
 robertson:\rob&ts2n
 robes:\r[bz
@@ -91037,10 +91037,10 @@ robinette:\rob!|net
 robinhood:\rob!n|h?d
 robinia:r[\bini2
 robins:\rob2nz
-robins':\rob2nz
+robins:\rob2nz
 robinson:\rob2ns2n
 robinsons:\rob2ns2nz
-robinsons':\rob2ns2nz
+robinsons:\rob2ns2nz
 robishaw:\rob!|1>
 robison:\rob!s2n
 robitaille:\rob!|t*l
@@ -91125,7 +91125,7 @@ rockhill:\rok|h!l
 rockhold:\rok|h[ld
 rockholt:\rok|h[lt
 rockies:\rokiz
-rockin':\rok!n
+rockin:\rok!n
 rocking:\rok!=
 rockingham:\rok!=|h%m
 rockland:\rokl2nd
@@ -91283,7 +91283,7 @@ rogelio:r[\gili[
 roger:\ro8&
 rogernomics:|r[g&\nom!ks
 rogers:\ro8&z
-rogers':\ro8&z
+rogers:\ro8&z
 rogerson:\rog&s2n
 roget:r[\3*
 rogge:\rog
@@ -91400,12 +91400,12 @@ rolli:\roli
 rollicking:\rol!k!=
 rollie:\r[li,\r>li
 rollin:\rol!n
-rollin':\r[l!n
+rollin:\r[l!n
 rolling:\r[l!=
 rollinger:\r[l!=&
 rollings:\r[l!=z
 rollins:\rol!nz
-rollins':\rol!nz
+rollins:\rol!nz
 rollinson:\rol!ns2n
 rollison:\rol!s2n
 rollman:\r[lm2n
@@ -91758,7 +91758,7 @@ rosoff:\ros>f
 rosol:\r[s>l
 rospatch:\r>sp%$
 ross:\ros,\r>s
-ross':\ros
+ross:\ros
 rossa:\r[s2
 rossano:r[\son[
 rossbach:\rosbok
@@ -92046,7 +92046,7 @@ royalist:\r]2l!st
 royall:\r]2l
 royally:\r]2li
 royals:\r]2lz
-royals':\r]2lz
+royals:\r]2lz
 royalties:\r]2ltiz
 royalty:\r]2lti
 roybal:\r]b2l
@@ -92425,7 +92425,7 @@ runnels:\r2n2lz
 runner:\r2n&
 runner-up:\r2n&|2p
 runners:\r2n&z
-runnin':\r2n!n
+runnin:\r2n!n
 running:\r2n!=
 runnings:\r2n!=z
 runnion:\r2nj2n
@@ -92515,7 +92515,7 @@ russi:\rusi
 russia:\r212
 russian:\r212n
 russians:\r212nz
-russians':\r212nz
+russians:\r212nz
 russification:|r2s2f2\k*12n,|rus2f2\k*12n
 russified:\r2s2f)d
 russin:\r2s!n
@@ -92556,7 +92556,7 @@ ruter:\rut&
 rutgard:\r2t|gord
 rutger:\r2tg&
 rutgers:\r2tg&z
-rutgers':\r2tg&z
+rutgers:\r2tg&z
 ruth:\ru0
 ruth-ann:|ru\0%n
 ruth-anne:|ru\0%n
@@ -92705,7 +92705,7 @@ sabatini:|s%b2\tini
 sabatino:sobo\tin[
 sabatista:|sob2\tist2
 sabatistas:|sob2\tist2z
-sabatistas':|sob2\tist2z
+sabatistas:|sob2\tist2z
 sabatka:so\botk2
 sabato:so\bot[
 sabaudia:s2\b>di2
@@ -92767,7 +92767,7 @@ sachet:s%\1*
 sachi:\s%$i
 sachin:\s%$2n
 sachs:\s%ks,\soks
-sachs':\s%ks
+sachs:\s%ks
 sachse:\s%$s
 sacilor:\s%s2l&
 sacirbey:\sok&bi
@@ -92945,7 +92945,7 @@ sailfish:\s*l|f!1
 sailing:\s*l!=
 sailor:\s*l&
 sailors:\s*l&z
-sailors':\s*l&z
+sailors:\s*l&z
 sails:\s*lz
 sain:\s*n
 sainato:s2\not[
@@ -92958,7 +92958,7 @@ sainted:\s*nt!d
 sainthood:\s*nt|h?d
 saintly:\s*ntli
 saints:\s*nts
-saints':\s*nts
+saints:\s*nts
 sainz:\s*nz
 saipan:\s*p2n
 sais:\s*z
@@ -93050,7 +93050,7 @@ salemi:so\lemi
 salemme:\s%l!m
 salerno:s2\lern[
 sales:\s*lz
-sales':\s*lz
+sales:\s*lz
 salesforce:\s*lz|f>rs
 salesman:\s*lzm2n
 salesmanship:\s*lzm2n|1!p
@@ -93071,7 +93071,7 @@ salim:\s%l!m,solim
 salin:so\lin
 salina:s2\lin2
 salinas:s2\lin2s,s2\lin2z
-salinas':s2\lin2s,s2\lin2z
+salinas:s2\lin2s,s2\lin2z
 saline:s2\lin
 saling:\s*l!=
 salinger:\s%l!n8&
@@ -93287,7 +93287,7 @@ sampley:\s%mpli
 sampling:\s%mpl!=
 samplings:\s%mpl!=z
 sampras:\s%mpr2s
-sampras':\s%mpr2s
+sampras:\s%mpr2s
 sampre:\s%mp&,\s%mpri
 sampsel:\s%mps2l
 sampsell:\s%mps2l
@@ -93334,7 +93334,7 @@ sanction:\s%=k12n
 sanctioned:\s%=k12nd
 sanctioning:\s%=k12n!=
 sanctions:\s%=k12nz
-sanctions':\s%=k12nz
+sanctions:\s%=k12nz
 sanctity:\s%=kt!ti
 sanctuaries:\s%=k$u|eriz
 sanctuary:\s%=k$u|eri
@@ -93390,7 +93390,7 @@ sandin:\s%n|d!n
 sanding:\s%nd!=
 sandinista:|s%nd!\nist2,|s%nd!\n!st2
 sandinistas:|s%nd!\nist2z
-sandinistas':|s%nd!\nist2z
+sandinistas:|s%nd!\nist2z
 sandino:s%n\din[
 sandler:\s%ndl&
 sandlin:\s%ndl!n
@@ -93798,7 +93798,7 @@ saudi:\s(di,\s>di
 saudia:\s(di2,\s>di2
 saudiization:|s(i!\z*12n
 saudis:\s(diz,\s>diz
-saudis':\s(diz,\s>diz
+saudis:\s(diz,\s>diz
 sauer:\s(&
 sauerkraut:\s(&|kr(t
 sauers:\s(&z
@@ -93819,7 +93819,7 @@ saum:\s>m
 sauna:\s>n2
 saunas:\s>n2z
 saunders:\s>nd&z
-saunders':\s>nd&z
+saunders:\s>nd&z
 saunderson:\s>nd&s2n
 saundra:\s>ndr2
 saunier:\s>ni&
@@ -93890,7 +93890,7 @@ savin:\s%v!n
 savina:s2\vin2
 saving:\s*v!=
 savings:\s*v!=z
-savings':\s*v!=z
+savings:\s*v!=z
 savini:so\vini
 savino:so\vin[
 savio:\sovi[
@@ -93967,7 +93967,7 @@ sayegh:\s*!g
 sayer:\s*&
 sayers:\s*&z
 sayiid:\s)!d,s)\id
-sayin':\s*!n
+sayin:\s*!n
 saying:\s*!=
 sayings:\s*!=z
 sayito:s)\it[
@@ -94637,7 +94637,7 @@ schneid:\1n)d
 schneider:\1n)d&
 schneiderman:\1n)d&m2n
 schneiders:\1n)d&z
-schneiders':\1n)d&z
+schneiders:\1n)d&z
 schneidewind:\1n)d2|w!nd
 schneier:\1n)&
 schneiter:\1n)t&
@@ -94768,7 +94768,7 @@ schoolmate:\skul|m*t
 schoolmates:\skul|m*ts
 schoolroom:\skul|rum
 schools:\skulz
-schools':\skulz
+schools:\skulz
 schoolteacher:\skul|ti$&
 schoolteachers:\skul|ti$&z
 schooltime:\skul|t)m
@@ -95066,13 +95066,13 @@ scicom:\s!|kom
 science:\s)2ns
 science-fiction:\s)2ns|f!k12n
 sciences:\s)2ns2z,\s)2ns!z
-sciences':\s)2ns!z
+sciences:\s)2ns!z
 scientific:|s)2n\t!f!k
 scientifically:|s)2n\t!f!k2li,|s)2n\t!f!kli
 scientifics:|s)2n\t!f!ks
 scientist:\s)2nt!st
 scientists:\s)2nt!s,\s)2nt!sts,\s)nt!s,\s)nt!sts
-scientists':\s)2nt!sts
+scientists:\s)2nt!sts
 scientologist:|s)2n\tol282st
 scientologists:|s)2n\tol282sts
 scientology:|s)2n\tol28i
@@ -95463,7 +95463,7 @@ seago:\si|g[
 seagoing:\si|g[!=
 seagram:\sigr2m
 seagrams:\sigr2mz
-seagrams':\sigr2mz
+seagrams:\sigr2mz
 seagrave:\si|gr*v
 seagraves:\si|gr*vz
 seagren:\sigren
@@ -95533,7 +95533,7 @@ searle:\s&l
 searles:\s&lz
 searls:\s&lz
 sears:\s!rz
-sears':\s!rz
+sears:\s!rz
 searson:\s&s2n
 seas:\siz
 sease:\siz
@@ -95639,7 +95639,7 @@ secret:\sikr2t,\sikr!t
 secretarial:|sekr2\teri2l
 secretariat:|sekr!\teri2t
 secretaries:\sekr2|teriz
-secretaries':\sekr!|teriz
+secretaries:\sekr!|teriz
 secretary:\sekr2|teri
 secrete:s!\krit
 secreted:s2\krit!d
@@ -95676,7 +95676,7 @@ securely:s!k\j?rli
 secures:s!k\j?rz
 securing:s!k\j?r!=
 securities:s!k\j?r2tiz
-securities':s!k\j?r2tiz
+securities:s!k\j?r2tiz
 securitization:s!k|j?r2t2\z*12n
 securitize:s!k\j?r2|t)z
 securitized:s!k\j?r2|t)zd
@@ -95970,7 +95970,7 @@ selene:s2\lin
 selenite:\sel!|n)t
 selenium:s2\lini2m
 seles:\seles
-seles':\seles
+seles:\seles
 seley:\sili
 self:\self
 self-aggrandizement:\sel\f%gr2n|d)zm2nt
@@ -96042,7 +96042,7 @@ selfs:\selfs
 selia:\seli2
 selie:\seli
 selies:\seliz
-selies':\seliz
+selies:\seliz
 selig:\sel!g
 seliga:\sel!g2
 seliger:\sel!g&
@@ -96071,7 +96071,7 @@ selleck:\sel!k
 sellen:\sel2n
 seller:\sel&
 sellers:\sel&z
-sellers':\sel&z
+sellers:\sel&z
 selley:\seli
 sellick:\sel!k
 sellier:\selj&
@@ -96199,7 +96199,7 @@ senator:\sen2t&
 senatore:seno\t>ri
 senatorial:|sen2\t>ri2l
 senators:\sen2t&z
-senators':\sen2t&z
+senators:\sen2t&z
 send:\send
 sendak:\send%k
 sendawal:sen\dow2l
@@ -96398,7 +96398,7 @@ serbin:\s&b!n
 serbo-croatia:\s&b[|kr[*12
 serbo-croatian:\s&b[|kr[*12n
 serbs:\s&bz
-serbs':\s&bz
+serbs:\s&bz
 serbska:\s&bsk2
 serco:\s&k[
 serda:\serd2
@@ -96436,7 +96436,7 @@ serialize:\s!|ri2|l)z
 serialized:\s!|ri2|l)zd
 serials:\s!ri2lz
 series:\s!riz
-series':\s!riz
+series:\s!riz
 serilda:s&\ild2
 serino:s&\in[
 serio:\siri[
@@ -96486,7 +96486,7 @@ servam:\s&v2m
 servan:\s&v2n
 servant:\s&v2nt
 servants:\s&v2nts
-servants':\s&v2nts
+servants:\s&v2nts
 serve:\s&v
 served:\s&vd
 servello:s&\vel[
@@ -96501,7 +96501,7 @@ servicemaster:\s&v!s|m%st&
 servicemen:\s&v2smen
 servicer:\s&v!s&
 services:\s&v2s2z,\s&v!s!z
-services':\s&v2s2z,\s&v!s!z
+services:\s&v2s2z,\s&v!s!z
 servicing:\s&v!s!=
 servico:\s&v!|k[
 servidio:s&\vidi[
@@ -96526,7 +96526,7 @@ sesno:\ses|n[
 sessa:\ses2
 session:\se12n
 sessions:\se12nz
-sessions':\se12nz
+sessions:\se12nz
 sessler:\sesl&
 sessoms:\ses2mz
 sessums:\ses2mz
@@ -96565,7 +96565,7 @@ settlemire:\set2l|m)r
 settlemyre:\set2l|m)r
 settler:\set2l&,\setl&
 settlers:\set2l&z,\setl&z
-settlers':\setl&z
+settlers:\setl&z
 settles:\set2lz
 settling:\set2l!=,\setl!=
 settsu:\setsu
@@ -96918,7 +96918,7 @@ sharecroppers:\1er|krop&z
 shared:\1erd
 shareholder:\1er|h[ld&
 shareholders:\1er|h[ld&z
-shareholders':\1er|h[ld&z
+shareholders:\1er|h[ld&z
 shareholding:\1er|h[ld!=
 shareholdings:\1er|h[ld!=z
 sharell:12\rel
@@ -96926,7 +96926,7 @@ shareowner:\1e|r[n&
 shareowners:\1e|r[n&z
 sharer:\1er&
 shares:\1erz
-shares':\1erz
+shares:\1erz
 shareware:\1er|wer
 sharf:\1orf
 sharfman:\1orfm2n
@@ -97454,7 +97454,7 @@ shippingport:\1!p!=|p>rt
 shipps:\1!ps
 shippy:\1!pi
 ships:\1!ps
-ships':\1!ps
+ships:\1!ps
 shipshape:\1!p|1*p
 shipton:\1!pt2n
 shipwash:\1!p|wo1
@@ -97609,7 +97609,7 @@ shoot:\1ut
 shootdown:\1ut|d(n
 shooter:\1ut&
 shooters:\1ut&z
-shootin':\1ut!n
+shootin:\1ut!n
 shooting:\1ut!=
 shootings:\1ut!=z
 shootout:\1ut(t
@@ -97630,7 +97630,7 @@ shoppe:\1op
 shopped:\1opt
 shopper:\1op&
 shoppers:\1op&z
-shoppers':\1op&z
+shoppers:\1op&z
 shoppes:\1ops
 shopping:\1op!=
 shops:\1ops
@@ -97689,7 +97689,7 @@ shortly:\1>rtli
 shortness:\1>rtn2s
 shortridge:\1>rtr!8
 shorts:\1>rts
-shorts':\1>rts
+shorts:\1>rts
 shortsighted:\1>rt\s)t!d
 shortsightedness:\1>rt\s)t!dn!s
 shortstop:\1>rt|stop
@@ -97698,7 +97698,7 @@ shortterm:\1>rt|t&m
 shortwave:\1>rt\w*v
 shorty:\1>rti
 shortz:\1>rts
-shortz':\1>rts
+shortz:\1>rts
 shosh:\1[1
 shoshone:1[\1[ni
 shostak:\1ost2k
@@ -97773,7 +97773,7 @@ showplace:\1[|pl*s
 showroom:\1[|rum,\1[|r?m
 showrooms:\1[|rumz
 shows:\1[z
-shows':\1[z
+shows:\1[z
 showscan:\1[|sk%n
 showtime:\1[|t)m
 showy:\1[i
@@ -98051,9 +98051,9 @@ sideris:\s!d&!s
 siderographer:|s)d&\>gr2f&
 siderographers:|s)d&\>gr2f&z
 siders:\s)d&z
-siders':\s)d&z
+siders:\s)d&z
 sides:\s)dz
-sides':\s)dz
+sides:\s)dz
 sideshow:\s)d|1[
 sideshows:\s)d|1[z
 sidestep:\s)d|step
@@ -98417,7 +98417,7 @@ simmert:\s!m&t
 simmon:\s!m2n
 simmonds:\s!m2ndz
 simmons:\s!m2nz
-simmons':\s!m2nz
+simmons:\s!m2nz
 simms:\s!mz
 simo:\sim[
 simoes:\s)m[z
@@ -98461,9 +98461,9 @@ simplot:\s!mplot
 simply:\s!mpli
 simpson:\s!mps2n
 simpsons:\s!mps2nz
-simpsons':\s!mps2nz
+simpsons:\s!mps2nz
 sims:\s!mz
-sims':\s!mz
+sims:\s!mz
 simsbury:\s!mz|beri
 simson:\s!ms2n
 simulac:\s!mj2|l%k
@@ -98517,7 +98517,7 @@ singer:\s!=&
 singerman:\s!n|8&m2n
 singers:\s!=&z
 singh:\s!=
-singin':\s!=!n
+singin:\s!=!n
 singing:\s!=!=
 singlaub:\s!=|l(b
 single:\s!=g2l
@@ -98690,7 +98690,7 @@ sitter:\s!t&
 sitterly:\s!t&li
 sitters:\s!t&z
 sittig:\s!t!g
-sittin':\s!t2n
+sittin:\s!t2n
 sitting:\s!t!=
 sittler:\s!tl&
 sittner:\s!tn&
@@ -98890,7 +98890,7 @@ skinnier:\sk!ni&
 skinniest:\sk!ni2st
 skinny:\sk!ni
 skins:\sk!nz
-skins':\sk!nz
+skins:\sk!nz
 skip:\sk!p
 skipjack:\sk!p|8%k
 skipjacks:\sk!p|8%ks
@@ -99558,7 +99558,7 @@ smokejumpers:\sm[k|82mp&z
 smokeless:\sm[kl2s
 smoker:\sm[k&
 smokers:\sm[k&z
-smokers':\sm[k&z
+smokers:\sm[k&z
 smokes:\sm[ks
 smokescreen:\sm[ks|krin
 smokestack:\sm[k|st%k
@@ -99619,7 +99619,7 @@ smuggle:\sm2g2l
 smuggled:\sm2g2ld
 smuggler:\sm2g2l&,\sm2gl&
 smugglers:\sm2g2l&z,\sm2gl&z
-smugglers':\sm2g2l&z,\sm2gl&z
+smugglers:\sm2g2l&z,\sm2gl&z
 smuggling:\sm2g2l!=,\sm2gl!=
 smugly:\sm2gli
 smugness:\sm2gn2s
@@ -99768,7 +99768,7 @@ snipe:\sn)p
 sniped:\sn)pt
 sniper:\sn)p&
 snipers:\sn)p&z
-snipers':\sn)p&z
+snipers:\sn)p&z
 snipes:\sn)ps
 sniping:\sn)p!=
 snippet:\sn!p2t
@@ -99948,7 +99948,7 @@ socialism:\s[12|l!z2m
 socialist:\s[12l2st,\s[12l!st
 socialistic:|s[12\l!st!k
 socialists:\s[12l2sts,\s[12l!sts
-socialists':\s[12l!sts
+socialists:\s[12l!sts
 socialite:\s[12|l)t
 socialites:\s[12|l)ts
 socialization:|s[12l!\z*12n
@@ -100110,7 +100110,7 @@ soldering:\sod&!=
 soldier:\s[l8&
 soldiering:\s[l8&!=
 soldiers:\s[l8&z
-soldiers':\s[l8&z
+soldiers:\s[l8&z
 soldner:\s[ldn&
 soldo:\s[ld[
 sole:\s[l
@@ -100261,7 +100261,7 @@ somerton:\s2m&t2n
 somerville:\s2m&|v!l
 somes:\s2mz
 somesh:|s[\me1
-somethin':\s2m0!n
+somethin:\s2m0!n
 something:\s2m0!=
 somethings:\s2m|0!=z
 sometime:\s2m|t)m
@@ -100345,7 +100345,7 @@ sonorous:\son&2s
 sonrise:\s2n|r)z
 sons:\s2nz
 sons-in-law:\s2n!n|l>
-sons':\sonz
+sons:\sonz
 sontag:\son|t%g
 sonum:\son2m
 sony:\s[ni
@@ -100530,7 +100530,7 @@ sourby:\s(rbi
 source:\s>rs
 sourcebook:\s>rs|b?k
 sources:\s>rs2z
-sources':\s>rs2z
+sources:\s>rs2z
 sourcing:\s>rs!=
 soured:\s(&d
 souring:\s(&!=
@@ -100600,7 +100600,7 @@ soviet-union:\s[vi|et\junj2n
 sovietologist:|s[vi2\tol28!st
 sovietologists:|s[vi2\tol28!sts
 soviets:\s[vi|ets
-soviets':\s[vi|ets
+soviets:\s[vi|ets
 sovine:\sov)n
 sovran:\sovr2n
 sovrans:\sovr2nz
@@ -100843,7 +100843,7 @@ special:\spe12l
 speciale:\spe$2li
 specialist:\spe12l2st,\spe12l!st
 specialists:\spe12l2sts,\spe12l!sts
-specialists':\spe12l!sts
+specialists:\spe12l!sts
 specialities:\spe12ltiz
 speciality:|spe1i\%l!ti
 specialization:|spe12l2\z*12n
@@ -100856,7 +100856,7 @@ specials:\spe12lz
 specialties:\spe12ltiz
 specialty:\sp*12lti,\spe12lti
 species:\spi1iz
-species':\spi1iz
+species:\spi1iz
 specific:sp2\s!f!k,sp!\s!f!k
 specifically:sp2\s!f!kli
 specification:|spes!f!\k*12n
@@ -100908,7 +100908,7 @@ speculations:|spekj2\l*12nz
 speculative:\spekj2l2t!v
 speculator:\spekj2|l*t&
 speculators:\spekj2|l*t&z
-speculators':\spekj2l&|t*z
+speculators:\spekj2l&|t*z
 sped:\sped
 speece:\spis
 speech:\spi$
@@ -101298,7 +101298,7 @@ sportier:\sp>rti&
 sporting:\sp>rt!=
 sportingly:\sp>rt!=li
 sports:\sp>rts
-sports':\sp>rts
+sports:\sp>rts
 sportsbar:\sp>rts|bor
 sportscaster:\sp>rt|sk%st&
 sportscasters:\sp>rt|sk%st&z
@@ -101892,7 +101892,7 @@ standex:\st%nd2ks
 standfield:\st%nd|fild
 standifer:\st%nd!f&
 standiford:\st%nd!f&d
-standin':\st%nd!n
+standin:\st%nd!n
 standing:\st%nd!=
 standings:\st%nd!=z
 standish:\st%nd!1
@@ -102017,7 +102017,7 @@ stargates:\stor|g*ts
 stargazer:\stor|g*z&
 stargazers:\stor|g*z&z
 starin:\st%r!n
-starin':\ster!n
+starin:\ster!n
 staring:\ster!=
 stark:\stork
 starke:\stork
@@ -102058,7 +102058,7 @@ starring:\stor!=
 starrs:\storz
 starry:\sto|ri
 stars:\storz
-stars':\storz
+stars:\storz
 starship:\stor|1!p
 starsight:\stor|s)t
 starstream:\stor|strim
@@ -102118,7 +102118,7 @@ staten:\st%t2n
 stater:\st*t&
 staters:\st*t&z
 states:\st*ts
-states':\st*ts
+states:\st*ts
 statesborough:\st*tsb2r[
 stateside:\st*t\s)d
 statesman:\st*tsm2n
@@ -102143,7 +102143,7 @@ stationers:\st*12n&z
 stationery:\st*12|neri
 stationing:\st*12n!=
 stations:\st*12nz
-stations':\st*12nz
+stations:\st*12nz
 statism:\st*|t!z2m
 statist:\st*t!st
 statistic:st2\t!st!k
@@ -102152,7 +102152,7 @@ statistically:st2\t!st!k2li,st2\t!st!kli
 statistician:|st%t2\st!12n
 statisticians:|st%t!\st!12nz
 statistics:st2\t!st!ks
-statistics':st2\t!st!ks
+statistics:st2\t!st!ks
 statists:\st*t!sts
 statler:\st%tl&
 statoil:st2\t]l
@@ -102303,13 +102303,13 @@ steeley:\stili
 steelhead:\stil|hed
 steelmaker:\stil|m*k&
 steelmakers:\stil|m*k&z
-steelmakers':\stilm2k&z
+steelmakers:\stilm2k&z
 steelmaking:\stil|m*k!=
 steelman:\stilm2n
 steels:\stilz
 steelworker:\stil|w&k&
 steelworkers:\stil|w&k&z
-steelworkers':\stilw&k&z
+steelworkers:\stilw&k&z
 steelworks:\stil|w&ks
 steely:\stili
 steen:\stin
@@ -102562,7 +102562,7 @@ stephani:\stef2ni
 stephania:st!\f%ni2
 stephanie:\stef2ni
 stephanopoulos:|stef2\nop2l2s
-stephanopoulos':|stef2\nop2l2s
+stephanopoulos:|stef2\nop2l2s
 stephans:\stef2nz
 stephany:\stef2ni
 stephen:\stiv2n
@@ -102584,7 +102584,7 @@ steppenwolf:\step2n|w?lf
 stepper:\step&
 steppers:\step&z
 steppes:\steps
-steppin':\step!n
+steppin:\step!n
 stepping:\step!=
 steppingstone:\step!=|st[n
 steps:\steps
@@ -102672,7 +102672,7 @@ stevedoring:\stiv2|d>r!=
 steven:\stiv2n
 stevena:\stev!n2
 stevens:\stiv2nz
-stevens':\stiv2nz
+stevens:\stiv2nz
 stevenson:\stiv2ns2n
 stever:\stiv&
 steverson:\stev&s2n
@@ -102905,7 +102905,7 @@ stockbroker:\stok|br[k&
 stockbrokerage:\stok|br[k&!8
 stockbrokerages:\stok|br[k&!8!z
 stockbrokers:\stok|br[k&z
-stockbrokers':\stok|br[k&z
+stockbrokers:\stok|br[k&z
 stockbroking:\stok|br[k!=
 stockburger:\stokb&g&
 stockdale:\stok|d*l
@@ -102920,7 +102920,7 @@ stockham:\stokh2m
 stockhausen:\stok|h(z2n
 stockholder:\stok|h[ld&
 stockholders:\stok|h[ld&z
-stockholders':\stok|h[ld&z
+stockholders:\stok|h[ld&z
 stockholding:\stok|h[ld!=
 stockholdings:\stok|h[ld!=z
 stockholm:\stok|h[lm
@@ -102936,7 +102936,7 @@ stockpiles:\stok|p)lz
 stockpiling:\stok|p)l!=
 stockroom:\sto|krum
 stocks:\stoks
-stocks':\stoks
+stocks:\stoks
 stocksdale:\stoks|d*l
 stockslager:\stoksl*g&
 stockstill:\stok|st!l
@@ -103057,7 +103057,7 @@ stoner:\st[n&
 stoneridge:\st[n|r!8
 stonerock:\st[n|rok
 stones:\st[nz
-stones':\st[nz
+stones:\st[nz
 stonesifer:\st[n|s)f&
 stonestreet:\st[n|strit
 stonewall:\st[n|w>l
@@ -103121,7 +103121,7 @@ storekeepers:\st>r|kip&z
 storer:\st>r&
 storeroom:\st>r|rum
 stores:\st>rz
-stores':\st>rz
+stores:\st>rz
 storey:\st>ri
 storfer:\st>rf&
 storie:\st>ri
@@ -103465,9 +103465,9 @@ strikeout:\str)|k(t
 strikeouts:\str)|k(ts
 striker:\str)k&
 strikers:\str)k&z
-strikers':\str)k&z
+strikers:\str)k&z
 strikes:\str)ks
-strikes':\str)ks
+strikes:\str)ks
 striking:\str)k!=
 strikingly:\str)k!=li
 strimple:\str!mp2l
@@ -103659,13 +103659,13 @@ studebaker:\stud2|b*k&
 studeman:\stud2m2n,\studm2n
 student:\stud2nt
 students:\stud2nts
-students':\stud2nts
+students:\stud2nts
 studer:\stud&
 studied:\st2did
 studies:\st2diz
 studio:\studi|[
 studios:\studi|[z
-studios':\studi|[z
+studios:\studi|[z
 studious:\studi2s
 studiously:\studi2sli
 studley:\st2dli
@@ -103879,7 +103879,7 @@ subjecting:s2b\8ekt!=
 subjective:s2b\8ekt!v
 subjectivity:s2b8ek\t!v!ti
 subjects:\s2b8!kts,s2b\8eks,s2b\8ekts
-subjects':\s2b8eks,\s2b8ekts
+subjects:\s2b8eks,\s2b8ekts
 subjugate:\s2b82|g*t
 subjugated:\s2b82|g*t!d
 subkingdom:s2b\k!=d2m
@@ -103936,7 +103936,7 @@ subscribe:s2bs\kr)b
 subscribed:s2bs\kr)bd
 subscriber:s2bs\kr)b&
 subscribers:s2bs\kr)b&z
-subscribers':s2bs\kr)b&z
+subscribers:s2bs\kr)b&z
 subscribes:s2bs\kr)bz
 subscribing:s2bs\kr)b!=
 subscription:s2bs\kr!p12n
@@ -103953,7 +103953,7 @@ subsided:s2b\s)d!d
 subsidence:s2b\s)d2ns
 subsides:s2b\s)dz
 subsidiaries:s2b\s!di|eriz
-subsidiaries':s2b\s!di|eriz
+subsidiaries:s2b\s!di|eriz
 subsidiary:s2b\s!di|eri
 subsidies:\s2bs2diz,\s2bs!diz
 subsiding:s2b\s)d!=
@@ -104515,11 +104515,11 @@ supernova:|sup&\n[v2
 superoxide:|sup&\ok|s)d
 superpower:|sup&\p(&
 superpowers:|sup&\p(&z
-superpowers':\sup&|p(rz
+superpowers:\sup&|p(rz
 superpremium:|sup&\primi2m,|sup&\primj2m
 superregional:|sup&\ri82n2l
 superregionals:|sup&\ri82n2lz
-superregionals':sup&\ri82n2lz
+superregionals:sup&\ri82n2lz
 supers:\sup&z
 supersaver:\sup&|s*v&
 supersecret:\sup&|sikr!t
@@ -104550,7 +104550,7 @@ supervising:\sup&|v)z!=
 supervision:|sup&\v!32n
 supervisor:\sup&|v)z&
 supervisors:|sup&\v)z&z
-supervisors':\sup&|v)z&z
+supervisors:\sup&|v)z&z
 supervisory:|sup&\v)z&i
 supervoting:|sup&\v[t!=
 superwoman:\sup&|w?m2n
@@ -104578,7 +104578,7 @@ supplicant:\s2pl2k2nt
 supplied:s2\pl)d
 supplier:s2\pl)&
 suppliers:s2\pl)&z
-suppliers':s2\pl)&z
+suppliers:s2\pl)&z
 supplies:s2\pl)z
 supply:s2\pl)
 supplying:s2\pl)!=
@@ -104651,7 +104651,7 @@ surge:\s&8
 surged:\s&8d
 surgeon:\s&82n,\s&8!n
 surgeons:\s&82nz
-surgeons':\s&8!nz
+surgeons:\s&8!nz
 surgeries:\s&8&iz
 surgery:\s&8&i
 surges:\s&82z,\s&8!z
@@ -104759,7 +104759,7 @@ suspect:\s2s|pekt,s2\spekt
 suspected:s2\spekt!d
 suspecting:s2\spekt!=
 suspects:\s2s|pekts,s2\spekts
-suspects':\s2s|pekts
+suspects:\s2s|pekts
 suspend:s2\spend
 suspended:s2\spend!d
 suspender:s2\spend&
@@ -104981,7 +104981,7 @@ sweat:\swet
 sweated:\swet!d
 sweater:\swet&
 sweaters:\swet&z
-sweatin':\swet!n
+sweatin:\swet!n
 sweating:\swet!=
 sweatman:\switm2n
 sweatpants:\swet|p%nts
@@ -105216,7 +105216,7 @@ sycophantic:|s!k2\f%nt!k
 syd:\s!d
 sydell:|s)\del
 syders:\s)d&z
-syders':\s)d&z
+syders:\s)d&z
 sydney:\s!dni
 sydnor:\s!dn&
 sydow:\s!d[
@@ -105405,7 +105405,7 @@ systemically:s2\stem!kli
 systemix:\s!st!m!ks,|s!s\tem!ks
 systemone:\s!st2|m[n
 systems:\s!st2mz
-systems':\s!st2mz
+systems:\s!st2mz
 systemwide:\s!st2m|w)d
 systolic:s!\st>l!k
 systran:\s)|str%n,\s!s|tr%n
@@ -105678,7 +105678,7 @@ taketomi:|tok!\t[|mi
 takeuchi:|tok*\u|$i
 taki:\t%|ki
 takihyo:t2\kij[
-takin':\t*k!n
+takin:\t*k!n
 taking:\t*k!=
 takings:\t*k!=z
 takla-makan:\t%kl2\m*k2n
@@ -105725,7 +105725,7 @@ talkers:\t>k&z
 talkie:\t>ki
 talkies:\t>kiz
 talkin:\tok2n
-talkin':\t>k!n
+talkin:\t>k!n
 talking:\t>k!=
 talkington:\t>k!=t2n
 talks:\t>ks
@@ -106190,7 +106190,7 @@ taxed:\t%kst
 taxer:\t%ks&
 taxers:\t%ks&z
 taxes:\t%ks2z,\t%ks!z
-taxes':\t%ks!z
+taxes:\t%ks!z
 taxi:\t%ksi
 taxicab:\t%ksi|k%b
 taxicabs:\t%ksi|k%bz
@@ -106207,7 +106207,7 @@ taxonomies:|t%k\s>n2|miz
 taxonomy:|t%k\s>n2|mi
 taxpayer:\t%k|sp*&
 taxpayers:\t%k|sp*&z
-taxpayers':\t%k|sp*&z
+taxpayers:\t%k|sp*&z
 taxpaying:\t%k|sp*!=
 tay:\t*
 tayler:\t*l&
@@ -106228,7 +106228,7 @@ teach:\ti$
 teachable:\ti$2b2l
 teacher:\ti$&
 teachers:\ti$&z
-teachers':\ti$&z
+teachers:\ti$&z
 teaches:\ti$2z,\ti$!z
 teachey:\ti$i
 teaching:\ti$!=
@@ -106253,10 +106253,10 @@ teaming:\tim!=
 teammate:\ti|m*t
 teammates:\tim|m*ts
 teams:\timz
-teams':\timz
+teams:\timz
 teamster:\timst&
 teamsters:\timst&z
-teamsters':\timst&z
+teamsters:\timst&z
 teamwork:\tim|w&k
 teaneck:\ti|nek
 teaney:\tini
@@ -106326,7 +106326,7 @@ technologic:|tekn2\lo8!k
 technological:|tekn2\lo8!k2l
 technologically:|tekn2\lo8!k2li,|tekn2\lo8!kli
 technologies:tek\nol28iz
-technologies':|tek\nol28iz
+technologies:|tek\nol28iz
 technologist:|tek\nol28!st
 technologists:|tek\nol28!sts
 technology:tek\nol28i
@@ -106456,7 +106456,7 @@ telecheck:\tel2|$ek
 telecom:\tel2kom
 telecommunication:|tel2k2m|jun!\k*12n
 telecommunications:|tel2k2m|jun2\k*12nz
-telecommunications':|tel2k2m|jun2\k*12nz
+telecommunications:|tel2k2m|jun2\k*12nz
 telecommute:\tel2k2m|jut
 telecommuter:\tel2k2m|jut&
 telecommuters:\tel2k2m|jut&z
@@ -106528,7 +106528,7 @@ telescopes:\tel2|sk[ps
 telescopic:|tel2\sk>p!k
 telescript:\tel2s|kr!pt
 telesis:\tel2s!s
-telesis':\tel2|s!s
+telesis:\tel2|s!s
 telesphere:\tel2s|f!r
 telestrator:\tel2|str*t&
 telesystem:\tel2|s!st2m
@@ -106567,7 +106567,7 @@ tellers:\tel&z
 telles:\telz
 tellez:t*\lez
 tellier:\teli&
-tellin':\tel!n
+tellin:\tel!n
 telling:\tel!=
 tellingly:\tel!=li
 tellis:\tel!s
@@ -106661,7 +106661,7 @@ tenaglia:te\nogli2
 tenancy:\ten2nsi
 tenant:\ten2nt
 tenants:\ten2nts
-tenants':\ten2nts
+tenants:\ten2nts
 tenbrink:\ten|br!=k
 tench:\ten$
 tencza:\ten$2
@@ -106867,7 +106867,7 @@ terrorism:\ter&|!z2m
 terrorist:\ter&!st
 terroristic:|ter&\!st!k
 terrorists:\ter&2sts,\ter&!sts
-terrorists':\ter&!sts
+terrorists:\ter&!sts
 terrorize:\ter&|)z
 terrorized:\ter&|)zd
 terrorizes:\ter&|)z!z
@@ -106942,7 +106942,7 @@ testor:\test&
 testosterone:|tes\tost&|[n
 testrake:\tes|tr*k
 tests:\tests
-tests':\tests
+tests:\tests
 testuro:|tes\t?r[
 testy:\testi
 tet:\tet
@@ -106998,7 +106998,7 @@ texan:\teks2n
 texans:\teks2nz
 texarkana:|teksor\k%n2
 texas:\teks2s
-texas':\teks2s,\teks2s!z
+texas:\teks2s,\teks2s!z
 texasgulf:\teks2s|g2lf
 texeira:t*k\ser2
 texfi:\teksfi
@@ -107205,7 +107205,7 @@ therapeutics:|0er2p\jut!ks
 therapies:\0er2piz
 therapist:\0er2p2st,\0er2p!st
 therapists:\0er2p!sts
-therapists':\0er2p!sts
+therapists:\0er2p!sts
 therapy:\0er2pi
 therat:\6e|r%t
 there:\6er
@@ -107319,7 +107319,7 @@ thiessen:\0is2n
 thieve:\0iv
 thievery:\0iv&i
 thieves:\0ivz
-thieves':\0ivz
+thieves:\0ivz
 thieving:\0iv!=
 thigh:\0)
 thighs:\0)z
@@ -107332,13 +107332,13 @@ thine:\6)n
 thing:\0!=
 thingamabob:\0!=2m2|bob
 things:\0!=z
-things':\0!=z
+things:\0!=z
 thingy:\0!=i
 think:\0!=k
 thinker:\0!=k&
 thinkers:\0!=k&z
 thinkin:\0!=k!n
-thinkin':\0!=k!n
+thinkin:\0!=k!n
 thinking:\0!=k!=
 thinkpad:\0!=k|p%d
 thinks:\0!=ks
@@ -107371,7 +107371,7 @@ thirtysomething:\0&ti|s2m0!=
 thiry:\0!ri
 thirza:\0&z2
 this:\6!s,6!s
-this':\6!s
+this:\6!s
 this'll:\6!s2l,6!s2l
 thissen:\0!s2n
 thistle:\0!s2l
@@ -107393,7 +107393,7 @@ thoma:\t[m2,\0[m2
 thoman:\0[m2n
 thomann:\6[m2n
 thomas:\tom2s
-thomas':\tom2s,\tom2s!z
+thomas:\tom2s,\tom2s!z
 thomasas:\tom2s2s
 thomases:\tom2s!z
 thomasina:tomo\sin2,0[mo\sin2
@@ -107546,7 +107546,7 @@ thrice:\0r)s
 thrift:\0r!ft
 thriftier:\0r!fti&
 thrifts:\0r!fs,\0r!fts
-thrifts':\0r!fs,\0r!fts
+thrifts:\0r!fs,\0r!fts
 thrifty:\0r!fti
 thrill:\0r!l
 thrilled:\0r!ld
@@ -107803,7 +107803,7 @@ tigar:\t)|gor
 tiger:\t)g&
 tigera:t!\8er2
 tigers:\t)g&z
-tigers':\t)g&z
+tigers:\t)g&z
 tigert:\t)g&t
 tigges:\t!gz
 tiggs:\t!gz
@@ -107899,7 +107899,7 @@ timeplex:\t)m|pleks
 timer:\t)m&
 timers:\t)m&z
 times:\t)mz
-times':\t)mz
+times:\t)mz
 timeshare:\t)m|1er
 timetable:\t)m|t*b2l
 timetables:\t)m|t*b2lz
@@ -108551,7 +108551,7 @@ toribio:t>\ribi[
 torie:\t>|ri
 toriente:|t>ri\ent*
 tories:\t>|riz
-tories':\t>|riz
+tories:\t>|riz
 torino:t>\rin[
 torkelson:\t>rk!ls2n
 torley:\t>rli
@@ -108792,7 +108792,7 @@ tower:\t(&
 towered:\t(&d
 towering:\t(&!=,\t(r!=
 towers:\t(&z
-towers':\t(&z
+towers:\t(&z
 towery:t[\&i
 towey:\t[i
 towhee:\t[|hi
@@ -108851,7 +108851,7 @@ toyoo:t]\u
 toyota:t[\j[t2
 toyotas:|t]\[t2z
 toys:\t]z
-toys':\t]z
+toys:\t]z
 toystore:\t]|st>r
 toystores:\t]|st>rz
 tozer:\t[z&
@@ -108913,7 +108913,7 @@ tradeoff:\tr*|d>f
 tradeoffs:\tr*|d>fs
 trader:\tr*d&
 traders:\tr*d&z
-traders':\tr*d&z
+traders:\tr*d&z
 trades:\tr*dz
 tradesmen:\tr*dzm2n
 trading:\tr*d!=
@@ -108956,9 +108956,9 @@ trailers:\tr*l&z
 trailhead:\tr*l|hed
 trailing:\tr*l!=
 trails:\tr*lz
-trails':\tr*lz
+trails:\tr*lz
 trailways:\tr*l|w*z
-trailways':\tr*l|w*z
+trailways:\tr*l|w*z
 train:\tr*n
 traina:\tr*n2
 trainable:\tr*n2b2l
@@ -109242,7 +109242,7 @@ traveldays:\tr%v2l|d*z
 traveled:\tr%v2ld
 traveler:\tr%v2l&,\tr%vl&
 travelers:\tr%v2l&z,\tr%vl&z
-travelers':\tr%v2l&z
+travelers:\tr%v2l&z
 travelgate:\tr%v2l|g*t
 traveling:\tr%v2l!=,\tr%vl!=
 travelled:\tr%v2ld
@@ -109714,10 +109714,10 @@ troop:\trup
 trooped:\trupt
 trooper:\trup&
 troopers:\trup&z
-troopers':\trup&z
+troopers:\trup&z
 trooping:\trup!=
 troops:\trups
-troops':\trups
+troops:\trups
 troost:\trust
 tropea:\tr[pi2
 tropeano:|tr[\pin[
@@ -109810,12 +109810,12 @@ trucked:\tr2kt
 truckee:\tr2ki
 trucker:\tr2k&
 truckers:\tr2k&z
-truckers':\tr2k&z
+truckers:\tr2k&z
 trucking:\tr2k!=
 truckload:\tr2|kl[d
 truckloads:\tr2|kl[dz
 trucks:\tr2ks
-trucks':\tr2ks
+trucks:\tr2ks
 truculent:\tr2kj2l2nt
 truda:\trud2
 trude:\trud
@@ -109905,12 +109905,12 @@ trustcorp:\tr2stk>rp
 trusted:\tr2st!d
 trustee:|tr2s\ti
 trustees:|tr2s\tiz
-trustees':|tr2s\tiz
+trustees:|tr2s\tiz
 trusteeship:|tr2s\ti|1!p
 trusthouse:\tr2st|h(s
 trusting:\tr2st!=
 trusts:\tr2sts
-trusts':\tr2sts
+trusts:\tr2sts
 trustworthiness:\tr2st|w&6in2s
 trustworthy:\tr2st|w&6i
 trusty:\tr2sti
@@ -109932,7 +109932,7 @@ trybus:\tr!b!s
 trygg:\tr!g
 trygstad:\tr!gst2d
 trygve:\tr!gvi
-tryin':\tr)!n
+tryin:\tr)!n
 trying:\tr)!=,\tr)=
 tryon:\tr)2n
 tryout:\tr)|(t
@@ -109964,7 +109964,7 @@ tsiang:\tsj%=
 tsingtao:\s!=|t(,\ts!=|d(
 tso:\s[,\ts[
 tsongas:\s>=g2s,\ts>=g2s
-tsongas':\s>=g2s,\ts>=g2s
+tsongas:\s>=g2s,\ts>=g2s
 tsu:\tsu
 tsuda:\sud2,\tsud2
 tsui:\sui,\tsui
@@ -110093,7 +110093,7 @@ tumolo:tu\m[l[
 tumor:\tum&
 tumors:\tum&z
 tums:\t2mz
-tums':\t2mz
+tums:\t2mz
 tumult:\tum2lt
 tumultuous:|tu\m2l|$u2s
 tumulty:\tum2lti
@@ -110400,7 +110400,7 @@ twinkles:\tw!=k2lz
 twinkling:\tw!=k2l!=,\tw!=kl!=
 twinkly:\tw!=k2|li
 twins:\tw!nz
-twins':\tw!nz
+twins:\tw!nz
 twinsburg:\tw!nzb&g
 twirl:\tw&l
 twirled:\tw&ld
@@ -111147,7 +111147,7 @@ underworld:\2nd&|w&ld
 underwrite:\2nd&|r)t
 underwriter:\2nd&|r)t&
 underwriters:\2nd&|r)t&z
-underwriters':\2nd&|r)t&z
+underwriters:\2nd&|r)t&z
 underwrites:\2nd&|r)ts
 underwriting:\2nd&\r)t!=
 underwritings:\2nd&|r)t!=z
@@ -111419,7 +111419,7 @@ unionize:\junj2|n)z
 unionized:\junj2|n)zd
 unionizing:\junj2|n)z!=
 unions:\junj2nz
-unions':\junj2nz
+unions:\junj2nz
 unique:ju\nik
 uniquely:ju\nikli
 uniqueness:ju\nikn2s
@@ -111431,7 +111431,7 @@ unisons:\jun2s2nz,\jun!s2nz
 unisource:\jun!|s>rs
 unissued:2\n!|1ud
 unisys:\jun!|s!s
-unisys':\jun!|s!s
+unisys:\jun!|s!s
 unit:\jun2t,\jun!t
 unita:|ju\nit2
 unitaf:|jun!\t%f
@@ -111450,7 +111450,7 @@ uniting:ju\n)t!=
 unitrin:\jun!|tr!n
 unitrode:\jun!|tr[d
 units:\jun2ts,\jun!ts
-units':\jun!ts
+units:\jun!ts
 unity:\jun2ti,\jun!ti
 univa:\jun!v2
 univar:\jun!vor
@@ -111461,7 +111461,7 @@ universally:|jun2\v&s2li
 universe:\jun2|v&s
 universes:\jun2|v&s!z
 universities:|jun2\v&s2tiz
-universities':|jun!\v&s!tiz
+universities:|jun!\v&s!tiz
 university:|jun2\v&s2ti
 univisa:|jun!\vis2
 univision:|jun!\v!32n
@@ -112103,7 +112103,7 @@ user:\juz&
 username:\juz&|n*m
 usernames:\juz&|n*mz
 users:\juz&z
-users':\juz&z
+users:\juz&z
 usery:\juz&i
 uses:\jus2z,\jus!z,\juz2z,\juz!z
 usher:\21&
@@ -112147,7 +112147,7 @@ utica:\jut2k2,\jutik2
 utilicorp:ju\t!l2k>r,ju\t!l2k>rp
 utilitarian:ju|t!l2\teri2n
 utilities:ju\t!l2tiz
-utilities':ju\t!l2tiz
+utilities:ju\t!l2tiz
 utility:ju\t!l2ti
 utilization:|jut2l2\z*12n
 utilize:\jut2|l)z
@@ -112208,7 +112208,7 @@ vacation:v*\k*12n
 vacationed:v*\k*12nd
 vacationer:v*\k*12n&
 vacationers:v*\k*12n&z
-vacationers':v*\k*12n&z
+vacationers:v*\k*12n&z
 vacationing:v*\k*12n!=,v*\k*1n!=
 vacations:v*\k*12nz
 vacaville:\v%k2|v!l
@@ -112411,7 +112411,7 @@ valued:\v%ljud
 valueless:\v%ljul2s
 valuepoint:\v%lju|p]nt
 values:\v%ljuz
-values':\v%ljuz
+values:\v%ljuz
 valuevision:\v%lju|v!32n
 valuing:\v%lju!=
 valujet:\v%lju|8et
@@ -113010,7 +113010,7 @@ vehement:\vi2m2nt,v2\him2nt
 vehemently:\vi2m2ntli,v2\him2ntli
 vehicle:\vih!k2l,\vi!k2l
 vehicles:\vih!k2lz,\vi!k2lz
-vehicles':\veh!k2lz
+vehicles:\veh!k2lz
 vehicular:vi\h!kj2l&
 veiga:\v*g2
 veigel:\v)g2l
@@ -113095,7 +113095,7 @@ vendo:\vend[
 vendome:\von|d[m,ven\d[m
 vendor:\vend&
 vendors:\vend&z
-vendors':\vend&z
+vendors:\vend&z
 veneer:v2\n!r
 veneers:v2\n!rz
 venegas:\ven!g2z
@@ -113166,7 +113166,7 @@ venture:\ven$&
 ventured:\ven$&d
 venturella:vent?\rel2
 ventures:\ven$&z
-ventures':\ven$&z
+ventures:\ven$&z
 venturesome:\ven$&s2m
 venturi:ven\t?ri
 venturian:ven\t?ri2n
@@ -113405,7 +113405,7 @@ veta:\vet2
 vetco:\vetk[
 veteran:\vet&2n,\vetr2n
 veterans:\vet&2nz,\vetr2nz
-veterans':\vet&2nz,\vetr2nz
+veterans:\vet&2nz,\vetr2nz
 vetere:\vet&
 veterinarian:|vet&2\neri2n,|vetr2\neri2n
 veterinarians:|vet&2\neri2nz,|vetr2\neri2nz
@@ -113528,7 +113528,7 @@ victimized:\v!kt2m)zd
 victimizing:\v!kt2m)z!=
 victimless:\v!kt2ml2s
 victims:\v!kt2mz,\v!kt!mz
-victims':\v!kt!mz
+victims:\v!kt!mz
 victoire:v!kt\wor
 victor:\v!kt&
 victoria:v!k\t>ri2
@@ -113610,7 +113610,7 @@ view:\vju
 viewed:\vjud
 viewer:\vju&
 viewers:\vju&z
-viewers':\vju&z
+viewers:\vju&z
 viewership:\vju&|1!p
 viewfinder:\vju|f)nd&
 viewing:\vju!=
@@ -113908,7 +113908,7 @@ visited:\v!z!t!d
 visiting:\v!z!t!=
 visitor:\v!z!t&
 visitors:\v!z!t&z
-visitors':\v!z!t&z
+visitors:\v!z!t&z
 visits:\v!z!ts
 visnic:\v!sn!$
 visor:\v)z&
@@ -114258,7 +114258,7 @@ vote:\v[t
 voted:\v[t!d
 voter:\v[t&
 voters:\v[t&z
-voters':\v[t&z
+voters:\v[t&z
 votes:\v[ts
 voth:\vo0
 voting:\v[t!=
@@ -114517,7 +114517,7 @@ waited:\w*t!d
 waiter:\w*t&
 waiters:\w*t&z
 waites:\w*ts
-waitin':\w*t!n
+waitin:\w*t!n
 waiting:\w*t!=
 waitkus:\w*tk2s
 waitman:\w)tm2n
@@ -114577,7 +114577,7 @@ waldegard:\w>ld2|gord
 waldemar:\vold2mor
 walden:\w>ld2n
 waldenbooks:\w>ld2n|b?ks
-waldenbooks':\w>ld2n|b?ks
+waldenbooks:\w>ld2n|b?ks
 walder:\w>ld&
 waldheim:\v>ld|h)m,\w>ld|h)m
 waldholtz:\w>ld|h[lts
@@ -114613,7 +114613,7 @@ walek:\volek
 walen:\w*l2n
 walenta:v2\lent2,w2\lent2
 wales:\w*lz
-wales':\w*lz
+wales:\w*lz
 walesa:v2\les2,w2\les2
 waleson:\w*ls2n
 walford:\w>lf&d
@@ -114636,7 +114636,7 @@ walkenhorst:\w>k2n|h>rst
 walker:\w>k&
 walkers:\w>k&z
 walkie:\w>ki
-walkin':\w>k!n
+walkin:\w>k!n
 walking:\w>k!=
 walkington:\w>k!=t2n
 walkinshaw:\w>k2n1>
@@ -114734,7 +114734,7 @@ walt:\w>lt
 walter:\w>lt&
 waltermire:\w>lt&m)r
 walters:\w>lt&z
-walters':\w>lt&z
+walters:\w>lt&z
 walth:\w>l0
 walthall:\w>l02l
 waltham:\w>l02m
@@ -114859,7 +114859,7 @@ warded:\w>rd!d
 wardell:\w>rdel
 warden:\w>rd2n
 wardens:\w>rd2nz
-wardens':\w>rd2nz
+wardens:\w>rd2nz
 warder:\w>rd&
 warders:\w>rd&z
 warding:\w>rd!=
@@ -114975,7 +114975,7 @@ warrington:\w>r!=t2n
 warrior:\w>ri&,\w>rj&
 warriors:\w>ri&z,\w>rj&z
 wars:\w>rz
-wars':\w>rz
+wars:\w>rz
 warsaw:\w>r|s>
 warsaws:\w>r|s>z
 warshauer:\w>r1(&
@@ -115088,7 +115088,7 @@ watcher:\wo$&
 watchers:\wo$&z
 watches:\wo$2z,\wo$!z
 watchful:\wo$f2l
-watchin':\wo$!n
+watchin:\wo$!n
 watching:\wo$!=
 watchman:\wo$m2n
 watchmen:\wo$men
@@ -115151,7 +115151,7 @@ watford:\w>tf&d
 wathen:\w>02n
 watkin:\w>tk!n
 watkins:\wotk!nz
-watkins':\wotk!nz
+watkins:\wotk!nz
 watkinson:\w>tk!ns2n
 watland:\wotl2nd
 watley:\wotli
@@ -115262,7 +115262,7 @@ weant:\wint
 weapon:\wep2n
 weaponry:\wep2nri
 weapons:\wep2nz
-weapons':\wep2nz
+weapons:\wep2nz
 wear:\wer
 wearable:\wer2b2l
 wearer:\wer&
@@ -115395,7 +115395,7 @@ weeklies:\wikliz
 weeklong:\wi|kl>=
 weekly:\wikli
 weeks:\wiks
-weeks':\wiks
+weeks:\wiks
 weems:\wimz
 weeny:\wini
 weep:\wip
@@ -115538,7 +115538,7 @@ weinstein:\w)n|st)n,\w)n|stin
 weinstock:\w)n|stok
 weintraub:\w)n|tr(b
 weintz:\w)nts
-weintz':\w)nts
+weintz:\w)nts
 weinzierl:\w)nz!rl
 weipert:\w)p&t
 weir:\wir
@@ -115654,7 +115654,7 @@ wellendorf:\wel!nd>rf
 wellens:\wel2nz
 weller:\wel&
 welles:\welz
-welles':\welz
+welles:\welz
 wellesley:\welzli
 wellfleet:\wel|flit
 wellhead:\wel|hed
@@ -115955,7 +115955,7 @@ wetherly:\we6&li
 wethington:\we0!=t2n
 wetland:\wet|l%nd
 wetlands:\wet|l%ndz
-wetlands':\wet|l%ndz
+wetlands:\wet|l%ndz
 wetmore:\wetm>r
 wetness:\wetn2s
 wetsel:\wets2l
@@ -116322,7 +116322,7 @@ wholes:\h[lz
 wholesale:\h[l|s*l
 wholesaler:\h[l|s*l&
 wholesalers:\h[l|s*l&z
-wholesalers':\h[l|s*l&z
+wholesalers:\h[l|s*l&z
 wholesales:\h[l|s*lz
 wholesaling:\h[l|s*l!=
 wholesome:\h[ls2m
@@ -116744,7 +116744,7 @@ willhoite:\w!l|h]t
 willi:\w!li
 william:\w!lj2m
 williams:\w!lj2mz
-williams':\w!lj2mz
+williams:\w!lj2mz
 williamsburg:\w!lj2mzb&g
 williamsburgh:\w!lj2mzb&g
 williamsen:\w!lj2ms2n
@@ -116959,7 +116959,7 @@ wingman:\w!=m2n
 wingo:\wi=g[
 wingrove:\w!n|gr[v
 wings:\w!=z
-wings':\w!=z
+wings:\w!=z
 wingspan:\w!=|sp%n
 winiarski:v!ni\orski
 winick:\w!n!k
@@ -116992,7 +116992,7 @@ winne:\w!n
 winnebago:|w!n2\b*g[
 winner:\w!n&
 winners:\w!n&z
-winners':\w!n&z
+winners:\w!n&z
 winnetka:w!\netk2
 winnett:\w!n!t
 winney:\w!ni
@@ -117219,10 +117219,10 @@ witless:\w!tl2s
 witman:\w!tm2n
 witmer:\w!tm&
 witness:\w!tn2s
-witness':\w!tn2s
+witness:\w!tn2s
 witnessed:\w!tn2st
 witnesses:\w!tn2s2z,\w!tn2s!z
-witnesses':\w!tn2s!z
+witnesses:\w!tn2s!z
 witnessing:\w!tn2s!=
 witowski:v!\t>fski
 wits:\w!ts
@@ -117265,7 +117265,7 @@ witzel:\w!tz2l
 witzig:\w!tz!g
 witzke:\w!tski
 wives:\w)vz
-wives':\w)vz
+wives:\w)vz
 wix:\w!ks
 wixom:\w!ks2m
 wixon:\w!ks2n
@@ -117442,7 +117442,7 @@ wombats:\wom|b%ts
 womble:\womb2l
 wombles:\womb2lz
 women:\w!m2n
-womens':\w!m2nz
+womens:\w!m2nz
 womer:\w[m&
 wometco:w[\metk[
 wommack:\wom2k
@@ -117618,7 +117618,7 @@ wordless:\w&dl2s
 wordperfect:\w&d\p&fekt
 wordpress:\w&dpr!s
 words:\w&dz
-words':\w&dz
+words:\w&dz
 wordsmith:\w&ds|m!0
 wordstar:\w&d|stor
 wordsworth:\w&dzw&0
@@ -117638,7 +117638,7 @@ workdays:\w&k|d*z
 worked:\w&kt
 worker:\w&k&
 workers:\w&k&z
-workers':\w&k&z
+workers:\w&k&z
 workfare:\w&k|fer
 workflow:\w&k|fl[
 workflows:\w&k|fl[z
@@ -117647,7 +117647,7 @@ workgroup:\w&k|grup
 workgroups:\w&k|grups
 workhorse:\w&k|h>rs
 workhorses:\w&k|h>rs!z
-workin':\w&k2n
+workin:\w&k2n
 working:\w&k!=
 workinger:\w&k!=&
 workings:\w&k!=z
@@ -117663,7 +117663,7 @@ workplace:\w&k|pl*s
 workplaces:\w&k|pl*s!z
 workroom:\w&|krum
 works:\w&ks
-works':\w&ks
+works:\w&ks
 worksheet:\w&k|1it
 worksheets:\w&k|1its
 workshop:\w&k|1op
@@ -117870,7 +117870,7 @@ writeoff:\r)t>f
 writeoffs:\r)t>fs
 writer:\r)t&
 writers:\r)t&z
-writers':\r)t&z
+writers:\r)t&z
 writes:\r)ts
 writhe:\r!0
 writhed:\r!0d
@@ -118192,7 +118192,7 @@ yanke:\j%=k
 yanked:\j%=kt
 yankee:\j%=ki
 yankees:\j%=kiz
-yankees':\j%=kiz
+yankees:\j%=kiz
 yankelovich:|j%=\kel2v!$
 yankey:\j%=ki
 yanking:\j%=k!=
@@ -118331,7 +118331,7 @@ yearns:\j&nz
 yearout:\j!r(t
 years:\j!rz,j&z
 years-old:|j!r\z>ld
-years':\j!rz
+years:\j!rz
 yearsley:\j&sli
 yearwood:\j!rw?d
 yeary:\j!ri
@@ -118369,7 +118369,7 @@ yelle:\jel
 yelled:\jeld
 yellen:\jel2n
 yellin:\jel!n
-yellin':\jel!n
+yellin:\jel!n
 yelling:\jel!=
 yellow:\jel[
 yellower:\jel[&
@@ -118615,13 +118615,13 @@ youngren:\j2ngren
 youngs:\j2=z
 youngster:\j2=st&
 youngsters:\j2=st&z
-youngsters':\j2=st&z
+youngsters:\j2=st&z
 youngstown:\j2=z|t(n
 youngstrom:\j2=str2m
 younis:\j2n!s
 younker:\j2=k&
 younkers:\j2=k&z
-younkers':\j2=k&z
+younkers:\j2=k&z
 younkin:\j2=k!n
 younkins:\j2=k!nz
 yount:\j(nt

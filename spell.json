@@ -81,5 +81,5 @@
    "D": "{#tab}",
    "Z": "{#escape}",
    "#*": "{#delete}",
-"DZ": "K*:a W:b PH:c WHR:d W*:e SR:f WR:g KR:h SK*:i PW:j K:k KWR:l T:m P:n S*:o PR:p TPR:q R:r H:s S:t WH*:u HR:v TP:w TW:x PWR:y SP:z KP:' SU:F1 TU:F2 PU:F3 HU:F4 KU:F5 WU:F6 RU:F7 TPU:F8 KWU:F9 HRU:F10 TKU:F11 PWU:F12 *R:-| RR:\\n P-R:. A:space S-R: W-R:  K-R:- H-R:? KB:home WB:end R-B:: H-B:! U:return S-B:\\t R-G:; T-G:\\ P-G:' K-G:_ W-G:* H-G:$ S-G: R-S:= K-S:< W-S:> H-S: RRB:@ T-RB:/ P-RB:\\\\ H-RB: K-RB:| W-RB:` S-RB:~ TBG:\\\\ PBG:\\\\ KBG:( WBG:) HBG:[ RBG:] SBG:< SS: Z:escape *:delete "
+"DZ": "K*:a W:b PH:c WHR:d W*:e SR:f WR:g KR:h SK*:i PW:j K:k KWR:l T:m P:n S*:o PR:p TPR:q R:r H:s S:t WH*:u HR:v TP:w TW:x PWR:y SP:z KP:' SU:F1 TU:F2 PU:F3 HU:F4 KU:F5 WU:F6 RU:F7 TPU:F8 KWU:F9 HRU:F10 TKU:F11 PWU:F12 *R:-| RR:\\n P-R:. A:space S-R: W-R:  K-R:- H-R:? KB:home WB:end R-B:: H-B:! U:return S-B:\\t R-G:; T-G:\\ P-G:' K-G:_ W-G:* H-G:$ S-G: R-S:= K-S:< W-S:> H-S: RRB:@ T-RB:/ P-RB:\\\\ H-RB: K-RB:| W-RB:` S-RB:~ TBG:\\\\ PBG:\\\\ KBG:( WBG:) HBG:[ RBG:] SBG:< SS: D:tab Z:escape *:delete "
 }

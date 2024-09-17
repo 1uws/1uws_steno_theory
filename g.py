@@ -8,6 +8,8 @@ for file_name in ['en_US.json']:
    with open(file_name,'r') as file:
       for line in file:
          word,phones = line[:-1].split(':')
+         if word in words and len(phones) < len(words[word]):
+            continue
          words[word] = [i.replace('\\','').replace('|','') for i in phones.split(',')]
          ori_words[word] = phones.split(',')
 unixes = {}
