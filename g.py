@@ -212,10 +212,10 @@ for phone in phones:
 for phone_json in phone_stenos:
    words = phone_stenos[phone_json]
    if len(words) == 1:
-      jsontxt += '"' + phone_json + '": "{^' + words[0] +' ^}",\n'
+      jsontxt += '"' + phone_json + '": "{^' + words[0] +'^}",\n'
    else:
       words = sorted(words, key=lambda x: unixes[x])
-      jsontxt += '"' + phone_json + '": "{^' + words[0] +' ^}",\n'
+      jsontxt += '"' + phone_json + '": "{^' + words[0] +'^}",\n'
       accum_phone_json = []
       for i in range(1, len(words)):
          accum_phone_json.append({'pre': words[0], 'word': words[i], 'j': phone_json})
@@ -250,7 +250,7 @@ for phone_json in phone_stenos:
                   is_first_j = False
                   break
             if is_first_j:
-               jsontxt += '"' + accum_phone_json[i]['j'] + '": "{^' + accum_phone_json[i]['word'] +' ^}",\n'
+               jsontxt += '"' + accum_phone_json[i]['j'] + '": "{^' + accum_phone_json[i]['word'] +'^}",\n'
                for j in range(i+1, len(accum_phone_json)):
                   accum_phone_json[j]['pre'] = accum_phone_json[i]['word']
             else:
@@ -267,7 +267,7 @@ for help_pair in help_pairs:
       helps[help_pair[1]].append(help_pair[0])
 helptxt = ''
 for h in helps:
-   helptxt += '"SKW/' + '/'.join([spell_units[c.lower()] for c in h]) + '/SKW": "{^' + '='.join(helps[h]) + ' ^}",\n'
+   helptxt += '"SKW/' + '/'.join([spell_units[c.lower()] for c in h]) + '/SKW": "{^' + '='.join(helps[h]) + '^}",\n'
 with open('steno.json', 'w') as file:
    file.write('{\n'+jsontxt[:-2]+'\n}')
 with open('help.json', 'w') as file:
