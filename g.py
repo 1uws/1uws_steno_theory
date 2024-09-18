@@ -200,14 +200,15 @@ def get_json_segment(segment, words):
    for i in range(len(strokes)-1, -1, -1):
       if strokes[i][0] in consonents:
                   print('well ', strokes, segment, words)
-   strokes[0] = sort_stroke([strokes[0], '*'])
-   return '/'.join(strokes)
+   return strokes
 
 test_counter=0
 phone_stenos = {}
 for phone in phones:
    segments = [i for i in re.split('[\\\\|]', phone) if i != '']
-   phone_json = '/'.join([get_json_segment(segment, phones[phone]) for segment in segments])
+   phone_json = [get_json_segment(segment, phones[phone]) for segment in segments]
+   phone_json[0][0] = sort_stroke([phone_json[0][0], '*'])
+   phone_json = '/'.join(['/'.join(x) for x in phone_json])
    if phone_json not in phone_stenos:
       phone_stenos[phone_json] = phones[phone]
    else:
