@@ -80,9 +80,11 @@ def sort_stroke(strokes):
          if key == '-':
             is_first = False
             continue
-         if is_first:
+         if is_first and key in start_order:
             first_keys.append(key)
          else:
+            if is_first:
+               is_first = False
             second_keys.append(key)
    result = ''
    if len(first_keys) != 0:
@@ -198,6 +200,7 @@ def get_json_segment(segment, words):
    for i in range(len(strokes)-1, -1, -1):
       if strokes[i][0] in consonents:
                   print('well ', strokes, segment, words)
+   strokes[0] = sort_stroke([strokes[0], '*'])
    return '/'.join(strokes)
 
 test_counter=0
@@ -212,10 +215,10 @@ for phone in phones:
 for phone_json in phone_stenos:
    words = phone_stenos[phone_json]
    if len(words) == 1:
-      jsontxt += '"' + phone_json + '": "{^' + words[0] +'^}",\n'
+      jsontxt += '"' + phone_json + '": "{^' + words[0] +' ^}",\n'
    else:
       words = sorted(words, key=lambda x: unixes[x])
-      jsontxt += '"' + phone_json + '": "{^' + words[0] +'^}",\n'
+      jsontxt += '"' + phone_json + '": "{^' + words[0] +' ^}",\n'
       accum_phone_json = []
       for i in range(1, len(words)):
          accum_phone_json.append({'pre': words[0], 'word': words[i], 'j': phone_json})
@@ -250,7 +253,7 @@ for phone_json in phone_stenos:
                   is_first_j = False
                   break
             if is_first_j:
-               jsontxt += '"' + accum_phone_json[i]['j'] + '": "{^' + accum_phone_json[i]['word'] +'^}",\n'
+               jsontxt += '"' + accum_phone_json[i]['j'] + '": "{^' + accum_phone_json[i]['word'] +' ^}",\n'
                for j in range(i+1, len(accum_phone_json)):
                   accum_phone_json[j]['pre'] = accum_phone_json[i]['word']
             else:
@@ -259,7 +262,7 @@ for phone_json in phone_stenos:
 p = re.compile(r'([AOEU])-')
 jsontxt = p.sub(r'\1',jsontxt)
 with open('steno.json', 'w') as file:
-   file.write('{\n'+jsontxt[:-2].replace('"U/','"*U/').replace('"A/','"A*/').replace('/U/','/*U/').replace('/A/','/A*/').replace('/U"','/*U"').replace('/A"','/A*"')+'\n}')
+   file.write('{\n'+jsontxt[:-2].replace('/U/','/#*U/').replace('/A/','/#A*/').replace('/U"','/#*U"').replace('/A"','/#A*"')+'\n}')
 help_pairs = [[x for x in re.split('[":, ]', line) if x != ''] for line in jsontxt.replace('{^','').split('\n') if line != '' and re.search(r'"[A-Z\/-]*": "[a-z\']*"',line) != None]
 helps = {}
 for help_pair in help_pairs:
