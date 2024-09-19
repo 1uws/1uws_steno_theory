@@ -18,7 +18,7 @@ apis =      ['o', '%', '2', '>', '(', ')', 'b', '$', 'd', '6', 'e', '&', '*', 'f
 consonents =   ['b', '$', 'd', '6', 'f', 'g', 'h', '8', 'k', 'l', 'm', 'n', '=', 'p', 'r', 's', '1', 't', '0', 'v', 'w', 'j', 'z', '3']
 vowels = ['o', '%', '2', '>', '(', ')', 'e', '&', '*', '!', 'i', '[', ']', '?', 'u']
 single_con_conv = []
-end_phone_convs = {'0': 'F','1': 'P', '2': 'L', '3': 'R', '4': 'B', '5': 'G', '6': 'T', '7': 'D'}
+end_phone_convs = {'0': 'R','1': 'P', '2': 'L', '3': 'S', '4': 'B', '5': 'F', '6': 'G', '7': 'Z'}
 start_phone_convs = {'0': 'R', '1': 'P','2': 'T', '3': 'S', '4': 'K', '5': 'H', '6': 'W', '7': 'G', '8': 'Z', '9': 'D'}
 rest_con_conv = []
 for i in range(0,8):
@@ -27,16 +27,27 @@ for i in range(0,8):
 for i in range(0,8):
    for j in range(i+1,8):
       rest_con_conv.append(str(i)+str(j))
+for i in range(0,7):
+   for j in range(i+1,7):
+      for k in range(j+1,7):
+         rest_con_conv.append(str(i)+str(j)+str(k))
 for i in range(0,8):
    for j in range(i+1,8):
       for k in range(j+1,8):
-         rest_con_conv.append(str(i)+str(j)+str(k))
-               # for l in range(0,8):
-               #    if k < l:
-               #       rest_con_conv.append(str(i)+str(j)+str(k)+str(l))
-               #       for m in range(0,8):
-               #          if l < m:
-               #             rest_con_conv.append(str(i)+str(j)+str(k)+str(l)+str(m))
+         if str(i)+str(j)+str(k) not in rest_con_conv:
+            rest_con_conv.append(str(i)+str(j)+str(k))
+rest_con_conv.remove('45')
+rest_con_conv.remove('145')
+rest_con_conv.remove('245')
+rest_con_conv.remove('345')
+rest_con_conv.remove('456')
+rest_con_conv.remove('457')
+rest_con_conv.remove('16')
+rest_con_conv.remove('126')
+rest_con_conv.remove('136')
+rest_con_conv.remove('146')
+rest_con_conv.remove('156')
+rest_con_conv.remove('567')
 print(rest_con_conv)
 print(len(rest_con_conv))
 print(len(consonents))
@@ -186,5 +197,6 @@ print(end_convs)
 #             del enemies[enemy2]
 # print(enemies)
 # end_convs = {'pw': 'P', 'nv': 'P', '3r': 'P', '3d': 'P', 'fw': 'P', '$p': 'P', '1dl': 'P', 'vw': 'P', 'stz': 'P', 'brw': 'P', 'ksv': 'P', '$mp': 'P', 'dls': 'P', 'dk': 'P', '=r': 'P', '1=': 'P', 'fkr': 'P', '1g': 'P', 'drt': 'P', 'lrs': 'P', 'lms': 'P', '=h': 'P', '$w': 'P', 'drst': 'P', 'dh': 'P', '8z': 'P', 'dp': 'P', 'dmz': 'P', '1=k': 'P', 'ht': 'P', '0dl': 'P', 'dhr': 'P', 'drs': 'P', 'fks': 'P', 'hjl': 'P', '=l': 'P', 'mn': 'P', 'djn': 'P', 'pz': 'P', '1f': 'P', 'jr': 'P', 'fps': 'P', 'lpst': 'P', '1d': 'P', '0j': 'P', 'fz': 'P', '0fl': 'P', '$=': 'P', '6s': 'P', '=dk': 'P', '0mr': 'P', 'jw': 'P', 'bs': 'L', '8dl': 'L', 'dlr': 'L', '=s': 'L', '0nst': 'L', 'rw': 'L', 'mrs': 'L', '0dn': 'L', 'mpz': 'L', '0lv': 'L', 'knz': 'L', '=t': 'S', '1v': 'S', '0dns': 'S', 'fmt': 'S', '1st': 'T', '1b': 'T', 'fk': 'T', 'ltz': 'T', 'frs': 'F', '=gz': 'F', '0f': 'F', '1tz': 'F', 'lrt': 'F', 'krst': 'F', 'dlp': 'F', '6d': 'B', 'ds': 'B', 'bk': 'B', '=st': 'B', 'blz': 'B', 'gst': 'B', 'tv': 'B', 'fms': 'G', '0fs': 'G', '1kr': 'G', 'dnt': 'Z', 'dlv': 'PL', 'fmp': 'PL', 'hl': 'PL', '0=': 'PL', 'lpt': 'PL', 'hm': 'PL', 'mw': 'PL', 'hn': 'PL', '$s': 'PL', '6n': 'PL', 'prst': 'PL', '8f': 'PL', 'mst': 'PL', '=kst': 'PS', 'grz': 'PS', '8j': 'PS', '0ds': 'PS', 'kmp': 'PS', '8t': 'PS', '$lt': 'PT', 'dst': 'PT', '$j': 'PT', 'frt': 'PT', 'hs': 'PT', 'w': 'PF', 'gt': 'PF', 'nrst': 'PF', 'bmz': 'PF', '6r': 'PF', '8dr': 'PB', '3w': 'PB', '$k': 'PB', '0t': 'PB', '=gst': 'PB', '0k': 'PB', '0ks': 'PB', 'bt': 'PB', 'rtz': 'PB', 'nst': 'PG', 'kz': 'PG', 'bdr': 'PG', 'dlm': 'PG', '0st': 'PG', 'jz': 'PZ', 'lrz': 'LS', 'gn': 'LS', 'ntz': 'LS', 'mrz': 'LT', '8l': 'LT', 'nw': 'LT', '0d': 'LT', 'klt': 'LT', 'drv': 'LT', '8w': 'LT', '1rt': 'LT', '$1r': 'LT', '6j': 'LT', 'pst': 'LF', '=g': 'LF', 'rvz': 'LF', 'flt': 'LF', 'j': 'LB', 'drw': 'LB', 'gj': 'LG', 'sv': 'LG', 'jst': 'LG', '0ls': 'LZ', '0p': 'LZ', 'dv': 'ST', 'lvz': 'ST', '6z': 'ST', '0=s': 'ST', 'lnz': 'ST', 'klm': 'ST', 'dnz': 'SF', 'js': 'SF', '0ps': 'SF', 'mps': 'SB', '8d': 'SG', 'kns': 'SG', 'dt': 'SG', '0ns': 'SG', '0=k': 'SG', '1t': 'SZ', '0n': 'SZ', 'km': 'SZ', 'ln': 'SZ', '0=ks': 'SZ', 'kw': 'TF', 'hj': 'TF', 'sw': 'TB', 'dj': 'TB', 'bm': 'TB', 'jv': 'TG', 'fn': 'TG', 'blw': 'TG', 'bkm': 'TG', 'mpst': 'TZ', 'ms': 'FB', 'jks': 'FB', 'jt': 'FB', '$rt': 'FB', '0w': 'FB', 'lw': 'FG', 'fnt': 'FG', 'fpr': 'FZ', 'gl': 'BG', 'brz': 'BG', 'hw': 'BZ', '0rs': 'BZ', 'mp': 'GZ', 'mt': 'GZ', '8dn': 'PLS', 'fm': 'PLS', '8r': 'PLT', '=kt': 'PLT', 'wz': 'PLT', 'hr': 'PLT', '$m': 'PLT', 'fp': 'PLF', 'krt': 'PLF', 'jl': 'PLB', '8m': 'PLB', '=z': 'PLG', 'kv': 'PLG', 'nrt': 'PLG', 'jk': 'PLZ', 'gw': 'PLZ', 'ksw': 'PLZ', 'pt': 'PST', '3': 'PSF', 'bj': 'PSF', 'dw': 'PSF', 'jm': 'PSB', 'tw': 'PSB', 'df': 'PSB', 'fj': 'PSG', '1w': 'PSG', 'jp': 'PSZ', '1n': 'PTF', 'kn': 'PTF', 'jps': 'PTF', 'kp': 'PTF', 'mr': 'PTB', 'lps': 'PTB', 'jn': 'PTB', '=ks': 'PTG', 'kls': 'PTZ', '0l': 'PTZ', '1l': 'PFB', 'rv': 'PFB', '1j': 'PFB', 'prs': 'PFG', '1m': 'PFZ', 'lv': 'PFZ', 'bw': 'PFZ', '1p': 'PFZ', 'dmr': 'PBG', 'mpt': 'PBZ', '$l': 'PBZ', 'dnr': 'PGZ', 'drz': 'LST', '1k': 'LST', 'bst': 'LSF', 'lr': 'LSB', 'fst': 'LSG', 'prt': 'LSG', 'dg': 'LSZ', '=d': 'LTF', '$r': 'LTB', '$nt': 'LTB', 'nrz': 'LTG', 'fls': 'LTZ', 'n': 'P', 'l': 'L', 'k': 'S', 's': 'T', 'm': 'F', 'r': 'B', 'd': 'G', 't': 'Z', 'z': 'PL', 'b': 'PS', 'p': 'PT', '=': 'PF', 'f': 'PB', 'h': 'PG', 'st': 'PZ', 'g': 'LS', 'v': 'LT', '1': 'LFB', '8': 'LF', 'nz': 'LB', 'ks': 'LG', '$': 'LZ', 'rt': 'ST', 'pr': 'SF', 'kr': 'SB', 'br': 'SG', 'gr': 'SZ', 'dn': 'TF', 'nt': 'TB', 'ps': 'TG', '0': 'TZ', 'lz': 'FB', 'dr': 'FG', 'kl': 'FZ', 'dl': 'BG', 'dz': 'BZ', 'fr': 'GZ', 'rst': 'PLS', 'lp': 'PLT', 'fl': 'PLF', 'ns': 'PLB', 'bl': 'PLG', 'mz': 'PLZ', 'ls': 'PST', 'rz': 'PSF', 'kt': 'PSB', '=k': 'PSG', 'lt': 'PSZ', 'nr': 'PTF', 'vz': 'PTB', '0r': 'PTG', 'krs': 'PTZ', 'ft': 'PFB', 'kst': 'PFG', 'gz': 'PFZ', 'fs': 'PBG', '1r': 'PBZ', 'bz': 'LFG', 'dm': 'PGZ', '6': 'LST', 'lst': 'LSF', '8n': 'LSB', 'rs': 'LSG', 'dlz': 'LSZ', '$n': 'LFZ', 'lm': 'LTF', '$t': 'LBG', '0s': 'LTB', 'bd': 'LTG', 'tz': 'LTZ', 'lmz': 'LBZ'}
-start_convs = dict(end_convs)
-print('start')
+print('done')
+with open('ends.txt', 'w') as file:
+   file.write(str(end_convs))
