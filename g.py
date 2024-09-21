@@ -43,8 +43,8 @@ for end_conv in end_convs:
    end_convs[end_conv] = '-' + end_convs[end_conv]
 vowel_simple_convs = {'o': 'A', '%': 'AE', '2': 'OE', '>': 'O', '(': 'AEU', ')': 'AU', 'e': 'E', '&': 'AOEU', '*': 'AOE', '!': 'U', 'i': 'AO', '[': 'OEU', ']': 'OU', '?': 'AOU', 'u': 'EU'}
 number_convs = {0: '-R', 1: 'S-R', 2: 'T-R', 3: 'P-R', 4: 'H-R', 5: 'K-R', 6: 'W-R', 7: 'R-R', 8: '-FR', 9: '-RP', 10: '-RL', 11: '-RT', 12: '-RB', 13: '-RG', 14: '-RS'}
-right_spell_units = {' ': '-BG', "'": '-PG', 'a': '-GS', 'b': '-B','c': '-FP', 'd': '-FRB', 'e': '-BS', 'f': '-RT', 'g': '-RB', 'h': '-RG', 'i': '-GTS', 'j': '-PB', 'k': '-G', 'l': '-RBG', 'm': '-L', 'n': '-P', 'o': '-TS', 'p': '-RP', 'q': '-RPL', 'r': '-R', 's': '-F', 't': '-T', 'u': '-FBS', 'v': '-FR', 'w': '-PL', 'x': '-BL', 'y': '-RPB', 'z': '-PT'}
-spell_units = {' ': 'KW', "'": 'KP', 'a': 'K*', 'b': 'W','c': 'PH', 'd': 'WHR', 'e': 'W*', 'f': 'SR', 'g': 'WR', 'h': 'KR', 'i': 'SK*', 'j': 'PW', 'k': 'K', 'l': 'KWR', 'm': 'T', 'n': 'P', 'o': 'S*', 'p': 'PR', 'q': 'TPR', 'r': 'R', 's': 'H', 't': 'S', 'u': 'WH*', 'v': 'HR', 'w': 'TP', 'x': 'TW', 'y': 'PWR', 'z': 'SP', "backspace": "*", "escape": "-Z", "return": "-DZ","tab": "-D","left": "-R","right":"-S","up":"-G","down":"-B",
+right_spell_units = {' ': '-BG', "'": '-PG', 'a': '-GS', 'b': '-B','c': '-FP', 'd': '-FRB', 'e': '-BS', 'f': '-RT', 'g': '-RB', 'h': '-RG', 'i': '-GTS', 'j': '-PB', 'k': '-G', 'l': '-RBG', 'm': '-L', 'n': '-P', 'o': '-TS', 'p': '-RP', 'q': '-RPL', 'r': '-R', 's': '-F', 't': '-T', 'u': '-RBS', 'v': '-FR', 'w': '-PL', 'x': '-BL', 'y': '-RPB', 'z': '-PT'}
+spell_units = {' ': 'KW', "'": 'KP', 'a': 'K*', 'b': 'W','c': 'PH', 'd': 'WHR', 'e': 'W*', 'f': 'SR', 'g': 'WR', 'h': 'KR', 'i': 'SK*', 'j': 'PW', 'k': 'K', 'l': 'KWR', 'm': 'T', 'n': 'P', 'o': 'S*', 'p': 'PR', 'q': 'TPR', 'r': 'R', 's': 'H', 't': 'S', 'u': 'WR*', 'v': 'HR', 'w': 'TP', 'x': 'TW', 'y': 'PWR', 'z': 'SP', "backspace": "*", "escape": "-Z", "return": "-DZ","tab": "-D","left": "-R","right":"-S","up":"-G","down":"-B",
    "1": "#S",
    "2":"#T",
    "3":"#P",
