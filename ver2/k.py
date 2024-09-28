@@ -93,13 +93,16 @@ def sort_stroke(strokes):
          result += '-'
       result += ''.join(sorted(second_keys, key = lambda x: end_order.index(x)))
    return result
-unread = []
+OM = 1000000
+unread = {}
 rests = {}
-accepts = []
+accepts = {}
 lcons = {}
 icon = 0
+icons = {}
 lvows = {}
 ivow = 0
+ivows = {}
 lic = {}
 liv = {}
 for word in unixes:
@@ -114,7 +117,15 @@ for word in unixes:
          else:
             print('wrong vowel',word_ipa)
             exit()
-      unread+=[[con, vow, word]]
+      if con not in icons:
+         icons[con] = icon
+         icon += 1
+      if vow not in ivows:
+         ivows[vow] = ivow
+         ivow += 1
+      con = icons[con]
+      vow = ivows[vow]
+      unread[con * OM + vow] = True
       if con not in rests:
          rests[con] = {}
          rests[con][vow] = True
@@ -125,62 +136,63 @@ for word in unixes:
          rests[vow][con] = True
       elif con not in rests[vow]:
          rests[vow][con] = True
-# for i_pair in range(len(unread)-1,-1,-1):
-for i_pair in range(3000):
-   pair = unread[i_pair]
-   del unread[i_pair]
-   con = pair[0]
-   vow = pair[1]
-   con_rest = rests[con]
-   vow_rest = rests[vow]
+list_unread = list(unread)
+for i_pair in range(len(list_unread)):
+   pair = list_unread[i_pair]
+   del unread[pair]
+   con = pair // OM
+   vow = pair % OM
    if con in lcons and vow in lvows:
       continue
    found = False
    if con in lcons:
+      lcons_con = lcons[con]
       for registered_vow in lvows:
-         if [lcons[con], lvows[registered_vow]] not in unread and [lcons[con], lvows[registered_vow]] not in accepts:
+         lvows_registered_vow = lvows[registered_vow]
+         if lcons_con * OM + lvows_registered_vow not in unread and lcons_con * OM + lvows_registered_vow not in accepts:
             found = True
-            accepts.append([lcons[con], lvows[registered_vow]])
-            lvows[vow] = lvows[registered_vow]
+            accepts[lcons_con * OM + lvows_registered_vow] = True
+            lvows[vow] = lvows_registered_vow
             break
       if not found:
-         accepts.append([lcons[con], vow])
+         accepts[lcons_con * OM + vow] = True
          lvows[vow] = vow
    elif vow in lvows:
+      lvows_vow = lvows[vow]
       for registered_con in lcons:
-         if [lcons[registered_con], lvows[vow]] not in unread and [lcons[registered_con], lvows[vow]] not in accepts:
+         lcons_registered_con = lcons[registered_con]
+         if lcons_registered_con * OM + lvows_vow not in unread and lcons_registered_con * OM + lvows_vow not in accepts:
             found = True
-            accepts.append([lcons[registered_con], lvows[vow]])
-            lcons[con] = lcons[registered_con]
+            accepts[lcons_registered_con * OM + lvows_vow] = True
+            lcons[con] = lcons_registered_con
             break
       if not found:
-         accepts.append([con, lvows[vow]])
+         accepts[con * OM + lvows_vow] = True
          lcons[con] = con
    else:
-      # print(con,vow,lcons,lvows)
       for i_registered_con in range(len(lcons)):
          registered_con = list(lcons)[i_registered_con]
          if i_registered_con not in liv:
             temp_i_vow = 0
          else:
             temp_i_vow = liv[i_registered_con]
+         lcons_registered_con = lcons[registered_con]
          for i_registered_vow in range(temp_i_vow, len(lvows)):
             liv[i_registered_con] = i_registered_vow + 1
             registered_vow = list(lvows)[i_registered_vow]
-            if [lcons[registered_con], lvows[registered_vow]] not in unread and [lcons[registered_con], lvows[registered_vow]] not in accepts:
+            lvows_registered_vow = lvows[registered_vow]
+            if lcons_registered_con * OM + lvows_registered_vow not in unread and lcons_registered_con * OM + lvows_registered_vow not in accepts:
                found = True
-               accepts.append([lcons[registered_con], lvows[registered_vow]])
-               lcons[con] = lcons[registered_con]
-               # print(vow, registered_vow, lvows)
-               lvows[vow] = lvows[registered_vow]
+               accepts[lcons_registered_con * OM + lvows_registered_vow] = True
+               lcons[con] = lcons_registered_con
+               lvows[vow] = lvows_registered_vow
                break
          if found:
             break
       if not found:
-         accepts.append([con, vow])
+         accepts[con * OM + vow] = True
          lcons[con] = con
          lvows[vow] = vow
-   print('.',pair[-1], accepts[-1])
 setcon = list(set(lcons.values()))
 setvow = list(set(lvows.values()))
 print(setcon)
