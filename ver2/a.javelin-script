@@ -1,0 +1,239 @@
+const SC_NONE = 0;
+
+const SC_A = 0x04;
+const SC_B = 0x05;
+const SC_C = 0x06;
+const SC_D = 0x07;
+const SC_E = 0x08;
+const SC_F = 0x09;
+const SC_G = 0x0a;
+const SC_H = 0x0b;
+const SC_I = 0x0c;
+const SC_J = 0x0d;
+const SC_K = 0x0e;
+const SC_L = 0x0f;
+const SC_M = 0x10;
+const SC_N = 0x11;
+const SC_O = 0x12;
+const SC_P = 0x13;
+const SC_Q = 0x14;
+const SC_R = 0x15;
+const SC_S = 0x16;
+const SC_T = 0x17;
+const SC_U = 0x18;
+const SC_V = 0x19;
+const SC_W = 0x1a;
+const SC_X = 0x1b;
+const SC_Y = 0x1c;
+const SC_Z = 0x1d;
+
+const SC_1 = 0x1e;
+const SC_2 = 0x1f;
+const SC_3 = 0x20;
+const SC_4 = 0x21;
+const SC_5 = 0x22;
+const SC_6 = 0x23;
+const SC_7 = 0x24;
+const SC_8 = 0x25;
+const SC_9 = 0x26;
+const SC_0 = 0x27;
+
+const SK_NONE = -1;
+const SK_S1 = 0;
+const SK_S2 = 1;
+const SK_TL = 2;
+const SK_KL = 3;
+const SK_PL = 4;
+const SK_WL = 5;
+const SK_HL = 6;
+const SK_RL = 7;
+const SK_A = 8;
+const SK_O = 9;
+const SK_STAR1 = 10;
+const SK_STAR2 = 11;
+const SK_STAR3 = 12;
+const SK_STAR4 = 13;
+const SK_E = 14;
+const SK_U = 15;
+const SK_FR = 16;
+const SK_RR = 17;
+const SK_PR = 18;
+const SK_BR = 19;
+const SK_LR = 20;
+const SK_GR = 21;
+const SK_TR = 22;
+const SK_SR = 23;
+const SK_DR = 24;
+const SK_ZR = 25;
+const SK_NUM1 = 26;
+const SK_NUM2 = 27;
+const SK_NUM3 = 28;
+const SK_NUM4 = 29;
+const SK_NUM5 = 30;
+const SK_NUM6 = 31;
+const SK_NUM7 = 32;
+const SK_NUM8 = 33;
+const SK_NUM9 = 34;
+const SK_NUM10 = 35;
+const SK_NUM11 = 36;
+const SK_NUM12 = 37;
+const SK_FUNCTION = 38;
+const SK_POWER = 39;
+const SK_RES1 = 40;
+const SK_RES2 = 41;
+
+const R1 = 1;
+const Q = R1*2;
+const W = Q*2;
+const E = W*2;
+const R = E*2;
+const T = R*2;
+const R2 = T*2;
+const A = R2*2;
+const S = A*2;
+const D = S*2;
+const F = D*2;
+const G = F*2;
+const R3 = G*2;
+const Z = R3*2;
+const X = Z*2;
+const C = X*2;
+
+const V = 1;
+const R4 = V*2;
+const RA = R4*2;
+const RO = RA*2;
+
+const _R1 = 1;
+const _Q = _R1*2;
+const _W = _Q*2;
+const _E = _W*2;
+const _R = _E*2;
+const _T = _R*2;
+const _R2 = _T*2;
+const _A = _R2*2;
+const _S = _A*2;
+const _D = _S*2;
+const _F = _D*2;
+const _G = _F*2;
+const _R3 = _G*2;
+const _Z = _R3*2;
+const _X = _Z*2;
+const _C = _X*2;
+
+const _V = 1;
+const _R4 = _V*2;
+const _RA = _R4*2;
+const _RO = _RA*2;
+
+var mainLeft = 0;
+var mainRight = 0;
+var subLeft = 0;
+var subRight = 0;
+var stenoNumMainLeft = 0;
+var stenoNumMainRight = 0;
+var stenoNumSubLeft = 0;
+var stenoNumSubRight = 0;
+
+func sendSteno() {
+   if (! checkButtonState("000000000000000000000000000000000000000000")) { return; }
+   convertStenoNumMainLeft();
+   if (mainLeft > 0) { tapScanCode(SC_1); } else {tapScanCode(SC_2);}
+   pressSteno(stenoNumMainLeft);
+   releaseSteno(stenoNumMainLeft);
+   resetAllStates();
+}
+
+func convertStenoNumMainLeft()
+{
+   if (mainLeft == 0) { stenoNumMainLeft = 0; return; }
+   var stenoNum = 1;
+   if (mainLeft == R1) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == R2) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == R3) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == Q) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == W) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == R) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == A) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == S) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == D) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == F) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == Z) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == X) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E | W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == C) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S | D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   stenoNumMainLeft = 0;
+}
+
+func pressSteno(stenoNumMainLeft) {
+   if (stenoNumMainLeft & 1) { pressStenoKey(SK_DR); }
+   if (stenoNumMainLeft & 2) { pressStenoKey(SK_S1); }
+   if (stenoNumMainLeft & 4) { pressStenoKey(SK_TL); }
+   if (stenoNumMainLeft & 8) { pressStenoKey(SK_KL); }
+   if (stenoNumMainLeft & 16) { pressStenoKey(SK_PL); }
+   if (stenoNumMainLeft & 32) { pressStenoKey(SK_WL); }
+   if (stenoNumMainLeft & 64) { pressStenoKey(SK_HL); }
+   if (stenoNumMainLeft & 128) { pressStenoKey(SK_RL); }
+}
+
+func releaseSteno(stenoNumMainLeft) {
+   if (stenoNumMainLeft & 1) { releaseStenoKey(SK_DR); }
+   if (stenoNumMainLeft & 2) { releaseStenoKey(SK_S1); }
+   if (stenoNumMainLeft & 4) { releaseStenoKey(SK_TL); }
+   if (stenoNumMainLeft & 8) { releaseStenoKey(SK_KL); }
+   if (stenoNumMainLeft & 16) { releaseStenoKey(SK_PL); }
+   if (stenoNumMainLeft & 32) { releaseStenoKey(SK_WL); }
+   if (stenoNumMainLeft & 64) { releaseStenoKey(SK_HL); }
+   if (stenoNumMainLeft & 128) { releaseStenoKey(SK_RL); }
+}
+
+func resetAllStates() {
+   mainLeft = 0;
+   stenoNumMainLeft = 0;
+}
+
+func onPress0() { mainLeft = mainLeft | R1; } func onRelease0() { sendSteno(); }
+func onPress1() { mainLeft = mainLeft | Q; } func onRelease1() { sendSteno(); }
+func onPress2() { mainLeft = mainLeft | W; } func onRelease2() { sendSteno(); }
+func onPress3() { mainLeft = mainLeft | E; } func onRelease3() { sendSteno(); }
+func onPress4() { mainLeft = mainLeft | R; } func onRelease4() { sendSteno(); }
+func onPress5() { mainLeft = mainLeft | T; } func onRelease5() { sendSteno(); }
+func onPress6() { mainRight = mainRight | _T; } func onRelease6() { sendSteno(); }
+func onPress7() { mainRight = mainRight | _R; } func onRelease7() { sendSteno(); }
+func onPress8() { mainRight = mainRight | _E; } func onRelease8() { sendSteno(); }
+func onPress9() { mainRight = mainRight | _W; } func onRelease9() { sendSteno(); }
+func onPress10() { mainRight = mainRight | _Q; } func onRelease10() { sendSteno(); }
+func onPress11() { mainRight = mainRight | _R1; } func onRelease11() { sendSteno(); }
+func onPress12() { mainLeft = mainLeft | R2; } func onRelease12() { sendSteno(); }
+func onPress13() { mainLeft = mainLeft | A; } func onRelease13() { sendSteno(); }
+func onPress14() { mainLeft = mainLeft | S; } func onRelease14() { sendSteno(); }
+func onPress15() { mainLeft = mainLeft | D; } func onRelease15() { sendSteno(); }
+func onPress16() { mainLeft = mainLeft | F; } func onRelease16() { sendSteno(); }
+func onPress17() { mainLeft = mainLeft | G; } func onRelease17() { sendSteno(); }
+func onPress18() { mainRight = mainRight | _G; } func onRelease18() { sendSteno(); }
+func onPress19() { mainRight = mainRight | _F; } func onRelease19() { sendSteno(); }
+func onPress20() { mainRight = mainRight | _D; } func onRelease20() { sendSteno(); }
+func onPress21() { mainRight = mainRight | _S; } func onRelease21() { sendSteno(); }
+func onPress22() { mainRight = mainRight | _A; } func onRelease22() { sendSteno(); }
+func onPress23() { mainRight = mainRight | _R2; } func onRelease23() { sendSteno(); }
+func onPress24() { mainLeft = mainLeft | R3; } func onRelease24() { sendSteno(); }
+func onPress25() { mainLeft = mainLeft | Z; } func onRelease25() { sendSteno(); }
+func onPress26() { mainLeft = mainLeft | X; } func onRelease26() { sendSteno(); }
+func onPress27() { mainLeft = mainLeft | C; } func onRelease27() { sendSteno(); }
+func onPress28() { subLeft = subLeft | V; } func onRelease28() { sendSteno(); }
+func onPress29() {  } func onRelease29() { sendSteno(); }
+func onPress30() {  } func onRelease30() { sendSteno(); }
+func onPress31() { subRight = subRight | _V; } func onRelease31() { sendSteno(); }
+func onPress32() { mainRight = mainRight | _C; } func onRelease32() { sendSteno(); }
+func onPress33() { mainRight = mainRight | _X; } func onRelease33() { sendSteno(); }
+func onPress34() { mainRight = mainRight | _Z; } func onRelease34() { sendSteno(); }
+func onPress35() { mainRight = mainRight | _R3; } func onRelease35() { sendSteno(); }
+func onPress36() { subLeft = subLeft | R4; } func onRelease36() { sendSteno(); }
+func onPress37() { subLeft = subLeft | RA; } func onRelease37() { sendSteno(); }
+func onPress38() { subLeft = subLeft | RO; } func onRelease38() { sendSteno(); }
+func onPress39() { subRight = subRight | _RO; } func onRelease39() { sendSteno(); }
+func onPress40() { subRight = subRight | _RA; } func onRelease40() { sendSteno(); }
+func onPress41() { subRight = subRight | _R4; } func onRelease41() { sendSteno(); }
+
+func onPress42() { console("launch_bootloader"); } func onRelease42() {}

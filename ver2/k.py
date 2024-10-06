@@ -3,7 +3,8 @@ import operator
 import re
 words = {}
 ori_words = {}
-for file_name in ['en_US.json']:
+for file_name in ['en.json']:
+# for file_name in ['en_US.json']:
    with open(file_name,'r') as file:
       for line in file:
          word,phones = line[:-1].split(':')
@@ -95,7 +96,8 @@ def sort_stroke(strokes):
    return result
 OM = 1000000
 unread = {}
-rests = {}
+con_rests = {}
+vow_rests = {}
 accepts = {}
 lcons = {}
 icon = 0
@@ -105,6 +107,7 @@ ivow = 0
 ivows = {}
 lic = {}
 liv = {}
+list_unread = []
 for word in unixes:
    for word_ipa in words[word]:
       con = ''
@@ -125,21 +128,60 @@ for word in unixes:
          ivow += 1
       con = icons[con]
       vow = ivows[vow]
-      unread[con * OM + vow] = True
-      if con not in rests:
-         rests[con] = {}
-         rests[con][vow] = True
-      elif vow not in rests[con]:
-         rests[con][vow] = True
-      if vow not in rests:
-         rests[vow] = {}
-         rests[vow][con] = True
-      elif con not in rests[vow]:
-         rests[vow][con] = True
-list_unread = list(unread)
+      if con * OM + vow in unread:
+         unread[con * OM + vow]+=[word]
+      else:
+         unread[con * OM + vow] = [word]
+      list_unread.append(con * OM + vow)
+      if con not in con_rests:
+         con_rests[con] = {}
+         con_rests[con][vow] = True
+      elif vow not in con_rests[con]:
+         con_rests[con][vow] = True
+      if vow not in vow_rests:
+         vow_rests[vow] = {}
+         vow_rests[vow][con] = True
+      elif con not in vow_rests[vow]:
+         vow_rests[vow][con] = True
+for pair in unread:
+   if len(unread[pair]) > 1:
+      print(unread[pair])
+conflict_cons = {}
+conflict_vows = {}
+print('go')
+for con in con_rests:
+   for vow in con_rests[con]:
+      for vow2 in con_rests[con]:
+         if vow2 != vow and vow * OM + vow2 not in conflict_vows:
+            conflict_vows[vow * OM + vow2] = True
+            conflict_vows[vow2 * OM + vow] = True
+for vow in vow_rests:
+   for con in vow_rests[vow]:
+      for con2 in vow_rests[vow]:
+         if con != con2 and con * OM + con2 not in conflict_cons:
+            conflict_cons[con * OM + con2] = True
+            conflict_cons[con2 * OM + con] = True
+# for ii in range(len(list_unread)):
+#    i = list_unread[ii]
+#    for ji in range(ii+1, len(list_unread)):
+#       j = list_unread[ji]
+#       if i // OM == j // OM:
+#          i_vow = i % OM
+#          j_vow = j % OM
+#          if i_vow * OM + j_vow not in conflict_vows:
+#             conflict_vows[i_vow * OM + j_vow] = True
+#             conflict_vows[j_vow * OM + i_vow] = True
+#       if i % OM == j % OM:
+#          i_con = i // OM
+#          j_con = j // OM
+#          if i_con * OM + j_con not in conflict_cons:
+#             conflict_cons[i_con * OM + j_con] = True
+#             conflict_cons[j_con * OM + i_con] = True
+print(len(conflict_cons))
+print(len(conflict_vows))
+# print(unread)
 for i_pair in range(len(list_unread)):
    pair = list_unread[i_pair]
-   del unread[pair]
    con = pair // OM
    vow = pair % OM
    if con in lcons and vow in lvows:
@@ -149,7 +191,7 @@ for i_pair in range(len(list_unread)):
       lcons_con = lcons[con]
       for registered_vow in lvows:
          lvows_registered_vow = lvows[registered_vow]
-         if lcons_con * OM + lvows_registered_vow not in unread and lcons_con * OM + lvows_registered_vow not in accepts:
+         if vow * OM + lvows_registered_vow not in conflict_vows and  lcons_con * OM + lvows_registered_vow not in accepts:
             found = True
             accepts[lcons_con * OM + lvows_registered_vow] = True
             lvows[vow] = lvows_registered_vow
@@ -161,7 +203,7 @@ for i_pair in range(len(list_unread)):
       lvows_vow = lvows[vow]
       for registered_con in lcons:
          lcons_registered_con = lcons[registered_con]
-         if lcons_registered_con * OM + lvows_vow not in unread and lcons_registered_con * OM + lvows_vow not in accepts:
+         if lcons_registered_con * OM + con not in conflict_cons and lcons_registered_con * OM + lvows_vow not in accepts:
             found = True
             accepts[lcons_registered_con * OM + lvows_vow] = True
             lcons[con] = lcons_registered_con
@@ -181,7 +223,7 @@ for i_pair in range(len(list_unread)):
             liv[i_registered_con] = i_registered_vow + 1
             registered_vow = list(lvows)[i_registered_vow]
             lvows_registered_vow = lvows[registered_vow]
-            if lcons_registered_con * OM + lvows_registered_vow not in unread and lcons_registered_con * OM + lvows_registered_vow not in accepts:
+            if lcons_registered_con * OM + con not in conflict_cons and vow * OM + lvows_registered_vow not in conflict_vows and lcons_registered_con * OM + lvows_registered_vow not in accepts:
                found = True
                accepts[lcons_registered_con * OM + lvows_registered_vow] = True
                lcons[con] = lcons_registered_con

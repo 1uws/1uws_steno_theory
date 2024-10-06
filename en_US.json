@@ -27074,7 +27074,7 @@ deportment:d2\p>rtm2nt
 depose:d!\p[z
 deposed:d!\p[zd
 deposi:d2\p[zi
-deposit:d2\poz!t,d!\poz2t
+deposit:d!\poz2t
 depositary:d2\poz!|teri,d!\poz!|teri
 deposited:d2\poz!t!d,d!\poz2t2d
 depositing:d2\poz!t!=
@@ -27085,7 +27085,7 @@ depositor:d2\poz!t&
 depositors:d2\poz!t&z
 depositors:d!\poz!t&z
 depository:d!\poz2|t>ri
-deposits:d2\poz!ts,d!\poz2ts
+deposits:d!\poz2ts
 depot:\dip[
 depots:\dip[z
 depoy:\dep]
@@ -29520,7 +29520,7 @@ doerner:\d>rn&
 doerr:\d>r
 doers:\du&z
 doersam:\d>rs2m
-does:\d2z,d!z
+does:\d2z
 doescher:\d[1&
 doesn't:\d2z2n,\d2z2nt
 doetsch:\d[$
@@ -32273,7 +32273,7 @@ eison:\)z2n
 eissler:\)s2l&,\)sl&
 eiszner:\)zn&
 eitel:\)t2l
-either:\)6&,\i6&
+either:\)6&
 eitzen:\)tz2n
 eizenstat:\)z2n|st%t
 ejaculate:!\8%kju|l*t
@@ -42204,7 +42204,7 @@ giveaway:\g!v2|w*
 giveaways:\g!v2|w*z
 giveback:\g!v|b%k
 givebacks:\g!v|b%ks
-given:\g!v2n,\g!v!n
+given:\g!v2n
 givenchy:g!\ven$i
 givenness:\g!v2n2s
 givens:\g!v2nz
@@ -48501,7 +48501,7 @@ hilty:\h!lti
 hiltz:\h!lts
 hilyard:h2l\jord
 hilyer:\h!li&
-him:\h!m,!m
+him:\h!m
 himalaya:|h!m2\l)2,|h!m2\l*2
 himalayan:|h!m2\l)2n,|h!m2\l*2n
 himalayas:|h!m2\l)2s,|h!m2\l*2s
@@ -54058,7 +54058,7 @@ jane:\8*n
 janeane:\8*|n%n
 janecek:\j%n!$ek
 janeczko:j2\ne$k[
-janeiro:82\ne|r[,32\ne|r[
+janeiro:82\ne|r[
 janek:\j%nek
 janel:\8%n2l
 janella:82\nel2
@@ -64325,7 +64325,7 @@ mada:\mod2
 madagascar:|m%d2\g%sk&
 madalena:|m%d2\l*n2
 madam:\m%d2m
-madame:\m%d2m,m2\d%m
+madame:m2\d%m
 madan:\m*d2n
 madar:\m%d&
 madara:mo\dor2
@@ -73750,7 +73750,7 @@ nevins:\nev!nz
 nevis:\nev!s
 nevitt:\nev!t
 nevius:\nivi!s
-new:\nju,\nu
+new:\nu
 new-bedford:|nu\bedf&d
 new-bern:nu\b&n
 new-caledonia:\nu|k%l2\d[ni2
@@ -75839,7 +75839,7 @@ ocasio:[\kosi[
 ocaw:[\k>
 occasion:2\k*32n
 occasional:2\k*32n2l
-occasionally:2\k*32n2li,2\k*32nli,2\k*3n2li
+occasionally:2\k*32nli
 occasioned:2\k*32nd
 occasions:2\k*32nz
 occhino:|[\ki|n[
@@ -79176,7 +79176,7 @@ pascuzzi:po\skutsi
 pasek:\posek
 paseo:po\s*|[
 pash:\p%1
-pasha:\po12,p2\1o
+pasha:\po12
 pashley:\p%1li
 pasillas:po\s!l2z
 pasing:\p*s!=
@@ -80547,7 +80547,7 @@ personalize:\p&s2n2|l)z
 personalized:\p&s2n2|l)zd
 personalizes:\p&s2n2|l)z!z
 personalizing:\p&s2n2|l)z!=
-personally:\p&s2n2li,\p&s2nli,\p&sn2li
+personally:\p&s2nli
 personals:\p&s!n!lz
 personic:p&\son!k
 personics:p&\son!ks
@@ -86314,7 +86314,7 @@ rait:\r*t
 raith:\r*0
 raithel:\r*02l
 raitt:\r*t
-raj:\ro8,\ro3
+raj:\ro8
 rajala:ro\8ol2,ro\jol2
 rajaratnam:ro8&\otnom
 rajewski:r)\efski
@@ -86572,7 +86572,7 @@ raper:\r*p&
 rapers:\r*p&z
 rapes:\r*ps
 rapeseed:\r*p|sid
-raphael:\r*fi2l,|rof\jel,|rof)\el
+raphael:\r*fi2l
 raphaela:\r%f)\el2
 raphaelite:r%f\jel)t
 raphalian:r2\f*li2n
@@ -99873,7 +99873,7 @@ sopher:\sof&
 sophia:\s[fi2,s[\fi2
 sophie:\s[fi
 sophisticate:s2\f!st2|k*t,s2\f!st2k2t
-sophisticated:s2\f!st2|k*t!d,s2\f!st!|k*t2d
+sophisticated:s2\f!st2|k*t!d
 sophisticates:s2\f!st2|k!ts
 sophistication:s2|f!st2\k*12n
 sophistry:\s>f!|stri
@@ -111513,7 +111513,7 @@ uruguay:\j&2|gw),\j&2|gw*
 uruguayan:|j&2\gw)2n,|j&2\gw*2n
 urwin:\&w2n
 ury:\j&i,\juri
-us:\2s,|ju\es
+us:\2s
 usa:|ju|e\s*
 usable:\juz2b2l
 usafe:\jus*f
