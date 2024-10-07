@@ -143,9 +143,9 @@ for word in unixes:
          vow_rests[vow][con] = True
       elif con not in vow_rests[vow]:
          vow_rests[vow][con] = True
-for pair in unread:
-   if len(unread[pair]) > 1:
-      print(unread[pair])
+# for pair in unread:
+#    if len(unread[pair]) > 1:
+#       print(unread[pair])
 conflict_cons = {}
 conflict_vows = {}
 print('go')
@@ -161,25 +161,7 @@ for vow in vow_rests:
          if con != con2 and con * OM + con2 not in conflict_cons:
             conflict_cons[con * OM + con2] = True
             conflict_cons[con2 * OM + con] = True
-# for ii in range(len(list_unread)):
-#    i = list_unread[ii]
-#    for ji in range(ii+1, len(list_unread)):
-#       j = list_unread[ji]
-#       if i // OM == j // OM:
-#          i_vow = i % OM
-#          j_vow = j % OM
-#          if i_vow * OM + j_vow not in conflict_vows:
-#             conflict_vows[i_vow * OM + j_vow] = True
-#             conflict_vows[j_vow * OM + i_vow] = True
-#       if i % OM == j % OM:
-#          i_con = i // OM
-#          j_con = j // OM
-#          if i_con * OM + j_con not in conflict_cons:
-#             conflict_cons[i_con * OM + j_con] = True
-#             conflict_cons[j_con * OM + i_con] = True
-print(len(conflict_cons))
-print(len(conflict_vows))
-# print(unread)
+print('main for')
 for i_pair in range(len(list_unread)):
    pair = list_unread[i_pair]
    con = pair // OM
@@ -188,17 +170,21 @@ for i_pair in range(len(list_unread)):
       continue
    found = False
    if con in lcons:
-      lcons_con = lcons[con]
+      lcons_con_OM = lcons[con] * OM
       for registered_vow in lvows:
          lvows_registered_vow = lvows[registered_vow]
-         if vow * OM + lvows_registered_vow not in conflict_vows and  lcons_con * OM + lvows_registered_vow not in accepts:
+         if vow * OM + lvows_registered_vow not in conflict_vows and  lcons_con_OM + lvows_registered_vow not in accepts:
             found = True
-            accepts[lcons_con * OM + lvows_registered_vow] = True
+            accepts[lcons_con_OM + lvows_registered_vow] = True
             lvows[vow] = lvows_registered_vow
             break
       if not found:
-         accepts[lcons_con * OM + vow] = True
+         accepts[lcons_con_OM + vow] = True
          lvows[vow] = vow
+      lvows_vow = lvows[vow]
+      for rest_con in vow_rests[vow]:
+         if rest_con in lcons and lcons[rest_con] * OM + lvows_vow not in accepts:
+            accepts[lcons[rest_con] * OM + lvows_vow] = True
    elif vow in lvows:
       lvows_vow = lvows[vow]
       for registered_con in lcons:
@@ -211,6 +197,10 @@ for i_pair in range(len(list_unread)):
       if not found:
          accepts[con * OM + lvows_vow] = True
          lcons[con] = con
+      lcons_con_OM = lcons[con] * OM
+      for rest_vow in con_rests[con]:
+         if rest_vow in lvows and lcons_con_OM + lvows[rest_vow] not in accepts:
+            accepts[lcons_con_OM + lvows[rest_vow]] = True
    else:
       for i_registered_con in range(len(lcons)):
          registered_con = list(lcons)[i_registered_con]
@@ -235,6 +225,14 @@ for i_pair in range(len(list_unread)):
          accepts[con * OM + vow] = True
          lcons[con] = con
          lvows[vow] = vow
+      lcons_con_OM = lcons[con] * OM
+      for rest_vow in con_rests[con]:
+         if rest_vow in lvows and lcons_con_OM + lvows[rest_vow] not in accepts:
+            accepts[lcons_con_OM + lvows[rest_vow]] = True
+      lvows_vow = lvows[vow]
+      for rest_con in vow_rests[vow]:
+         if rest_con in lcons and lcons[rest_con] * OM + lvows_vow not in accepts:
+            accepts[lcons[rest_con] * OM + lvows_vow] = True
 setcon = list(set(lcons.values()))
 setvow = list(set(lvows.values()))
 print(setcon)

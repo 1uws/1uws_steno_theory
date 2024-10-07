@@ -3,15 +3,14 @@ e
 w
 d
 s
-f g .
+f g !
 ew we
 sd ds
 df fd
 a
-dsf
-r t . 
+r t ! 
 2
-af fa ft tf .
+af fa ft tf !
 aw wa
 fs sf
 z
@@ -37,122 +36,70 @@ cf fc
 qa aq
 wq qw
 c
-wef
-esf
-qf fq fg gf . gd dg . sg gs . ag ga . tg gt . rg gr . ge eg . wg gw . qg gq . gz zg .
+qf fq fg gf ? gd dg ! sg gs ! ag ga ? tg gt . rg gr ? ge eg . wg gw ! qg gq ? gz zg .
 des rsfz ?
 er re tr rt . et te . wt tw . qt tq . at ta . ar ra !
 ae ea
-dsz awez ? dqef ? esfx !
 awf rfxz ?
 wd dw qd dq !
-wsf dwz !
 asf aqxz ?
-dez
 2qw
 qe eq
 cz zc cg gc .
 aef qwsz . dqsf ? qesz . drfz !
 qwf
 rf fr
-das
-dwes
-dex sfx ! qwsf .
 ze ez zw wz ! zq qz !
 1
-ref dqes . aqsf ?
 ad da dt td .
-def dqwx . daqf ?
 zx xz xg gx .
-qwe
 1q q1
 aes
-dws resx ? are ! aqez .
 drf
 rsf
 dc cd
-zxc
 sfz
 az za zt tz . zr rz .
 dae
 dwf
 3d d3
-daf aqz .
 3a a3
 sx xs ax xa . xt tx . xr rx . xe ex ! xw wx . qx xq .
-2d d2
 3as
-qwef rsfx ?
 sr rs
 aws
 rqf
 sc cs
-dsfz arez ?
-2s s2
 zf fz
 xf fx
 3z z3
-dasf daqz .
-awef sxz !
-desf arqe ? asfz ?
-rqwe
 3f f3
 1qw
-dxz
 dfz
-qef dare ! defx ? dwsz ? rwsf ! efxz ? aexz ! wesz ?
 3s s3
 dr rd
 dref
 desz daqw ! qws ! asfx ?
 daw
 sq qs
-arf
-2f f2
-2w w2
 ac ca ct tc . cr rc . ce ec . wc cw . qc cq . 1q ! 1w ! 1e ? 1r ? 1t . 2t . 2r ! 2e ? 2w ! 2q ? 12 ?
 aesf wsxz ? qwxz !
 rqwf dre ! daqx .
-2e e2
-1e e1
-daes
-3c c3
 2as
-1w w1
-arwf qwes ! dqws !
-arsf aesx . aqsz .
-rwef
-rqef
-awsf
-wsfz rexz .
-aref dawx . drex .
-3x x3
-aqf
+daqe qwsx . sfxz ! dqez .
 drsf
-rqe
-wsz dfxz . aefz . dwfz . daqs .
-dwef
 aqe
 arqf
-aez dax !
-esz
-dfx aqfz . drfx ! dres ? ares ! aqws ? dwfx .
 res
-aqw
-daef wexz .
 asz qsfx . axz !
 daq
 resf
 daws wesx .
 dqf qes !
 3zx
-drwf
 dqw
-darf
 dqwf awsx .
-dwsf afxz ? asxz ?
 aqwf qfxz .
-qsf daex .
 aesz qesf ! awxz .
 awsz
 wesf
@@ -162,27 +109,76 @@ dafz rwes ! dwsx . wsfx .
 dawz
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ________________________________________________________________________
-asdef
-asdfr
-zsdef
-daqe qwsx . sfxz ! dqez .
-
+2s s2
+2d d2
+2f f2
+2w w2
+2e e2
+1w w1
+1e 1e
+3x x1
+3c c1
+dez
+aqf
+das
+aqw
+aez dax ?
+daf aqz .
+esf
 daz dafx ! wfxz . daxz !
+dxz
+dsz awez ? dqef ? esfx !
+esz
+rqe
+def dqwx . daqf ?
 dwe aqef ? qexz .
+arf
 wes dsxz ? dqe ? dqfx .
+dsf
+wsf dwz !
+dws resx ? are ! aqez .
+dfx aqfz . drfx ! dres ? ares ! aqws ? dwfx .
+ref dqes . aqsf ?
+qef dare ! defx ? dwsz ? rwsf ! efxz ? aexz ! wesz ?
+wef
+qwe
+wsz dfxz . aefz . dwfz . daqs .
+dex sfx ? qwsf .
 afz dqex . dwx . aqsx . dwex . aqwz . dqwe ?
 dsx dwxz . qesx .
+qsf daex .
+zxc
 aqs asx !
 awes esxz ?
+daes
 dexz
+dsfz arez ?
+qwef rsfx ?
 esfz
+dwes
 aqes
+drwf
+arsf aesx . aqsz .
+rqwe
+wsfz rexz .
 aqwe dwez ? dqfz . dqwz . drez .
+aref dawx . drex .
+dwsf afxz ? asxz ?
+arwf qwes ! dqws !
 arfz
+rwef
+dwef
+dasf daqz .
+darf
+awsf
 arwe
+desf arqe ? asfz ?
+awef sxz !
 desx dsfx ! qsfz .
 dasz dasx .
+daef wexz .
 daez awfz ? resz ! dawf ? drwe .
+rqef
 defz
 dawe wsx .
 

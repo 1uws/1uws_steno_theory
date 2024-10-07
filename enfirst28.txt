@@ -26,11 +26,3 @@ which:w!$
 his:h!z
 have:h%v
 an:%n
-but:b2t
-you:ju
-they:6*
-were:w&
-had:h%d
-we:wi
-all:>l
-one:w2n

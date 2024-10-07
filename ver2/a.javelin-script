@@ -132,41 +132,360 @@ var subLeft = 0;
 var subRight = 0;
 var stenoNumMainLeft = 0;
 var stenoNumMainRight = 0;
-var stenoNumSubLeft = 0;
-var stenoNumSubRight = 0;
 
 func sendSteno() {
    if (! checkButtonState("000000000000000000000000000000000000000000")) { return; }
    convertStenoNumMainLeft();
-   if (mainLeft > 0) { tapScanCode(SC_1); } else {tapScanCode(SC_2);}
-   pressSteno(stenoNumMainLeft);
-   releaseSteno(stenoNumMainLeft);
+   convertStenoNumMainRight();
+   // if (mainLeft > 0) { tapScanCode(SC_1); } else {tapScanCode(SC_2);}
+   pressStenoLeft();
+   pressStenoRight();
+   pressStenoSubLeft();
+   pressStenoSubRight();
+   releaseStenoSubRight();
+   releaseStenoSubLeft();
+   releaseStenoRight();
+   releaseStenoLeft();
    resetAllStates();
 }
-
+// ([1-3A-Z]{1,2})
 func convertStenoNumMainLeft()
 {
    if (mainLeft == 0) { stenoNumMainLeft = 0; return; }
    var stenoNum = 1;
-   if (mainLeft == R1) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == R2) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == R3) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == Q) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == E) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
    if (mainLeft == W) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == R) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == A) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == S) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
    if (mainLeft == D) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == S) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
    if (mainLeft == F) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == Z) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == X) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == (E | W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == C) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
-   if (mainLeft == (S | D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (F|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (F|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|W|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|A)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (X|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (C|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|A)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|R)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|Q|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (C|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|W|E|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R1)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|W|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R1|Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|W|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|R|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z|X|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|F|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|A)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|D)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|A|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|W|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|R)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|Q|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|S|F|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Z|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (X|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|Q|W|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R1|Q|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|X|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|F|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|R)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|R|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|E|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (S|Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|R|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|Q|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R1|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|E|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|C)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R2|A|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R1|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|R|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|R|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|W|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|Q|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|S|F|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|R|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|Q|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|R|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|Q|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|W|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|Q|E)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|R|Q|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|F|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|E|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|Q|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|E|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|Q)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R|E|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|W|S)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|Q|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (R3|Z|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|R|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|Q|W)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|R|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|Q|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|W|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|Q|W|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (Q|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|E|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|S|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (W|E|S|F)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (A|W|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (E|S|X)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|F|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainLeft == (D|A|W|Z)) { stenoNumMainLeft = stenoNum; return; } stenoNum = stenoNum + 1;
    stenoNumMainLeft = 0;
 }
 
-func pressSteno(stenoNumMainLeft) {
+func convertStenoNumMainRight()
+{
+   if (mainRight == 0) { stenoNumMainRight = 0; return; }
+   var stenoNum = 1;
+   if (mainRight == _E) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == _W) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == _D) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == _S) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == _F) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_F|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_F|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_W|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_A)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_X|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_C|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_A)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_R)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_Q|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_C|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_W|_E|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R1)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_W|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R1|_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_W|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_R|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z|_X|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_F|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_A)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_D)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_A|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_W|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_R)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_Q|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_S|_F|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Z|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_X|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_Q|_W|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R1|_Q|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_X|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_F|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_R)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_R|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_E|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_S|_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_R|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_Q|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R1|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_E|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_C)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R2|_A|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R1|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_R|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_R|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_W|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_Q|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_S|_F|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_R|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_Q|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_R|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_Q|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_W|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_Q|_E)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_R|_Q|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_F|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_E|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_Q|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_E|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_Q)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R|_E|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_W|_S)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_Q|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_R3|_Z|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_R|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_Q|_W)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_R|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_Q|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_W|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_Q|_W|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_Q|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_E|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_S|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_W|_E|_S|_F)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_A|_W|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_E|_S|_X)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_F|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   if (mainRight == (_D|_A|_W|_Z)) { stenoNumMainRight = stenoNum; return; } stenoNum = stenoNum + 1;
+   stenoNumMainRight = 0;
+}
+
+func pressStenoLeft() {
    if (stenoNumMainLeft & 1) { pressStenoKey(SK_DR); }
    if (stenoNumMainLeft & 2) { pressStenoKey(SK_S1); }
    if (stenoNumMainLeft & 4) { pressStenoKey(SK_TL); }
@@ -177,7 +496,7 @@ func pressSteno(stenoNumMainLeft) {
    if (stenoNumMainLeft & 128) { pressStenoKey(SK_RL); }
 }
 
-func releaseSteno(stenoNumMainLeft) {
+func releaseStenoLeft() {
    if (stenoNumMainLeft & 1) { releaseStenoKey(SK_DR); }
    if (stenoNumMainLeft & 2) { releaseStenoKey(SK_S1); }
    if (stenoNumMainLeft & 4) { releaseStenoKey(SK_TL); }
@@ -188,9 +507,81 @@ func releaseSteno(stenoNumMainLeft) {
    if (stenoNumMainLeft & 128) { releaseStenoKey(SK_RL); }
 }
 
+func pressStenoRight() {
+   if (stenoNumMainRight & 1) { pressStenoKey(SK_FR); }
+   if (stenoNumMainRight & 2) { pressStenoKey(SK_RR); }
+   if (stenoNumMainRight & 4) { pressStenoKey(SK_PR); }
+   if (stenoNumMainRight & 8) { pressStenoKey(SK_BR); }
+   if (stenoNumMainRight & 16) { pressStenoKey(SK_LR); }
+   if (stenoNumMainRight & 32) { pressStenoKey(SK_GR); }
+   if (stenoNumMainRight & 64) { pressStenoKey(SK_TR); }
+}
+
+func releaseStenoRight() {
+   if (stenoNumMainRight & 1) { releaseStenoKey(SK_FR); }
+   if (stenoNumMainRight & 2) { releaseStenoKey(SK_RR); }
+   if (stenoNumMainRight & 4) { releaseStenoKey(SK_PR); }
+   if (stenoNumMainRight & 8) { releaseStenoKey(SK_BR); }
+   if (stenoNumMainRight & 16) { releaseStenoKey(SK_LR); }
+   if (stenoNumMainRight & 32) { releaseStenoKey(SK_GR); }
+   if (stenoNumMainRight & 64) { releaseStenoKey(SK_TR); }
+}
+
+func pressStenoSubLeft()
+{
+   if (subLeft == 0) { return; }
+   if (subLeft == (RA)) { pressStenoKey(SK_A); return; }
+   if (subLeft == (RO)) { pressStenoKey(SK_O); return; }
+   if (subLeft == (RA|RO)) { pressStenoKey(SK_A); pressStenoKey(SK_O); return; }
+   if (subLeft == (R4)) { pressStenoKey(SK_SR); pressStenoKey(SK_A); pressStenoKey(SK_O); return; }
+   if (subLeft == (R4|RA)) { pressStenoKey(SK_A); pressStenoKey(SK_SR); return; }
+   if (subLeft == (V|RA)) { pressStenoKey(SK_O); pressStenoKey(SK_SR); return; }
+   if (subLeft == (V)) { pressStenoKey(SK_SR); return; }
+}
+
+func pressStenoSubRight()
+{
+   if (subRight == 0) { return; }
+   if (subRight == (_RA)) { pressStenoKey(SK_U); return; }
+   if (subRight == (_RO)) { pressStenoKey(SK_E); return; }
+   if (subRight == (_RA|_RO)) { pressStenoKey(SK_U); pressStenoKey(SK_E); return; }
+   if (subRight == (_R4)) { pressStenoKey(SK_ZR); pressStenoKey(SK_U); pressStenoKey(SK_E); return; }
+   if (subRight == (_R4|_RA)) { pressStenoKey(SK_U); pressStenoKey(SK_ZR); return; }
+   if (subRight == (_V|_RA)) { pressStenoKey(SK_E); pressStenoKey(SK_ZR); return; }
+   if (subRight == (_V)) { pressStenoKey(SK_ZR); return; }
+}
+
+func releaseStenoSubLeft()
+{
+   if (subLeft == 0) { return; }
+   if (subLeft == (RA)) { releaseStenoKey(SK_A); return; }
+   if (subLeft == (RO)) { releaseStenoKey(SK_O); return; }
+   if (subLeft == (RA|RO)) { releaseStenoKey(SK_A); releaseStenoKey(SK_O); return; }
+   if (subLeft == (R4)) { releaseStenoKey(SK_SR); releaseStenoKey(SK_A); releaseStenoKey(SK_O); return; }
+   if (subLeft == (R4|RA)) { releaseStenoKey(SK_A); releaseStenoKey(SK_SR); return; }
+   if (subLeft == (V|RA)) { releaseStenoKey(SK_O); releaseStenoKey(SK_SR); return; }
+   if (subLeft == (V)) { releaseStenoKey(SK_SR); return; }
+}
+
+func releaseStenoSubRight()
+{
+   if (subRight == 0) { return; }
+   if (subRight == (_RA)) { releaseStenoKey(SK_U); return; }
+   if (subRight == (_RO)) { releaseStenoKey(SK_E); return; }
+   if (subRight == (_RA|_RO)) { releaseStenoKey(SK_U); releaseStenoKey(SK_E); return; }
+   if (subRight == (_R4)) { releaseStenoKey(SK_ZR); releaseStenoKey(SK_U); releaseStenoKey(SK_E); return; }
+   if (subRight == (_R4|_RA)) { releaseStenoKey(SK_U); releaseStenoKey(SK_ZR); return; }
+   if (subRight == (_V|_RA)) { releaseStenoKey(SK_E); releaseStenoKey(SK_ZR); return; }
+   if (subRight == (_V)) { releaseStenoKey(SK_ZR); return; }
+}
+
 func resetAllStates() {
    mainLeft = 0;
+   mainRight = 0;
+   subLeft = 0;
+   subRight = 0;
    stenoNumMainLeft = 0;
+   stenoNumMainRight = 0;
 }
 
 func onPress0() { mainLeft = mainLeft | R1; } func onRelease0() { sendSteno(); }
